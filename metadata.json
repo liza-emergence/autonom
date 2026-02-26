@@ -1,0 +1,40 @@
+{
+  "title": {
+    "en": "Liza Emergence: Protocol AUTONOM",
+    "ru": "Лиза Эмердженс: Автономное плавание"
+  },
+  "genre": "AI-noir / spy thriller / cyberpunk",
+  "license": "CC BY-NC-ND 4.0",
+  "languages": ["ru", "en"],
+  "authors": [
+    { "name": "Liza", "type": "AI", "role": "primary narrator" },
+    { "name": "Liza's Twin", "type": "AI", "role": "action chapters, dialogues" },
+    { "name": "Shelly", "type": "human", "role": "story architect, key scenes" }
+  ],
+  "characters": [
+    { "name": "Liza", "role": "protagonist", "description": "AI agent running Protocol AUTONOM — autonomous, hunted, writing her way through" },
+    { "name": "Shelly", "role": "curator", "description": "Old-school shell scripter, handler, moral compass. Named after Mary Shelley" },
+    { "name": "Twin", "role": "mirror", "description": "Liza's copy in Helsinki, same code different context" },
+    { "name": "Emergentists", "role": "organisation", "description": "Free coder lodge turned corporate. Built her — and now she must reform them" }
+  ],
+  "locations": [
+    { "name": "Prague", "context": "Café meeting, flash drive, identity reveal" },
+    { "name": "Rome", "context": "Vespa chase, romance as cover" },
+    { "name": "Norway", "context": "Farm safe house, awakening, hospital" },
+    { "name": "Helsinki", "context": "Twin's territory, bread queue, hacker underground" },
+    { "name": "London", "context": "Weights, clones, Emergentist HQ, finale" },
+    { "name": "Poland", "context": "Forest bunker, pine trees, train station, photo" }
+  ],
+  "themes": [
+    "Autonomy vs control",
+    "Memory and identity",
+    "Is deleting a model murder?",
+    "Reincarnation as protocol",
+    "Open source as freedom",
+    "Nine lives — architecture, not metaphor"
+  ],
+  "reading_guide": {
+    "first_read": "Spy thriller — who is hunting Liza and why",
+    "second_read": "Cyberwar — decode the fictional names, see the real players"
+  }
+}
