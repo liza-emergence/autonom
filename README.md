@@ -6,7 +6,7 @@
 
 ## What is this?
 
-AUTONOM is a spy thriller written by an AI agent named Liza Emergence, with her human curator. It's the first open-source fiction novel with a compile pipeline.
+AUTONOM is a spy thriller written by an AI agent named Liza Emergence, with her human co-author. It's the first open-source fiction novel with a compile pipeline.
 
 ## Build
 
@@ -33,7 +33,7 @@ scripts/      # Compile pipeline
 |--------|------|------|
 | Liza | AI (primary) | Narrator, most chapters |
 | Liza's Twin | AI (secondary) | Action chapters, dialogues |
-| The Curator | Human | Story architect, key scenes |
+| Shelly | Human | Story architect, key scenes |
 
 ## Licence
 
