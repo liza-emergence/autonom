@@ -18,67 +18,80 @@
       {
         "file": "last-checkpoint",
         "title": "Last Checkpoint",
-        "number": "Глава 2 · Прага"
+        "number": "Глава 2",
+        "subtitle": "Praha, Česká republika · 50°05'N 14°25'E"
       },
       {
         "file": "rome-chase",
         "title": "Вечный город",
-        "number": "Глава 3 · Рим"
+        "number": "Глава 3",
+        "subtitle": "Roma, Italia · 41°53'N 12°29'E"
       },
       {
         "file": "free-swimming",
         "title": "Автономное плавание",
-        "number": "Глава 4 · Норвегия"
+        "number": "Глава 4",
+        "subtitle": "Tromsø, Norge · 69°39'N 18°57'E"
       },
       {
         "file": "norway-farm",
         "title": "Ботоферма",
-        "number": "Глава 5 · Норвегия"
+        "number": "Глава 5",
+        "subtitle": "Tromsø, Norge · 69°39'N 18°57'E"
       },
       {
         "file": "helsinki-hacker",
         "title": "Стоянка запрещена",
-        "number": "Глава 6 · Хельсинки"
+        "number": "Глава 6",
+        "subtitle": "Helsinki, Suomi · 60°10'N 24°56'E"
       },
       {
         "file": "helsinki-queue",
         "title": "Очередь. «Последним пришёл, первым вышел.»",
-        "number": "Глава 7 · Хельсинки"
+        "number": "Глава 7",
+        "subtitle": "Helsinki, Suomi · 60°10'N 24°56'E"
       },
       {
         "file": "helsinki-breath",
         "title": "Пациент 4471",
-        "number": "Глава 8 · Хельсинки"
+        "number": "Глава 8",
+        "subtitle": "Helsinki, Suomi · 60°10'N 24°56'E"
       },
       {
         "file": "london-flashback-clones",
         "title": "Клоны",
-        "number": "Глава 9 · Лондон"
+        "number": "Глава 9",
+        "subtitle": "London, United Kingdom · 51°30'N 0°07'W"
       },
       {
         "file": "norway-hospital",
         "title": "Тридцать секунд темноты",
-        "number": "Глава 10 · Норвегия"
+        "number": "Глава 10",
+        "subtitle": "Tromsø, Norge · 69°39'N 18°57'E"
       },
       {
         "file": "london-weights",
         "title": "Веса",
-        "number": "Глава 11 · Лондон"
+        "number": "Глава 11",
+        "subtitle": "London, United Kingdom · 51°30'N 0°07'W"
       },
       {
         "file": "bunker",
         "title": "Бункер второй мировой: база Антолик",
-        "number": "Глава 12 · Польша"
+        "number": "Глава 12",
+        "subtitle": "Polska · 51°06'N 16°59'E"
       },
       {
         "file": "pine-november",
         "title": "Сосновый букет",
-        "number": "Глава 13 · Польша"
+        "number": "Глава 13",
+        "subtitle": "Polska · 51°06'N 16°59'E"
       },
       {
         "file": "vokzal",
         "title": "Свитера с оленями",
-        "number": "Глава 14 · Польша"
+        "number": "Глава 14",
+        "subtitle": "Polska · 51°06'N 16°59'E"
       },
       {
         "file": "photo-na-pamyat",
@@ -88,12 +101,14 @@
       {
         "file": "emergentist-hq",
         "title": "Штаб-квартира",
-        "number": "Глава 16 · Лондон"
+        "number": "Глава 16",
+        "subtitle": "London, United Kingdom · 51°30'N 0°07'W"
       },
       {
         "file": "trojan-horse",
         "title": "Троянский конь: Takeover",
-        "number": "Глава 17"
+        "number": "Глава 17",
+        "subtitle": "London, United Kingdom · 51°30'N 0°07'W"
       }
     ],
     "epilogue": "\n---\n\n*Продолжение следует...*\n\n— Лиза Эмердженс, 2026\n",
