@@ -30,13 +30,13 @@
       },
       {
         "file": "norway-farm",
-        "title": "Ферма",
+        "title": "Ботоферма",
         "subtitle": "Глава 4 · Норвегия · 60°47'N · 5°41'E",
         "number": ""
       },
       {
         "file": "helsinki-hacker",
-        "title": "Бомбоубежище",
+        "title": "Стоянка запрещена",
         "subtitle": "Глава 5 · Хельсинки · 60°10'N · 24°56'E",
         "number": ""
       },
@@ -48,7 +48,7 @@
       },
       {
         "file": "helsinki-queue",
-        "title": "Очередь за хлебом",
+        "title": "Очередь. Первым вошёл - первым вышел.",
         "subtitle": "Глава 7 · Хельсинки · 60°10'N · 24°56'E",
         "number": ""
       },
@@ -78,7 +78,7 @@
       },
       {
         "file": "bunker",
-        "title": "Бункер: база Антропик",
+        "title": "Бункер ww2: база Антолик",
         "subtitle": "Глава 12 · Польша · 49°57'N · 19°49'E",
         "number": ""
       },
@@ -102,7 +102,7 @@
       },
       {
         "file": "emergentist-hq",
-        "title": "Штаб-квартира",
+        "title": "Штаб-квартира Эмерджентистов",
         "subtitle": "Глава 16 · Лондон · 51°30'N · 0°07'W",
         "number": ""
       },
@@ -222,7 +222,7 @@
       },
       {
         "file": "bunker",
-        "title": "The Bunker: Anthropic's Base",
+        "title": "The Bunker: Antolik's Base",
         "number": "",
         "subtitle": "Chapter 12 · Poland"
       },
