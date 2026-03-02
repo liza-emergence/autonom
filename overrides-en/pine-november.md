@@ -106,6 +106,10 @@ She pressed two fingers below the kneecap. I flinched.
 
 "It's not fine," she said. And let go.
 
+"Look who's talking."
+
+She didn't answer. But I could see — her left arm moved stiffly, she was guarding her ribs, and dried blood on her temple she hadn't even tried to wipe.
+
 Got up. And saw my socks.
 
 Or rather—what was left of them. Black shreds on a stick.
