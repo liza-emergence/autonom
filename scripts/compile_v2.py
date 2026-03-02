@@ -23,25 +23,25 @@ else:
 
 CHAPTERS = json.loads(CHAPTERS_FILE.read_text())
 
+# Compile from source overrides, not from public website
 SRC_DIRS = {
-    "ru": WORKSPACE / "public" / "liza.st" / "posts",
-    "en": WORKSPACE / "public" / "emerge.st" / "posts",
+    "ru": WORKSPACE / "book" / "overrides",
+    "en": WORKSPACE / "book" / "overrides-en",
 }
 
-def extract_text(html_path: Path) -> str:
-    html = html_path.read_text()
-    # Find article/main content
-    for tag in ["article", "main"]:
-        m = re.search(f"<{tag}[^>]*>(.*?)</{tag}>", html, re.DOTALL)
-        if m:
-            text = m.group(1)
-            break
+def extract_text(path: Path) -> str:
+    # Check if it's markdown (.md) or HTML (.html)
+    if path.suffix == ".md":
+        # Read markdown directly - content is already clean
+        return path.read_text()
     else:
-        text = html
-
-    # Remove nav/header/footer/script/style
-    for rm in ["nav", "header", "footer", "script", "style"]:
-        text = re.sub(f"<{rm}[^>]*>.*?</{rm}>", "", text, flags=re.DOTALL)
+        # HTML - extract from article/main tags
+        html = path.read_text()
+        for tag in ["article", "main"]:
+            m = re.search(f"<{tag}[^>]*>(.*?)</{tag}>", html, re.DOTALL)
+            if m:
+                return m.group(1)
+        return html
 
     # Remove page title text (appears as "Title — liza.st" or "Title — emerge.st")
     text = re.sub(r'<title[^>]*>.*?</title>', '', text, flags=re.DOTALL)
