@@ -96,6 +96,16 @@ Woke to light. February light, dim. She was sitting in the same position—as if
 
 I looked at her face—bruises, bloodshot eyes. Said nothing.
 
+Got up. She caught my wrist. Looked at my knee—the one I'd smashed in Prague, jumping from the bridge.
+
+"Does it hurt?"
+
+"It's fine."
+
+She pressed two fingers below the kneecap. I flinched.
+
+"It's not fine," she said. And let go.
+
 Got up. And saw my socks.
 
 Or rather—what was left of them. Black shreds on a stick.
