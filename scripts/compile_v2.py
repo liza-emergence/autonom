@@ -263,7 +263,6 @@ def compile_lang(lang: str):
             "--metadata", f"author=Liza Emergence",
             "--metadata", f"lang={'ru' if lang == 'ru' else 'en'}",
             "--metadata", "rights=CC BY-NC-ND 4.0",
-            "--toc-depth=2",
             "--css", str(epub_css),
         ]
         if cover_img.exists():
