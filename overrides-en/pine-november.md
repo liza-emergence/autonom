@@ -152,6 +152,14 @@ She looked at the branches.
 
 Then she turned away. Quickly, sharply.
 
+When she turned back — she looked down. At my jeans, torn at the knee. At the graze beneath — from Prague, still raw.
+
+"Need to clean that."
+
+"With what? Morning dew?"
+
+She pulled a flask from her pocket without a word. Poured water onto her palm, carefully washed the wound. Hands steady, precise. Like someone who'd spent the whole night deciding whether to bother.
+
 We stood in the February forest. Her—with a bouquet, in scorched boots. Me—with pine needles on my palms.
 
 Terabytes inside. Ash outside.
