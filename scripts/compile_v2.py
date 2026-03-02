@@ -234,7 +234,7 @@ def compile_lang(lang: str):
     # PDF via pandoc → HTML → weasyprint
     pdf_file = OUT_DIR / f"autonom-{lang}.pdf"
     html_file = OUT_DIR / f"autonom-{lang}.html"
-    css_file = SCRIPT_DIR / "novel.css"
+    css_file = WORKSPACE / "book" / "novel.css"
     try:
         # MD → HTML
         subprocess.run([
