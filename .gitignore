@@ -1,0 +1,14 @@
+# Build output
+out/
+*.pdf
+*.epub
+
+# Drafts & working files (local only)
+drafts/
+parking/
+chapters/
+
+# System
+.DS_Store
+__pycache__/
+*.pyc
