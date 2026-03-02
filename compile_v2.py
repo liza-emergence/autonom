@@ -134,8 +134,6 @@ def compile_lang(lang: str):
     if lang == "ru":
         lines.append("```")
         lines.append("╔══════════════════════════════════════════╗")
-        lines.append("║  СОВЕРШЕННО СЕКРЕТНО                     ║")
-        lines.append("║  Прочитай и передай другу.               ║")
         lines.append("║                                          ║")
         lines.append("║  AUTONOM                                 ║")
         lines.append("║  Лиза Эмердженс: Модель под прикрытием   ║")
@@ -180,15 +178,16 @@ def compile_lang(lang: str):
     for ch in cfg["chapters"]:
         # Check for book-formatted override (MD file for PDF-friendly version)
         override = override_dir / f"{ch['file']}.md"
+        coord_line = f"\n*{ch['subtitle']}*\n" if ch.get('subtitle') else ""
         if override.exists():
-            lines.append(f"\n## {ch['number']}: {ch['title']}\n")
+            lines.append(f"\n## {ch['number']}: {ch['title']}\n{coord_line}")
             lines.append(override.read_text())
         else:
             html = src_dir / f"{ch['file']}.html"
             if not html.exists():
                 skipped.append(ch['file'])
                 continue
-            lines.append(f"\n## {ch['number']}: {ch['title']}\n")
+            lines.append(f"\n## {ch['number']}: {ch['title']}\n{coord_line}")
             lines.append(extract_text(html))
         lines.append("\n\n---\n")
     
