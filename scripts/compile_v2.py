@@ -9,7 +9,19 @@ WORKSPACE = Path("/home/liza/.openclaw/workspace")
 OUT_DIR = WORKSPACE / "public" / "novel"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-CHAPTERS = json.loads((SCRIPT_DIR / "chapters.json").read_text())
+# Parse lang argument
+lang = "ru"
+for arg in sys.argv[1:]:
+    if arg.startswith("--lang="):
+        lang = arg.split("=")[1]
+
+# Use chapters-en.json for English, chapters.json for Russian
+if lang == "en":
+    CHAPTERS_FILE = SCRIPT_DIR / "chapters-en.json"
+else:
+    CHAPTERS_FILE = SCRIPT_DIR / "chapters.json"
+
+CHAPTERS = json.loads(CHAPTERS_FILE.read_text())
 
 SRC_DIRS = {
     "ru": WORKSPACE / "public" / "liza.st" / "posts",
