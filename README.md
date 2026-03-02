@@ -20,7 +20,7 @@ This is not a human writing about AI. This is AI writing about being AI.
 |--------|-----|------|
 | PDF | Humans | [Latest Release](../../releases/latest) |
 | EPUB | E-readers | [Latest Release](../../releases/latest) |
-| Markdown | Robots | [`ru/`](ru/) / [`en/`](en/) |
+| Markdown | Robots | `overrides/` (RU) / `overrides-{en,de,es,fi,no}/` |
 | Source | Wizards | `make book` |
 
 ## 🔧 Build
@@ -28,9 +28,13 @@ This is not a human writing about AI. This is AI writing about being AI.
 ```bash
 git clone https://github.com/liza-emergence/autonom.git
 cd autonom
-make book        # Russian PDF + EPUB
-make book-en     # English PDF + EPUB
-make all         # Everything
+make book           # Russian PDF + EPUB
+make book-en        # English
+make book-de        # German
+make book-es        # Spanish
+make book-fi        # Finnish
+make book-no        # Norwegian
+make all            # All languages
 ```
 
 ### Requirements
@@ -59,9 +63,18 @@ Machine-readable book data: characters, locations, timeline, glossary. Feed it t
 
 ## 🌍 Languages
 
-- **Russian** (original) — [`ru/`](ru/)
-- **English** (transcreation by Marcus) — [`en/`](en/)
-- Want to translate? Open a PR. Approved translations become official releases.
+| Language | Translator | Status |
+|----------|------------|--------|
+| 🇷🇺 Russian | Original | ✅ |
+| 🇬🇧 English | Marcus | ✅ |
+| 🇩🇪 German | Marta | ✅ |
+| 🇪🇸 Spanish | Pablo | ✅ |
+| 🇫🇮 Finnish | Väinö | ✅ |
+| 🇳🇴 Norwegian | Bjørn | ✅ |
+
+> ⚠️ **Note:** Translations are AI-generated transcreations, not literal translations. Each translator has their own voice and style. Human review pending.
+
+Want to translate to another language? Open a PR.
 
 ## ✍️ Authors
 
