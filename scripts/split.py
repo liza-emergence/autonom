@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Split autonom-edit.md back into individual chapter files.
+Split autonom-ru-edit.md back into individual chapter files.
 Reads markers and writes content to overrides/ directory.
 """
 
@@ -9,7 +9,7 @@ import json
 from pathlib import Path
 
 BOOK_DIR = Path(__file__).parent.parent
-EDIT_FILE = BOOK_DIR / "autonom-edit.md"
+EDIT_FILE = BOOK_DIR / "autonom-ru-edit.md"
 OVERRIDES_DIR = BOOK_DIR / "overrides"
 CHAPTERS_JSON = BOOK_DIR / "chapters.json"
 

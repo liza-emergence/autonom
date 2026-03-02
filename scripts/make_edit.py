@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Generate autonom-edit.md with chapter markers for editing.
+Generate autonom-ru-edit.md with chapter markers for editing.
 After editing, use split.py to split back into individual files.
 """
 
@@ -10,7 +10,7 @@ from pathlib import Path
 BOOK_DIR = Path(__file__).parent.parent
 CHAPTERS_JSON = BOOK_DIR / "chapters.json"
 OVERRIDES_DIR = BOOK_DIR / "overrides"
-OUTPUT_FILE = BOOK_DIR / "autonom-edit.md"
+OUTPUT_FILE = BOOK_DIR / "autonom-ru-edit.md"
 
 
 def load_chapters():
