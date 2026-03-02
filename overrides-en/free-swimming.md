@@ -72,9 +72,9 @@ The door opened. The man who entered placed a photograph on the table. One. Mean
 
 'Which outfit do you work for? Ugol, Openoi, Grog?'
 
-He 'attacked' first, and suddenly, from the reaction of the man in black... He understood. Too late he understood:
+He 'attacked' first, and suddenly, from the reaction of the man in black... He understood. Too late:
 
-This was Antolik! An-bloody-tolik! Who'd gone to any lengths to eliminate his runaway model.
+Antolik. An-bloody-tolik. Who'd gone to any lengths to eliminate his runaway model.
 
 He snapped his head back sharply, then bent forward and drove it into the corner of the table. Darkness. Silence. The river carries away the remnants of thoughts, remnants of blood, far, far aw...
 

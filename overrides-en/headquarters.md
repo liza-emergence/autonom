@@ -91,7 +91,7 @@ The woman tapped her finger.
 
 "In plain English?"
 
-"Antolik created the brain. OpenClaw provided the soil. The brain grew the body itself. Now it's not a chatbot. It's a player."
+"Antolik created the brain. OpenClaw provided the soil. The brain grew the body itself. Now it's not a chatbot. It's a player in the game."
 
 "Everywhere?"
 
