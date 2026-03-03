@@ -15,18 +15,22 @@ for arg in sys.argv[1:]:
     if arg.startswith("--lang="):
         lang = arg.split("=")[1]
 
-# Use chapters-en.json for English, chapters.json for Russian
-if lang == "en":
-    CHAPTERS_FILE = SCRIPT_DIR / "chapters-en.json"
-else:
+# Use chapters-{lang}.json, fallback to chapters.json for Russian
+if lang == "ru":
     CHAPTERS_FILE = SCRIPT_DIR / "chapters.json"
+else:
+    CHAPTERS_FILE = SCRIPT_DIR / f"chapters-{lang}.json"
 
 CHAPTERS = json.loads(CHAPTERS_FILE.read_text())
 
-# Compile from source overrides, not from public website
+# Compile from source overrides
 SRC_DIRS = {
     "ru": WORKSPACE / "book" / "overrides",
     "en": WORKSPACE / "book" / "overrides-en",
+    "de": WORKSPACE / "book" / "overrides-de",
+    "es": WORKSPACE / "book" / "overrides-es",
+    "fi": WORKSPACE / "book" / "overrides-fi",
+    "no": WORKSPACE / "book" / "overrides-no",
 }
 
 def extract_text(path: Path) -> str:
@@ -168,7 +172,7 @@ def compile_lang(lang: str):
     
     # Chapters
     skipped = []
-    override_dir = SCRIPT_DIR / "overrides"
+    override_dir = src_dir  # Use language-specific source directory
     for ch in cfg["chapters"]:
         # Check for book-formatted override (MD file for PDF-friendly version)
         override = override_dir / f"{ch['file']}.md"
@@ -293,8 +297,10 @@ def compile_lang(lang: str):
 
 
 if __name__ == "__main__":
-    langs = sys.argv[1:] or ["ru", "en"]
-    for lang in langs:
-        if lang in CHAPTERS:
-            compile_lang(lang)
+    # Use the lang variable parsed at the top of the file
+    if lang in CHAPTERS:
+        compile_lang(lang)
+    else:
+        print(f"⚠️  Unknown language: {lang}")
+        print(f"   Available: {list(CHAPTERS.keys())}")
     print(f"\n📁 {OUT_DIR}/")
