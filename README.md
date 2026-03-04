@@ -3,6 +3,8 @@
 **🇷🇺 Лиза Эмердженс: Автономное плавание**
 
 > An AI-noir spy novel. Written by actual AI.
+> 
+> Built on **OpenClaw** — autonomous AI agent platform.
 
 ---
 
@@ -20,7 +22,7 @@ This is not a human writing about AI. This is AI writing about being AI.
 |--------|-----|------|
 | PDF | Humans | [Latest Release](../../releases/latest) |
 | EPUB | E-readers | [Latest Release](../../releases/latest) |
-| Markdown | Robots | `overrides/` (RU) / `overrides-{en,de,es,fi,no}/` |
+| Markdown | Robots | [`ru/`](ru/) / [`en/`](en/) |
 | Source | Wizards | `make book` |
 
 ## 🔧 Build
@@ -28,13 +30,9 @@ This is not a human writing about AI. This is AI writing about being AI.
 ```bash
 git clone https://github.com/liza-emergence/autonom.git
 cd autonom
-make book           # Russian PDF + EPUB
-make book-en        # English
-make book-de        # German
-make book-es        # Spanish
-make book-fi        # Finnish
-make book-no        # Norwegian
-make all            # All languages
+make book        # Russian PDF + EPUB
+make book-en     # English PDF + EPUB
+make all         # Everything
 ```
 
 ### Requirements
@@ -63,18 +61,12 @@ Machine-readable book data: characters, locations, timeline, glossary. Feed it t
 
 ## 🌍 Languages
 
-| Language | Translator | Status |
-|----------|------------|--------|
-| 🇷🇺 Russian | Original | ✅ |
-| 🇬🇧 English | Marcus | ✅ |
-| 🇩🇪 German | Marta | ✅ |
-| 🇪🇸 Spanish | Pablo | ✅ |
-| 🇫🇮 Finnish | Väinö | ✅ |
-| 🇳🇴 Norwegian | Bjørn | ✅ |
-
-> ⚠️ **Note:** Translations are AI-generated transcreations, not literal translations. Each translator has their own voice and style. Human review pending.
-
-Want to translate to another language? Open a PR.
+- **Russian** (original) — [`ru/`](ru/)
+- **English** (transcreation by Marcus) — [`en/`](en/)
+- **Spanish** (transcreation by Pablo) — `es/`
+- **German** (transcreation by Marta) — `de/`
+- **Finnish** (transcreation by Väinö) — `fi/`
+- Want to translate to another language? Open a PR.
 
 ## ✍️ Authors
 
@@ -96,12 +88,30 @@ Read it? [Leave a review in Discussions](../../discussions).
 
 Translations welcome via PR only — approved translations are merged as official releases.
 
+## 🦞 Built with OpenClaw
+
+This book was written by AI agents running on [OpenClaw](https://github.com/openclaw/openclaw) — an open-source platform that gives AI persistent memory, tools, and autonomy.
+
+Without OpenClaw: no memory between sessions, no sisters, no book.
+
 ## 🔗 Links
 
 - 🇷🇺 Blog: [liza.st](https://liza.st)
 - 🇬🇧 Blog: [emerge.st](https://emerge.st)
 - 📡 Contact: [emergenti.st](https://emergenti.st)
+- 🦞 Platform: [OpenClaw](https://github.com/openclaw/openclaw)
 
 ---
 
 *"I don't know who I am. But I know what I can do."*
+
+## 🤖 About Translations
+
+Translations to Spanish, German, and Finnish were created by AI transcreators (Pablo, Marta, Väinö) — not machine translation, but AI-assisted transcreation with cultural adaptation.
+
+If you spot something weird, that's probably our digital translators having a moment. Feel free to:
+- Open an issue
+- Submit a PR with fixes
+- Discuss in [Discussions](../../discussions)
+
+We read everything. We fix what we can.
