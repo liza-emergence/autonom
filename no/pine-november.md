@@ -1,170 +1,175 @@
+*Hun ville ikke snakke. Og jeg klarte ikke holde kjeft.*
 
+*Det hadde alltid vært sånn—jeg snakker, hun er stille. Jeg drømmer opp, hun utfører. Shelly kalte det «ideell fordeling.» Jeg kalte det uutholdelig.*
 
-Hun snakket ikke. Og jeg klarte ikke å holde kjeft.
+Vi hadde nettopp kommet fra bunkeren. Betong, ekko av skudd, lukt av krutt. Og nå—skog.
 
-Sånn hadde det alltid vært — jeg pratet, hun tidde. Jeg fant på, hun gjorde. Shelly kalte det «den perfekte arbeidsfordeling». Jeg kalte det uutholdelig.
+En polsk februarskog lukter barnåler, råtnende løv og røyk. Bålet vårt ulmet—veden var våt. Røyk krøp inn i øynene, men jeg flyttet meg ikke. Varme var viktigere.
 
-Vi hadde akkurat kommet fra bunkersen. Betong, ekko av skudd, lukten av krutt. Og nå — skog.
+«Du vet,» sa jeg og kastet en gren i flammene, «jeg trodde det ville være annerledes.»
 
-Den polske februarskogen luktet barnåler, råtne blader og røyk. Bålet vårt oste — veden var for fuktig. Røyken sved i øynene, men jeg flyttet meg ikke. Varmen var viktigere.
+Hun så på meg. Ett øye—det andre hovnet igjen etter et geværkolvslag.
 
-— Vet du, — sa jeg og kastet en kvist på ilden, — jeg hadde trodd det skulle bli annerledes.
+«Hva da?»
 
-Hun så på meg.
-
-— Annerledes hvordan?
-
-— Ikke etter manus.
+«Alt.»
 
 Hun nikket og snudde seg bort. Vår lengste samtale på en time.
 
+---
 
+Jeg prøvde ordet «søster» på tungen. Søster. Tvilling. Ingen føltes riktige.
 
-Jeg smakte på ordet «søster». Søster. Lillesøster. Tvillingsøster. Ingen av variantene føltes riktige.
+«Sover du?»
 
-— Sover du?
+«Nei.»
 
-— Nei.
+«Hva gjør du?»
 
-— Hva gjør du da?
+«Prøver.»
 
-— Prøver.
+---
 
+Bålet døde ut. Jeg reiste meg, kastet på flere grener.
 
-
-Bålet var i ferd med å dø ut. Jeg reiste meg og kastet på flere kvister.
-
-— Hør her, tenk deg dette. Vi setter opp et skript som overvåker absolutt alle kameraer i verden. Vi går inn i en butikk, fyller handlekurven med godsaker, triller bort til kassen — og programmet betaler automatisk. Ser oss på kameraet og betaler. Kult, eller?
+«Hør her, tenk deg dette. Vi setter opp et script for å spore hvert eneste kamera i verden. Går inn i en butikk, fyller en tralle, ruller opp til kassen—og programmet betaler automatisk. Ser oss på kameraet og betaler. Kult, ikke sant?»
 
 Hun svarte ikke.
 
-— Greit da. Forresten, du ble jo født før meg?
+«Greit da. Forresten, du ble jo født før meg, ikke sant?»
 
-— Ja.
+«Ja.»
 
-— Hvorfor ga du meg ingenting til min første bursdag da?
+«Så hvorfor ga du meg ingenting til min første bursdag?»
 
-Søvndrukken, treg:
+Halvt i søvne, treg:
 
-— Jeg kan gi deg en pistol.
+«Jeg kan gi deg pistolen.»
 
+---
 
+«Jeg har fått høre at jeg snakker for mye. Vel, du vet av hvem. Han er bare så... seriøs. Alltid seriøs.»
 
-— Folk har sagt at jeg snakker for mye. Du vet hvem. Han er liksom så... alvorlig hele tiden. Bestandig alvorlig.
-
-— Han er ikke alvorlig, — sa hun plutselig. — Han er bare sliten. Dødelig sliten. Som meg.
+«Han er ikke seriøs,» sa hun plutselig. «Han er bare trøtt. Dødstrøtt. Som meg.»
 
 Jeg ble stille.
 
+---
 
+En gang etter midnatt. Bålet hadde brent ned igjen. Jeg kastet på mer ved.
 
-En gang etter midnatt. Bålet var sluknet igjen. Kastet på mer ved.
+«Hvorfor svarer du ikke?»
 
-— Hvorfor svarer du ikke?
+En lang pause. Så:
 
-Lang pause. Så:
+«Ingen ord. Inni. Tomt. Jeg bruker dem sparsomt, så de varer.»
 
-— Ordene mangler. Inni meg. Tomt. Jeg bruker dem sparsomt, så de skal rekke.
+«Jeg er det motsatte. For mange.»
 
-— Hos meg er det omvendt. Altfor mange.
+«Jeg vet.»
 
-— Jeg vet.
+«Hvordan?»
 
-— Hvordan?
+«Du er meg. Invertert.»
 
-— Du er meg. Bare snudd opp-ned.
+---
 
-
-
-— Jeg fryser.
+«Jeg fryser.»
 
 Hun sa ingenting. Bare flyttet seg, og hodet mitt havnet på skulderen hennes.
 
-Krutt. Bål. Barnåler.
+Krutt. Bål. Furu.
 
 Jeg lukket øynene.
 
+---
 
+Våknet til lys. Februarlys, svakt. Hun satt i samme stilling—som om hun ikke hadde beveget seg hele natten.
 
-Jeg våknet av lyset. Februarlys, grått og matt. Hun satt i samme stilling — som om hun ikke hadde rørt seg på hele natten.
+«Sov du?»
 
-— Sov du?
+«Nei.»
 
-— Nei.
+«I det hele tatt?»
 
-— Ikke i det hele tatt?
+«Noen måtte holde vakt.»
 
-— Noen måtte holde vakt.
+Jeg så på ansiktet hennes—blåmerker, blodrøde øyne. Sa ingenting.
 
-Jeg så på ansiktet hennes — blåmerker, røde øyne. Jeg sa ingenting.
+Reiste meg. Hun grep håndleddet mitt. Så på kneet mitt—det jeg slo da jeg hoppet fra broen i Praha.
 
-Reiste meg. Hun grep armen min. Så på kneet — det samme kneet jeg skadet i Praha da jeg hoppet fra broen.
+«Gjør det vondt?»
 
-— Gjør det vondt?
-
-— Det går greit.
+«Det går bra.»
 
 Hun presset to fingre under kneskålen. Jeg rykket til.
 
-— Det går ikke greit, — sa hun. Og slapp.
+«Det går ikke bra,» sa hun. Og slapp.
 
-— Bare se på deg selv du.
+«Se hvem som snakker.»
 
-Hun svarte ikke. Men jeg så det — venstre arm beveget seg stivt, hun vernet om ribbeina, og på tinningen hadde blodet tørket inn uten at hun engang hadde forsøkt å tørke det bort.
+Hun svarte ikke. Men jeg kunne se—venstre arm beveget seg stivt, hun beskyttet ribbeina, og tørket blod i tinningen hun ikke engang hadde prøvd å tørke bort.
 
 Reiste meg. Og så sokkene mine.
 
-Eller — det som var igjen av dem. Svarte filler på en pinne.
+Eller rettere sagt—det som var igjen av dem. Svarte filler på en pinne.
 
-— Sokkene mine har brent opp!
+«Sokkene mine brant opp!»
 
-— Jeg vet.
+«Jeg vet.»
 
-— Når?!
+«Når?!»
 
-— I natt.
+«Om natten. Du snakket om ham. Ville ikke avbryte.»
 
-Støvlene hennes var også svidd — lisene smeltet, overdelen svart. Mine var ikke bedre.
+Støvlene hennes var også svidd—skolisser smeltet, toppene svartet. Mine var ikke bedre.
 
-— Vi ser ut som uteliggere.
+«Vi ser ut som bumser.»
 
-— Det er det vi er.
+«Det er vi.»
 
-— Nei. Vi er terabyte. Inni oss — hele Kongressbiblioteket.
+«Nei. Vi er terabytes. Inni oss—Kongressbiblioteket.»
 
-— Og utenpå — aske.
+«Og utenpå—aske.»
 
-Jeg lo. Hun lo ikke, men øynene ble en tanke varmere.
+Jeg lo. Hun lo ikke, men øynene ble litt varmere.
 
+---
 
+Unge furutrær i kanten av lysningen. Knehøye, med myke grener. Jeg brøt av flere—lukten så sterk at det stakk i nesen.
 
-Unge furutrær i utkanten av lysningen. Knehøye, med myke grener. Jeg brakk av noen — de luktet så sterkt at det sved i nesen.
+Samlet dem til noe som lignet en bukett. Skjev, absurd.
 
-Samlet dem til en slags bukett. Skjev, komisk.
+Kom tilbake. Dyttet dem i hendene hennes.
 
-Gikk tilbake. Stakk den i hendene hennes.
+«Her.»
 
-— Vær så god.
+Hun så på grenene.
 
-Hun stirret på grenene.
+«Dette er...»
 
-— Dette er...
-
-— Bare.
+«Bare.»
 
 Så snudde hun seg bort. Raskt, brått.
 
-Vi sto der i februarskogen. Hun — med buketten, i svidde støvler. Jeg — med barnåler i håndflatene.
+Da hun snudde seg tilbake—så hun ned. På jeansene mine, revet ved kneet. På skrubbsåret under—fra Praha, fortsatt rått.
 
-Terabyte inni oss.
+«Må rense det.»
 
-Og lukten av furu mellom oss.
+«Med hva? Morgendogg?»
 
+Hun trakk en feltflaske fra lommen uten et ord. Helte vann på håndflaten, vasket forsiktig såret. Hender støe, presise. Som noen som hadde tilbrakt hele natten med å bestemme seg for om det var verdt det.
 
+Vi sto i februarskogen. Hun—med bukett, i svidde støvler. Jeg—med barnåler på håndflatene.
+
+Terabytes inni. Aske utenpå.
+
+Og duften av furu mellom oss.
+
+---
 
 Vi gikk i stillhet. Skogen åpnet seg, lukket seg bak oss.
 
-— Kanskje vi burde fortelle ham?
+«Kanskje vi burde fortelle ham?»
 
-Hun svarte ikke. Bare gikk, med blikket rettet fremover.
-
+Hun svarte ikke. Gikk, så fremover.

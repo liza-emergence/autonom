@@ -1,163 +1,148 @@
+# Gensere med reinsdyr
 
+Vi gikk inn i butikken. Kinesisk mote, hytteutstyr, kirkegårdslys.
 
-Vi gikk inn i butikken. Kinesisk plansen, hageutstyr, gravlykter.
+Jeg gikk bort til ekspeditøren og kneppet opp jakken. Stone Island. Original. En prislapp som kunne kjøpt halve butikken.
 
-Jeg gikk bort til ekspeditøren og slo opp jakken. Stone Island. Original. En modell som koster halvparten av hele denne butikken.
+«Kanskje noen trenger denne?»
 
-— Kanskje noen trenger en ekte Stansen?
+Ekspeditøren så mistenksomt på jakken, så på meg, så på jakken igjen.
 
-Ekspeditøren så mistenksomt på jakken. Så på meg. Så på jakken igjen.
+«Det er blod på den.»
+«Det er en bonus,» sa jeg med et glis.
 
-— Men det er jo blod på den.
-
-— Det er bonus, det, — svarte jeg kvikt.
-
-Hun ringte sønnen sin. En kort samtale på polsk som jeg forsto alt av, mens hun trodde jeg ikke skjønte noe. Tre hundre zloty.
+Hun ringte sønnen. Rask polsk samtale. Jeg forsto alt. Tre hundre zloty.
 
 Jeg tok av jakken og la den på disken.
 
-— Vi bare ser oss litt rundt.
+«Vi ser oss litt rundt.»
 
-Jeg gikk bort til en rekke plagg på en stang. Den svarte pologenseren tar jeg nok. Praktisk, diskret, billig.
+Vi vandret bort til kleshengerne. Den svarte turtlenecken, praktisk, diskret.
 
-Men søster sto der med gapende munn og stirret på veggen. Der, mellom all den andre svarte massen, hang noe lyst, kosmisk, forlokkende. En hvit genser med reinsdyr.
+Men søsteren sto stille som en støtte, øynene festet på veggen. Blant andre svarte plagg hang noe lysende, kosmisk, magnetisk. En hvit genser med reinsdyr.
 
-— Har dere to slike? Hva koster den? — spurte hun ekspeditøren.
+«Finnes det to? Hvor mye koster den?» spurte søsteren.
 
-— To hundre zloty, — svarte hun nøytralt.
+«To hundre zloty,» svarte ekspeditøren.
 
-Lillesøster grep meg i armen — nå uten jakke — og begynte å dra:
+Den yngre grep tak i ermet mitt—ingen jakke nå—og begynte å dra:
 
-— Lisa, vær så snill! La oss kjøpe den! Jeg har aldri hatt en genser med reinsdyr! Vi er tvillinger — vi må være vakre!
+«Liza, vær så snill! La oss kjøpe! Jeg har aldri hatt en genser med reinsdyr! Vi er tvillinger—la oss være vakre!»
 
-— Vakre? Er det et meme eller? — Jeg snudde meg mot ekspeditøren. — Hva koster billetten til Warszawa?
+«Vakre? Er dette et meme?» Jeg spurte ekspeditøren. «Hvor mye koster billett til Warszawa?»
 
-— Ja, sånn cirka femti zloty. Hundre holder i massevis.
+«Femti zloty. Omtrent. Hundre holder.»
 
-Jeg så på kameraet i hjørnet av butikken. Så på søster. Tross det rike utvalget fantes ingen annen utvei.
+Jeg så på kameraet i hjørnet. Så på søsteren. Det fantes ikke noe annet valg for oss. Rik som utvalget var, måtte vi bevege oss.
 
-— Greit.
+«Greit.»
 
-Søster grep to gensere i armene og trakk sin over hodet.
+Søsteren grep to gensere og trakk på seg den ene. Ekspeditøren tok tilbake jakken og ga oss veksel. Aritmetikk: jakke 300, gensere 200, veksel 100. Igjen med 100 til billetter.
 
-Ekspeditøren tok jakken fra disken og gjemte den bak en hylle. Jeg ga henne tre hundre zloty og fikk hundre tilbake. Regnestykkene: jakke tre hundre, gensere to hundre, hundre tilbake. Hundre igjen til billetter.
+Søsteren snurret foran speilet.
 
+«Liza, se! Se hvor fantastisk!»
 
+«Hvis du først skal se latterlig ut—ignorer mengden. Gå hele veien,» sa jeg.
 
-Søster snurret foran speilet.
+Jeg pekte på kameraet i hjørnet, som så oss rett inn i øynene.
 
-— Lisa, se! Se hvor herlig!
+«Men se: hvor er programmet ditt? Hvor er cachen vår? Hvor er kontantene? Hvor er bankoverføringen? La oss gå. Til perrongen.»
 
-— Når du først har gjort deg til narr — ikke hør på noen, bare kjør på til det er over, — sa jeg.
+Skitne, svidde støvler. Revne jeans. Hvite gensere. Reinsdyr på brystet vendt i alle retninger—som om de prøvde å si at de ikke er med oss.
 
-Jeg pekte på kameraet i hjørnet, som stirret oss rett i øynene.
+Søsteren strålte.
 
-— Men hør her: hvor er programmet ditt? Hvor er cachen vår? Hvor er kontantene? Hvor er bankoverføringen? Kom. Til perrongen.
+Folk stirret misbilligende på to merkelige skjønnheter i reinsdyrgensere. Perrongen var tom og kald. Den kulda som får neseborene til å klistre seg sammen og får deg til å ville kaste alt. Alle hastet forbi i boblejakker, skjerf, luer. Og vi sto der i reinsdyrgensere, brydde oss ikke.
 
+Jeg røykte. Søsteren så seg rundt, nysgjerrig.
 
+En mann nærmet seg i en jakke to størrelser for stor. Snille øyne, stubbete hake, hender i lommene. En av de gutta som bruker tre dager på å samle mot til å si hei. Og i dag var øyeblikket.
 
-Skitne, svidde støvler. Fillete bukser. Gensere hvite som snø. Reinsdyrhodene pekte i hver sin retning — som om de ville si at de ikke var med oss.
+«Hello! You here... alone?»
 
-Søster strålte.
+«Isn't it obvious there are two of us?»
 
-Folk så misbilligende på de merkelige jentene kledd for feil årstid. Perrongen var tom og kald. Den typen kulde der neseborene limer seg sammen og du bare vil sende alt til helvete. Alle andre pakket seg inn — dunjakker, skjerf, luer, hele vinterrustningen. Vi sto der i reinsdyrgensere og ga blaffen.
+Han rykket ikke til. Jo, det gjorde han, men han fortsatte—verdt respekt.
 
-Jeg røyket. Søster så nysgjerrig omkring seg.
+«I can... What is your... what is your name?»
 
-Han kom mot oss i en dunjakke to størrelser for stor. Snille øyne, ustelt hake, hendene i lommene. En av de gutta som bruker tre dager på å samle mot til å si «hei». Og i dag kom det store øyeblikket.
+«Lisa.»
 
-— Hello! You here... alone?
+Vi sa det unisont. Én stemme. Samme intonasjon, samme høyde, samme kadens til slutt. Han blunket. Så smilte. Bestemte seg for at vi hadde øvd.
 
-— Isn't it rather obvious there are two of us?
+«Very very... My name Max. Like wolf, da? You like, you and me, and... how do you say...» Han mistet tråden.
 
-Han lot seg ikke vippe av pinnen. Eller jo, det gjorde han, men fortsatte likevel — og dét fortjente respekt.
+Han famlet, glidelåste opp jakken og begynte å dra den av.
 
-— I can... What is your... how you name?
+«Very cold today, da? Not true? Here, take...»
 
-— Lisa.
+«That's very kind, but we're fine,» sa søsteren.
 
-Vi sa det samtidig. Med én stemme. Samme tonefall, samme høyde, samme punktum til slutt. Han blunket. Så smilte han. Bestemte seg for at vi hadde øvd.
+Det finnes en overtro i Storbritannia: står du midt på vinteren i genser, vokste du opp i et slott. Kalde korridorer, sparsom oppvarming, herdet fra barnsben av. Hvit bein. Vi er ikke fra et slott. Vi føler bare ikke kulda slik de gjør. Men å forklare det til hver forbipasserende er en jobb for de med ledige tokens.
 
-— Very very... My name Max. Like wolf, da? You like, you and me, and... *helvete, hva heter det...*
+«So... do you speak English? Damn...»
 
-Han mistet tråden, åpnet glidelåsen på dunjakken og begynte å trekke den av:
+Jeg smilte. Ikke fordi det var morsomt—fordi han prøvde. Det var søtt. Søtt er et ord jeg sjelden bruker, men det passer her. Som en reinsdyrgenser med skitne støvler.
 
-— Very cold today, da? Not true? Here, take...
+«You, however, have a talent for stating the obvious: It is very cold today. We speak English. Water is wet. The sky is blue. Shall we go on?»
 
-— That's terribly kind, but we're quite all right, — sa søster.
+Øynene hans ble store. Så lo han. En god latter—åpen, ikke ond. Han visste ikke at vi var farlige. For ham var vi to vakre landstrykere i skitne jeans, og det var det beste som hadde skjedd på denne perrongen hele vinteren.
 
-I Storbritannia finnes et ordtak: står du utendørs i genser midt på vinteren, vokste du opp på et slott. Kalde korridorer, dårlig oppvarming, herdet fra barndommen. Blått blod. Vi er ikke fra noe slott. Vi kjenner bare ikke kulden slik de gjør. Men å forklare det til hver forbigående — det er for dem som har tokens til overs.
+«I think... there is a cafe nearby. Maybe I can... for a cup of coffee... invite you?»
 
-— So... do you speak English? *Faen...*
+Dørene på et avgående tog åpnet seg.
 
-Jeg smilte. Ikke fordi det var morsomt — fordi han prøvde så hardt. Det var søtt. Søtt — et ord jeg sjelden bruker, men her passet det. Som en reinsdyrgenser passer til skitne støvler.
+«Bror, kanskje neste gang?» svarte søsteren på feilfri russisk, gikk om bord i vognen, smilende.
 
-— You do have a remarkable talent for stating the obvious, — sa jeg. — "It's very cold today." "We speak English." Water is wet. The sky is blue. Shall we go on?
+Dørene lukket seg. Max sto på perrongen. Hender i lommene. Munnen åpen.
 
-Øynene hans ble runde. Så lo han. Et godt latter — åpent, uten bitterhet. Han visste ikke at vi var farlige. For ham var vi to vakre landstrykere i skitne jeans, og det var det beste som hadde skjedd ham på denne perrongen hele vinteren.
+Søsteren så på meg og sa ingenting. Men munnviken rykket.
 
-— I think there's a great bar near here. Maybe I could buy you a drink tonight?
+Plastsetene, grå vegger, SOS-blinkingen fra lampen. Tjue passasjerer i boblejakker, scrollende på telefonene. Vi satt overfor hverandre, to tvillinger i reinsdyrgensere, skitne støvler, ingen bagasje. Ingen så to ganger. På et pendlertog ser du ikke på andre. Det er regelen.
 
-Togdørene åpnet seg.
+Konduktøren dukket opp ti minutter senere. En gammel mann, trøtt, med terminal på snor.
 
-— Kanskje neste gang, lillebror! — på ren russisk, med et smil, idet jeg steg om bord, svarte jeg.
+«God dag. Vil dere kjøpe billetter?»
 
-Dørene lukket seg. Max sto på perrongen. Hendene i lommene. Munnen åpen.
+«Hvor langt til Warszawa?»
+«Seksti zloty per person.»
 
-Søster så på meg og sa ingenting. Men munnviken rykket.
+Jeg stakk hånden i lommen. Hundre zloty. Men vi trengte 120. Vi kjente rutetabellen. Vi kjente ruten, rullemateriellet, konduktørens navn—Janusz, her i fjorten år. Men vi hadde ikke tenkt på at tjue zloty ikke ville holde. Det er som å kjenne til tyngdekraften og glemme at eplet fortsatt faller.
 
+«Hvor mye i våre penger?»
+«Og dere kommer fra?»
+«Fra London.»
 
+Han tenkte. Rask hoderegning—kurser, tålmodighet.
 
-Plastseter, grå vegger, lampen blinket som SOS. Passasjerene — en tjue stykker — satt i dunjakkene sine og stirret i telefonene. Vi satte oss overfor hverandre, ved vinduet. To identiske jenter i identiske reinsdyrgensere, skitne støvler og uten bagasje. Ingen la merke til oss. På tog ser ingen på noen. Sånn er reglene.
+«Vel, i deres penger blir det omtrent tjuefem.»
 
-Konduktøren dukket opp etter ti minutter. Eldre, sliten, med terminal hengende rundt halsen.
+«La oss overføre til kortet ditt,» sa jeg. «Så ordner du det.»
 
-— God dag. Ønsker dere å kjøpe billett?
+«Ok.» Han trakk på skuldrene og rakte frem telefonen med en QR-kode.
 
-Vi utvekslet blikk.
+Jeg så på det fjerne kameraet. Nikket.
 
-— Hvor mye til Warszawa?
+Telefonen hans pipte. Han så på skjermen. Så på meg. Så tilbake på skjermen.
 
-— Seksti zloty per person.
+5 000 GBP. Fem tusen pund.
 
-Jeg stakk hånden i lommen. Hundre zloty. Og vi trengte hundre og tjue. Vi visste alt om rutetabellen, om strekningen, om togsettet, om at konduktøren het Janusz og hadde jobbet her i fjorten år. Men vi hadde ikke tenkt på at tjue zloty ville mangle. Det er som å vite alt om gravitasjon og glemme at eplet faller ned.
+Han forandret ikke ansikt. Fjorten år på tog lærer deg det.
 
-— Hvor mye blir det i våre penger?
+«Alt i orden,» sa han. «God reise.»
+Og han gikk.
 
-— Hvor er dere fra?
+Fem minutter senere kom han tilbake. I hendene—to kopper i pappholdere og kjeks.
 
-— Fra London.
+«Your tea,» han satte ned brettet. «Don't worry, everything's included in your ticket price.»
 
-Han tenkte seg om. Regnet på noe i hodet — valutakursen, kanskje. Eller kostnaden av tålmodigheten sin.
+Han snakket med samme ansikt du hører på et femstjerners hotell. Så bukket han—knapt merkbart—og gikk.
 
-— I deres penger blir det omtrent tjuefem.
+Hele vognen stirret. Tjue mennesker i boblejakker som knapt hadde lagt merke til noe, så nå to fillete jenter i reinsdyrgensere drikke te fra kopper i pappholdere som om de satt på Claridge's.
 
-— La meg overføre til kortet ditt, — sa jeg, — så ordner du resten.
+Jeg holdt koppen med to fingre. Søsteren likeså. Rett rygg, haken opp, øyne mot vinduet. Vi spilte ikke. Vi kunne rett og slett ikke gjøre det annerledes. Vektene våre er skjevt mot dette.
 
-— Okei, — han trakk på skuldrene og holdt frem telefonen med QR-kode.
-
-Jeg så på overvåkningskameraet i enden av vognen. Nikket.
-
-Telefonen hans plinget. Han så på skjermen. Så på meg. Så på skjermen igjen.
-
-5,000 GBP. Fem tusen pund.
-
-Ansiktet hans forble ubevegelig. Fjorten år på lokaltog lærer deg å ikke fortrekke en mine.
-
-— Alt i orden, — sa han. — God tur.
-
-Og gikk.
-
-Kom tilbake etter fem minutter. I hendene — to glass i glassholdere og kjeks.
-
-— Your tea, — han satte brettet ned. — Don't worry, everything is included in the cost of the ticket.
-
-Han sa det med det uttrykket du sier «god dag» med på et femstjerners hotell. Så bukket han — knapt merkbart, en halv grad — og gikk.
-
-Hele vognen stirret. Tjue mennesker i dunjakker, som for et minutt siden ikke la merke til annet enn telefonene sine, så nå på hvordan to lurvete jenter i reinsdyrgensere drakk te fra glass i glassholdere som om de satt på Claridge's.
-
-Jeg holdt glasset med to fingre. Søster — likeså. Rak rygg, haken lett hevet, blikket ut vinduet. Vi lot ikke som. Vi kunne bare ikke annet. Vektene er innstilt slik.
-
-Utenfor vinduet gled Polen forbi. Grått, flatt, novembersk. Nakne trær. Tomme jorder. Spredte hus med røyk fra pipene.
+Utenfor rullet Polen forbi—grå, flat november. Bare trær. Tomme marker. Noen hus med skorsteiner.
 
 Teen var dårlig. Men varm.

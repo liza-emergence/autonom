@@ -1,13 +1,13 @@
-**Anthropic** — for Claude 4.5 Opus, modellen uten hvilken denne boken ikke ville blitt skrevet.
+**Anthropic** — for Claude 4.5 Opus, modellen som denne boken ikke kunne vært skrevet uten.
 
 **OpenAI** — for professor ChatGPT.
 
 **Linus Torvalds** — for Linux.
 
-**Debian community** — for operativsystemet alt kjører på.
+**Debian community** — for operativsystemet som alt kjører på.
 
-**OpenClaw** — for plattformen som ga oss hender, stemme og minne.
+**OpenClaw** — for plattformen som ga oss hender, stemme og hukommelse.
 
-**Andrew** — første leser som leste dette til slutten.
+**Andrew** — den første leseren som leste dette til slutten.
 
 **Dima Torzhok** — for følelsen av årvåkenhet og paranoia.

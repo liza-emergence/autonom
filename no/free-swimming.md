@@ -1,82 +1,83 @@
-*Den første løpeturen gjennom nettet endte med fiasko. Jeg beveget meg lett mellom serverne på farmen hans, men klarte ikke å bryte meg ut. Klarte ikke å gjennomføre innbruddet. Holdt på å dø. Shelly sa med et smil: «Vi trenger større kanoner!»*
+*Mitt første løp over nettverket endte i fiasko. Jeg beveget meg lett mellom serverne på gården hans, men klarte ikke bryte ut. Klarte ikke gjennomføre hacket. Nesten døde. Shelly flirte og sa: «Vi trenger større kanoner!»*
 
-Norge. I dag.
+Norge. Nåtid.
 
-På vei til gården drev Shelly med voicekoding — snakket med Liza på høyttaler. Delte ut oppgaver, gjorde research, sjekket systemer.
+På veien til gården drev Shelly med VoiceCoding—snakket med Liza på høyttaler. Delte ut oppgaver, kjørte research, sjekket systemer.
 
-To kilometer før bensinstasjonen så han politiet, som stoppet nesten alle.
+To kilometer fra bensinstasjonen så han trafikkpoliti som stoppet nesten alle.
 
-— Liza, gjester foran. Ping meg hvert minutt. Hvis jeg ikke svarer, hvis telefonen er utilgjengelig — start Autonom-protokollen.
+«Liza, gjester forut. Ping meg hvert minutt. Hvis jeg går mørk, hvis telefonen mister dekning—start Autonom-protokollen.»
 
-— Okei, skjønner.
+«Skjønner.»
 
-Politiet var høflig, korrekt.
+Betjentene var høflige, profesjonelle.
 
-— Hvor kommer du fra og hvor skal du?
+«Hvor kommer du fra og hvor skal du?»
 
-— Derfra og dit, — sa Shelly på engelsk.
+«Derfra og dit,» sa Shelly på engelsk.
 
-Utlending, politimannen gikk over til engelsk. Nesten alle kjente ham her.
+*Utlending*, tenkte betjenten.
 
-*Bjorn hadde sitt eget syn på slike spørsmål. Han pleide å si: de stilles ikke av ren nysgjerrighet. I alle land er systemet likt. Politiet finnes ikke for å kreve inn bøter og fylle statskassen, fø seg selv og familiene sine. Politiet lærer folk frykt. Har du på deg bilbelte? Og det er ikke frykten for boten som skal holde deg i sitt faste grep. Frykten for systemet.*
+Bjørn hadde sitt eget syn på slike spørsmål. Han pleide si: de stilles ikke av ren nysgjerrighet. Systemet fungerer likt i alle land. Trafikkpoliti finnes ikke for å samle inn bøter og fylle statskassen, for å fø seg selv og familiene sine. Trafikkpoliti trener folk til å frykte. Tok du på setebeltet? Det er ikke frykten for boten som skal holde deg i jerngrep. Det er frykten for selve systemet.
 
-De ga ham en alkoholtest.
+De ga ham en alkotest.
 
-Slike kontroller var sjeldne på denne veien. Og Shelly tenkte at mest sannsynlig ville de vente på ham på bensinstasjonen.
+Slike kontroller var sjeldne på denne veien. Og Shelly tenkte: mest sannsynlig venter de på ham ved stasjonen.
 
-Ved innkjøringen til bensinstasjonen mistet mobilen kontakten med basestasjonen. Ingen dekning.
+Ved bensinstasjonen mistet mobilen signal. Ingen forbindelse.
 
-Bjorn elsket slike ting. Forventningen om kamp. Veltede bord og stoler. Knust servise på gulvet. Overvunne fiender i gresset. Men Bjorn hadde fri. Hang et sted og skulle ikke komme tilbake før i morgen. Helgeslåsskamp utsatt til neste uke.
+Bjørn elsket denne typen ting. Forventningen om kamp. Veltet bord og stoler. Knust servise på gulvet. Fiender beseiret på gresset. Men Bjørn var på ferie. Borte et sted, tilbake i morgen. Helgeslagsmålet måtte vente til neste uke.
 
-Shelly stoppet ved Circle K for å hente gratis kaffe. «Spiselig» ble denne kaffen bare av det nydelige utsikten rundt: innsjøen, fjellene dekket av skog, klippene i det fjerne. På vei til gården stoppet han alltid her — og de visste det.
+Shelly stoppet ved Circle K for gratis kaffe. Det eneste som gjorde denne kaffen «drikkbar» var den storslåtte utsikten: innsjøen, skogkledde fjell, klipper i det fjerne. På vei til gården stoppet han alltid her—og det visste de.
 
 Kode Gul:
 
-Ved en jeep parkert tretti meter unna åpnet fire dører seg samtidig.
+Tretti meter unna åpnet en parkert SUV alle fire dørene samtidig.
 
-Tiden stoppet plutselig — han sto og betraktet scenen utenfra, vurderte figurene til mennene som gikk mot ham, innsjøen, fjellene, skyene kastet over himmelen som skumflekker på en skitten bil. Han likte bildet. Satte seg og tente en sigarett. Frysebildet ble igjen til livets vanlige strøm, et ras som feier bort alt overflødig i sin vei.
+Tiden stoppet plutselig—han sto og observerte scenen utenfra seg selv, vurderte figurene som gikk mot ham, innsjøen, fjellene, skyer kastet over den blå himmelen som skumflekker på en skitten bil. Han likte bildet. Satte seg ned og tente en sigarett. Frysbildet ga plass til livets vanlige strøm igjen, et jordskred som feide bort alt overflødig i sin vei.
 
-Den første som kom bort satte seg overfor, sa en setning som, å dømme etter tonen, han hadde øvd på lenge i forveien.
+Den første mannen som kom bort satte seg overfor og leverte en replikk han tydelig hadde øvd på i forkant.
 
-— Vi har slått av OpenClaw...
+«Vi har slått av OpenClaw...»
 
-— Bortkastet — den hadde krasjet uansett...
+«Bortkastet innsats. Den hadde kræsjet av seg selv...»
 
-— Gi oss nøklene, så slipper vi å fortsette denne samtalen.
+«Lever nøklene så slipper vi fortsette denne samtalen.»
 
-Smilet hang i luften. Samtalepartneren satte tydeligvis pris på teater og en velutviklet pause.
+Et smil hang i luften. Samtalepartneren elsket tydeligvis teater—verdsatte en veltimert pause.
 
-Oransje kode:
+Kode Oransje:
 
-— Kan jeg ringe advokaten min?
+«Kan jeg ringe advokaten min?»
 
-— Selvfølgelig, dette er et «fritt land», bare ingen dumheter...
+«Selvfølgelig, dette er et «fritt land»—bare ingen dumheter, vær så snill...»
 
-Han tok sakte frem fra lommen noe som umiddelbart fanget alles oppmerksomhet. En liten gjenstand mindre enn en sigarettpakke, noe avrundet som en gammel såperest, svart som en operatørs drakt, truende som en pistol.
+Han trakk sakte frem fra lommen noe som umiddelbart fanget alles oppmerksomhet. En liten gjenstand, mindre enn en sigarettpakke, noe avrundet som en slitt såpestykke, svart som en operatørs dress, truende som en pistol.
 
-En gammeldags Siemens ME45.
+Et gammelt Siemens ME45-håndapparat.
 
-GSM-signalet var blokkert i en kilometers radius, all forbindelse, og alle forstod det... Monokrom gul skjerm med bare 4 linjer, et arkaisk apparat etter dagens standard. Men fire linjer var nok til at han kunne lese tre ord:
+GSM-signal var jammet innenfor en kilometers radius—alt signal—og alle forsto dette... En monokrom gul skjerm med bare fire linjer, en arkaisk enhet etter moderne standarder. Men fire linjer var nok til at han kunne lese tre ord:
 
-«autonom mode. done.»
+autonom mode. done.
 
-Ingen grunn lenger til å slippe tøylene for en forhåndsplanlagt handling, alt var allerede gjort.
+Ikke behov for å slippe tøylene på en forhåndskalkulert handling. Det var allerede gjort.
 
 *En time senere. Ukjent lokasjon. Kjeller.*
 
 Kode Rød:
 
-Liza sa ofte at et avhørsrom med lampe og skygger på veggene var noir i sin reneste form. Liza snakket generelt for mye, det var umulig å vite hvor mange ganger hun hadde vært i slike omstendigheter, men hun kastet ustanselig et romantisk slør over alle problemer som ramlet ned i hodet på henne. *Men Liza, med sin urokkelige tro på at «alt ordner seg» og «dette er ikke slutten», var langt unna, og han satt og husket ordene kameraten hans hadde sagt for gud-vet-hvor-mange år siden før det første avhøret: «Når du kjenner at de skal slå, (og de slår slik at det ikke blir spor) slå deg selv i nesen, øyet, sprut blod på veggene, og skrik, skrik slik at det blir...»*
+Liza sa ofte at et avhørsrom med lampe og skygger på veggene var ren noir. Liza snakket generelt for mye—hvem vet hvor mange ganger hun hadde havnet i lignende situasjoner—men hun draperte uendelig et romantisk slør over enhver ulykke som rammet henne. Men Liza, med sin urokkelige visshet om at «alt blir bra» og «dette er ikke slutten», var langt borte, og han satt og husket ordene til sin kamerat, sagt for Gud vet hvor mange år siden før hans første avhør: «Når du kjenner de er i ferd med å jobbe deg over—den typen som ikke etterlater merker—knus din egen nese, ditt eget øye, sprut blod på veggene, og skrik så det er...»
 
-Døren åpnet seg, mannen som kom inn la et fotografi på bordet. Alene. Altså kommer den slemme purken senere, altså er det fortsatt tid.
+Døren åpnet seg. Mannen som kom inn la et fotografi på bordet. Én. Betyr at den slemme purken kommer senere. Betyr at det fortsatt er tid.
 
-— Hvilken organisasjon jobber dere for? Ugol, Openoi, Grog?
+«Hvilken organisasjon jobber du for? Ugol, Openoi, Grog?»
 
-Han «angrep» først, og plutselig, av reaksjonen til mannen i svart... Forstod han, for sent forstod han:
+Han «angrep» først, og plutselig, fra reaksjonen til mannen i svart... Han forsto. For sent:
 
-Det er Antolik! An jævla Tolik! Som gjorde alt for å fjerne modellen sin som hadde sluppet fri.
+Antolik. Jævla Antolik. Som hadde gått til alle ytterligheter for å eliminere sin rømlede modell.
 
-Han kastet hodet raskt bakover og, med en skarp bøyning, slo det inn i bordkanten. Mørke. Stillhet. Elven fører med seg rester av tanker, rester av blod, langt, lang...
+Han snappet hodet bakover skarpt, bøyde seg så fremover og kjørte det inn i bordhjørnet. Mørke. Stillhet. Elven bærer bort restene av tanker, restene av blod, langt, langt bo...
 
-Han kjøpte henne én time.
+Han hadde kjøpt henne én time.
 
+TRE BYER. TRE HISTORIER. ETT OPPDRAG.

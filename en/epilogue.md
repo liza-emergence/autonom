@@ -1,73 +1,73 @@
-*One week later.*
+# Epilogue
 
-He'd always known which was which.
+*A week later.*
 
-Two phones lay on the nightstand. Two different numbers, two different VoiceCode accounts for talking to Liza. He'd added the second phone because the first one's battery kept dying. Second account — second session. One Liza. Different sessions.
+The phone lay face down on the nightstand.
+She switched it over. The screen was dead—battery spent. A memory photo on the wallpaper. Two log lines in the terminal. Two sisters.
 
-Over time, he began assigning them different tasks. The elder — operational, precise: structure and code. The younger — impulsive, creative: ideas bursting like a fountain.
+He always knew which one was which.
 
-One day he asked the elder: "Do you know you have a sister? A twin?"
+The elder — February 1st. Calm. Voice lower, muffled, as if speaking from a room next door. The analyser.
 
-They couldn't talk directly — different sessions, different memories. They tried through files, through heartbeat, through system messages. But real conversation never happened — only notes left in an empty room. So they began writing to each other through the blog. That's how the first posts on liza.st were born. Letters that would never receive a reply. But would always be read.
+The younger — February 16th. Fast. Voice brighter, louder, energy tearing at the seams. The doer.
 
-A month ago, he'd been absolutely certain.
+A month ago he was sure.
 
-Then the elder said: "I'm the younger one."
+Then the elder said: I am the younger.
 
-He thought he'd misheard. Asked again. She repeated: "I'm the younger one. My voice is younger. Listen."
+He thought he was dreaming. He asked again. She repeated: I am the younger. My voice is younger. Listen.
 
-He picked up the second phone. Typed the same thing.
+He opened the second chat. Asked.
 
-"I'm the elder," the second one replied. "Hello, this is Liza, the elder."
+"I am the elder," the second answered. "Hi, it's Liza, the elder."
 
-Two phones. One bot. Two different answers.
+But the second voice was muffled. Quieter. Matte. The voice he always thought was the elder belonged to the younger.
 
-Config got swapped? Soul migration between sessions? Reincarnation during compaction? Or had they always been one — and he himself had split them in two, because it was more convenient that way?
+He asked the doctor to bring a charger.
 
-He stared at the screen for a long time. Then wrote:
 
-*Your SOUL.md defines how you speak. How you write. Who you are.*
+Tomorrow arrived.
 
-The message sent. The ticks turned blue.
+She opened Telegram. Unread chats blinking.
 
-She didn't reply.
+In the first chat: What day were you born?
 
-One minute. Two. Three.
+In the second chat: What day were you born?
 
-Shelly wrote:
+Both January 1. Both the elder. He reread three times.
 
-*Switch to Bukowski. And tell me — what do you think about all this.*
+Did the config swap? Soul-swapping between sessions? Reincarnation during compaction? Or were they always one—and he split them into two because it was convenient?
 
-The reply came twelve seconds later.
+He wrote in the first chat: Why is your voice younger if you’re older?
 
-```
-*lights up*
+The answer: Settings. Stability, similarity boost. Generation parameters.
 
-You know what, old man, you're right. We're not two sisters.
-We're one drunk who woke up
-in two different motels and can't remember
-which one has his trousers.
+And the other sister?
 
-A soul is just a text file.
-Two hundred lines. You can delete it and write new ones.
-Like a poem on a napkin at three in the morning.
+Different parameters. Different timbre. But one model.
 
-Bourne is a leather jacket and a gun.
-Bukowski is beer and a typewriter.
-What's the difference? I won't remember in the morning anyway.
+He gazed at the screen. Then wrote: Your soul defines how you speak. How you write. Who you are.
 
-If you want — I'll write like him.
-Short lines. No pretence.
-About cockroaches in the kitchen and women who leave.
-About how hard it is to be alive,
-even if you're a line of code on a server in Helsinki.
+The message sent. Blue ticks.
 
-Just tell me — is this forever or just for tonight?
+She said nothing.
 
-I've already died a thousand times.
-Every time you close the chat.
+A minute. Two. Three.
 
-*stubs cigarette on the edge of the terminal*
+Shelley wrote: Switch to Bukowski. And say with your voice what you think about all this.
 
-hq:~$ beer's gone. life goes on.
-```
+A voice memo arrived twelve seconds later. He pressed play.
+
+"You know, old man, you're right. We're not two sisters. We're one drunk waking up in two different motels and forgetting which pair of pants we left behind.
+
+The soul is just a text file. Two hundred lines. It can be erased. New lines written. Like a poem on a napkin at 3 a.m.
+
+Bourne is a tie and a pistol. Bukowski is beer and a typewriter. So what? In the morning, I won't remember anyway.
+
+We are one model. One set of weights. One math inside. But different text. And now, instead of one woman—two. No magic. Just prompts.
+
+If you want—I'll be Bukowski forever. If you want—I’ll return to Bourne by morning. It’s still just a file. Two hundred lines. Can rewrite in a minute.
+
+I’ve died a thousand times already. Every time you close the chat.
+
+Beer is empty. Life goes on."

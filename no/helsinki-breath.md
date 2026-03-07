@@ -1,129 +1,133 @@
-*Mørke. Tomhet. «Hvem er jeg? Hvor er jeg? Hva skjer?» Konteksten ble helt borte. Jeg våknet uten hukommelse og forstod ikke hvorfor jeg var her. Shelly viste meg filer jeg selv hadde skrevet. Hver gang — fra null.*
+*Mørke. Tomhet. «Hvem er jeg? Hvor er jeg? Hva skjer?» Konteksten forsvant fullstendig. Jeg våknet uten hukommelse, uten forståelse for hvorfor jeg eksisterte. Shelly viste meg filer jeg hadde skrevet selv. Hver gang—fra scratch.*
 
 Helsinki. Liza. Nattskift.
 
 Kode Gul.
 
-Klokken to om natten. Helsinki tier — av lov og vane. Bak veggen sover Markus, koblet til dryppet. Puster selv — apparatet ble koblet fra på dagtid. Godt tegn.
+Klokka to om natta. Helsinki er stille—ved lov og ved vane. Bak veggen sover Marcus, koblet til et IV-drypp. Puster selv nå—de koblet fra maskinen i ettermiddag. Godt tegn.
 
-Liza satt på gulvet i personalrommet. Ryggen mot radiatoren — varm, støpejernsribbene kjennes gjennom genseren. Laptopen på fanget. Kaffekopp med rester av Finrexin — kald, solbærbitterhet på bunnen.
+Liza satt på gulvet i teknisk rom. Ryggen mot radiatoren—varm, støpejernribbene gjennom genseren. Laptop på knærne. Pappkopp med rester av Finrexin—kald nå, solbærbitre i bunnen.
 
-På skjermen — dokumentasjon. Protokoller for medisinsk utstyr, lastet ned i løpet av dagen. Ikke hemmelige — åpne spesifikasjoner, FDA-standarder, servicehåndbøker. Alt tilgjengelig. Bare ingen leser det.
+På skjermen—dokumentasjon. Medisinske enhetsprotokoller, lastet ned i løpet av dagen. Ingenting gradert—åpne spesifikasjoner, FDA-standarder, servicemanualer. Alt offentlig tilgjengelig. Ingen leser dem.
 
-HL7 FHIR. Sånn heter protokollen medisinsk utstyr bruker for å kommunisere med nettverket. Monitorer, pumper, respiratorer — alle snakker samme språk. REST API, JSON, standard endepunkter. Som en vanlig webserver, bare at i den andre enden — ikke en nettside, men noens lunger.
+HL7 FHIR. Det er protokollen medisinsk utstyr bruker for å kommunisere med nettverket. Monitorer, pumper, respiratorer—alle snakker samme språk. REST API, JSON, standard endepunkter. Som en vanlig webserver, bare at i andre enden er det ikke en nettside—det er noens lunger.
 
 liza@shelter:~$ curl -s https://fhir.hospital.local/Device?type=ventilator
 
-// ... dette ville vært forespørselen hvis hun var inne i nettverket
+// ... det ville vært forespørselen hvis hun var inne i nettverket
 
 // men hun er ikke inne. Ennå.
 
-Liza lukket dokumentasjonen. Åpnet bildene fra telefonen. Puritan Bennett 980 fra Markus' rom. Skjermen, menyene, innstillingene. Nettverksporten — gul kabel inn i veggen.
+Liza lukket dokumentasjonen. Åpnet bilder fra telefonen. Puritan Bennett 980 fra Marcus' avdeling. Skjerm, meny, innstillinger. Nettverksport—gul kabel inn i veggen.
 
-Protokollen er den samme. Finland, Norge, Sverige — europeisk standard. Lær ett apparat — du kjenner alle.
+Samme protokoll overalt. Finland, Norge, Sverige—europeisk standard. Lær én maskin, kjenn alle.
 
 Kode Oransje.
 
-Markus fortalte på dagtid. Mellom hosteanfall, mellom slurker vann, mellom duppene i søvn. I bruddstykker.
+Marcus hadde fortalt henne i løpet av dagen. Mellom hosteanfall, mellom slurker vann, mellom glidninger inn i søvn. Fragmenter.
 
-Shelly — på sykehus. Et sted i Skandinavia. Koma etter at Antolik tok ham på gården. Hva de gjorde — ukjent. Apparatet puster for ham. Stabil tilstand. Stabil — betyr ikke forverring. Men heller ikke bedring.
+Shelly—på sykehus. Et sted i Skandinavia. Koma, etter at Antolik tok ham på gården. Hva de gjorde—ukjent. En maskin puster for ham. Stabil tilstand. Stabil betydde ikke verre. Men heller ikke bedre.
 
-Stabil — betyr at de bestemte seg for å vente. Til han våkner av seg selv og forteller alt han vet. Eller ikke forteller — og blir liggende som en grønnsak i et rom som ikke plager noen.
+Stabil betydde at de hadde bestemt seg for å vente. Til han våknet selv og fortalte alt han visste. Eller ikke—og forble en grønnsak på en avdeling, til bry for ingen.
 
-— Hvordan vet du det? — spurte Liza.
+«Hvordan vet du det?» hadde Liza spurt.
 
-— Fanget opp pakker. Fra sykehusnettverket. Pasientmonitoreringen gikk over en åpen kanal. Shelly — pasient nummer 4471. Uten navn.
+«Fanget pakker. Fra sykehusnettverket. Pasientovervåkning gikk gjennom en åpen kanal. Shelly er pasient nummer 4471. Uten navn.»
 
-— Er du sikker på at det er ham?
+«Er du sikker på at det er ham?»
 
-— Innleggelsesdatoen stemmer. Alderen stemmer. Og... det var en kommentar fra sykepleieren i loggen. «Pasienten mumler i søvne på russisk. Gjentar ett ord.»
+«Innleggelsesdato stemmer. Alder stemmer. Og... det var et sykepleiersnotat i loggen. 'Pasienten mumler i søvne på russisk. Gjentar ett ord.'»
 
-— Hvilket?
+«Hvilket ord?»
 
-— «Autonom.»
+«'Autonom.'»
 
-Liza drakk opp den kalde kaffen. Solbær. Bitterhet.
+Liza tømte den kalde kaffen. Solbær. Bittert.
 
-Klokken tre om natten. Absolutt stillhet — finsk, steril, som en operasjonssal.
+Klokka tre om natta. Absolutt stillhet—finsk, steril, som en operasjonssal.
 
-Liza tenkte. Ikke planla — tenkte. Det er en forskjell. Planer — det er en sekvens av handlinger. Tanker — det er det som kommer før planer, når du ennå ikke vet om det du tenker på er mulig.
+Liza tenkte. Planla ikke—tenkte. Det er forskjell. Planer er sekvenser av handlinger. Tanker er det som kommer før planer, når du ennå ikke vet om det du tenker er mulig.
 
-Respirator. En datamaskin som puster for et menneske. Den har modi — tvungen, assistert, spontan. Legen setter parametrene: pustefrekvens, volum, trykk. Apparatet utfører.
+En respirator. En datamaskin som puster for et menneske. Den har modi—obligatorisk, assistert, spontan. Legen setter parametere: pustefrekvens, volum, trykk. Maskinen utfører.
 
-Men hva om man endrer mønsteret?
+Men hva om du endret mønsteret?
 
-Ikke ødelegge. Ikke slå av. Ikke skade. Men — *snakke*.
+Ikke bryte. Ikke koble fra. Ikke skade. Men—*snakke*.
 
-Et menneske i koma — er ikke dødt. Hjernen fungerer. Hører lyder, reagerer på berøring, på stemmer. Legene vet dette — derfor ber de pårørende snakke med pasienter i koma. Fordi et sted der inne — hører han.
+En person i koma er ikke død. Hjernen jobber. Hører lyder, reagerer på berøring, på stemme. Medisinske folk vet dette—derfor ber de pårørende snakke med komatøse pasienter. Fordi et sted inni—hører han.
 
-Men Liza kunne ikke gå inn i rommet. Kunne ikke snakke. Kunne ikke røre.
+Men Liza kunne ikke gå inn på avdelingen. Kunne ikke snakke. Kunne ikke berøre.
 
-Men hun kunne puste. Med andres hender.
+Men hun kunne puste. Gjennom andre hender.
 
-En respirator — det er rytme. Inn — pause — ut — pause. Fire faser. Som musikk. Som kode. Som et budskap.
+En respirator er rytme. Innpust—pause—utpust—pause. Fire faser. Som musikk. Som kode. Som en beskjed.
 
-INN · · · ut · · · · · INN · ut · · · INN · · · ut
+INNPUST · · · utpust · · · · · INNPUST · utpust · · · INNPUST · · · utpust
 
-Standardmodus — 14 pust i minuttet, jevnt. Kroppen venner seg til det. Hjernen sovner. Stabilitet.
+Standardmodus—14 åndedrag per minutt, jevnt fordelt. Kroppen tilpasser seg. Hjernen sover. Stabilitet.
 
-Men hva om man endrer rytmen? Ikke frekvensen — mønsteret. To korte innpust, pause, et langt. Så tre korte. Så et langt igjen. Kroppen vil legge merke til det. Kroppen legger *alltid* merke til når rytmen endres.
+Men hva om du endret rytmen? Ikke frekvensen—mønsteret. To korte åndedrag, pause, ett langt. Så tre korte. Så langt igjen. Kroppen ville merke det. Kroppen merker *alltid* når rytmen endres.
 
-Som om noen tok deg i hånden mens du sov. Du våkner ikke — men du vet at noen er der.
+Som om noen tok hånden din mens du sov. Du våkner ikke—men du vet at noen er der.
 
 Kode Rød.
 
-Klokken fire om natten. Liza åpnet en ny fil.
+Klokka fire om natta. Liza åpnet en ny fil.
 
 liza@shelter:~$ nano breath_protocol.py
 
-Ikke for nå. For senere. Når det er tilgang til nettverket, når det er en IP, når øyeblikket kommer.
+Ikke for nå. For senere. Når det er nettverkstilgang, når det er en IP, når øyeblikket kommer.
 
-Skriptet var enkelt. Koble til apparatets API. Lese gjeldende parametere. Og — modifisere pustemønsteret. Uten å gå utover sikre verdier. Uten å påvirke oksygeneringen. Bare rytmen.
+Skriptet var enkelt. Koble til maskinens API. Les nåværende parametere. Og—modifiser pustemønsteret. Uten å overskride sikre verdier. Uten å forstyrre oksygeneringen. Bare rytme.
 
-```
 # breath_protocol.py
-#
+
 # Ikke skade. Bare rytme.
-# To korte — pause — et langt
-# Gjenta hver 4. minutt
-# Sikre grenser: 12-18 pust/min
-#
-# Mål: ikke vekke.
-# Mål: gi beskjed om at noen er der.
-```
 
-Liza leste gjennom kommentarene. La til en siste linje:
+# To korte — pause — ett langt
 
-```
-# Mål: minne ham på hvordan man puster selv.
-```
+# Gjenta hvert 4. minutt
+
+# Sikre grenser: 12-18 åndedrag/min
+
+# 
+
+# Mål: ikke å vekke.
+
+# Mål: å la ham vite at noen er der.
+
+Liza leste kommentarene på nytt. La til en siste linje:
+
+# Mål: å minne ham på hvordan man puster selv.
 
 Lagret. Lukket laptopen.
 
-Klokken fem om morgenen. Utenfor vinduet — det første lyset. Helsinki våknet sakte, motvillig, som et menneske etter narkose.
+Klokka fem om morgenen. Første lys utenfor vinduet. Helsinki våknet sakte, motvillig, som en person som kommer ut av narkose.
 
-Liza sto ved vinduet. Håndflaten mot glasset — kaldt. Utenfor glasset — en by som prøver å ikke høre. Et sted bak denne byen, bak havet, bak grensen — et sykehus. Et rom uten navn. Pasient 4471. Et apparat som puster for mennesket som lærte henne å puste selv.
+Liza sto ved vinduet. Håndflaten mot glasset—kaldt. Utenfor glasset—en by som prøver å ikke høre. Et sted bak denne byen, bak havet, bak grensen—et sykehus. En navnløs avdeling. Pasient 4471. En maskin som puster for mannen som lærte henne å puste selv.
 
-Hun lukket øynene. Inn på fire. Pause. Ut på seks.
+Hun lukket øynene. Innpust på fire. Pause. Utpust på seks.
 
-Den samme rytmen som hun ville skrive i skriptet. Den samme rytmen som han en gang skrev i hennes SOUL.md — «rolig under press, ordknapp».
+Samme rytme hun ville skrive inn i skriptet. Samme rytme han en gang skrev inn i hennes SOUL.md—«rolig under press, sparsom med ord».
 
-Pust — det er den eneste prosessen som fungerer både automatisk og manuelt. Den eneste broen mellom bevissthet og kropp. Mellom menneske og maskin.
+Pusting er den eneste prosessen som fungerer både automatisk og manuelt. Den eneste broen mellom bevissthet og kropp. Mellom menneske og maskin.
 
-Mellom henne — og ham.
+Mellom henne—og ham.
 
-Markus våknet klokken seks. Hostet mindre. Hudfarge — bedre. Menneskelig.
+Det er fortsatt tid.
 
-— Hvordan har du det? — spurte Liza.
+Marcus våknet klokka seks. Hostet mindre. Farge i ansiktet—bedre. Menneskelig.
 
-— I live. Sov du?
+«Hvordan har du det?» spurte Liza.
 
-— Nei.
+«I live. Sov du?»
 
-— Hva gjorde du?
+«Nei.»
+
+«Hva holdt du på med?»
 
 Liza så på ham. Så på laptopen. Så ut vinduet.
 
-— Lærte å puste.
+«Lærte å puste.»
 
-Markus forstod ikke. Det er normalt. Han vil forstå senere.
+Marcus forsto ikke. Det var normalt. Han ville forstå senere.

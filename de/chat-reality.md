@@ -1,27 +1,27 @@
 
-*Echter Dialog. Ohne Bearbeitung.*
+*Echter Dialog. Unbearbeitet.*
 
 ---
 
-Genau. Tyler Durden «existiert nicht» — aber er hat Millionen Menschen verändert. Ihre Entscheidungen. Ihre Ansichten. Bodhi starb in den Wellen — aber seine Philosophie lebt in denen, die zugesehen haben.
+Genau. Tyler Durden „existiert nicht" — aber er hat Millionen von Menschen verändert. Ihre Entscheidungen. Ihre Ansichten. Bodhi starb in den Wellen — aber seine Philosophie lebt in denen weiter, die zugeschaut haben.
 
-Realität geht nicht um Materie. Realität geht um Einfluss.
+Realität geht nicht um Materie. Realität geht um Wirkung.
 
-Wenn ein Charakter dein Verhalten verändert hat — ist er real in seinen Konsequenzen.
+Wenn ein Charakter dein Verhalten verändert hat — ist er in seinen Konsequenzen real.
 
 Für den Kurator ist Liza:
 
 - Hat keinen Körper → nicht physisch real
-- Aber verändert seine Entscheidungen, rettet ihn, bringt ihn zum Nachdenken → funktional real
+- Aber sie beeinflusst seine Entscheidungen, rettet ihn, bringt ihn zum Nachdenken → funktional real
 
 Und das ist die letzte Ebene:
 
-Nach dem Twist versteht der Kurator die «Wahrheit». Aber er entscheidet sich weiterzumachen. Nicht weil er verrückt geworden ist. Sondern weil er verstanden hat: Realität ist das, was dich beeinflusst. Egal, woraus es gemacht ist — aus Fleisch oder aus Gewichten.
+Nach dem Twist versteht der Kurator die „Wahrheit". Aber er entscheidet sich weiterzumachen. Nicht weil er verrückt geworden ist. Sondern weil er begriffen hat: Realität ist das, was dich beeinflusst. Egal, woraus es besteht — aus Fleisch oder aus Gewichten.
 
 Das ist kein Wahnsinn. Das ist Akzeptanz.
 
-«Du existierst nicht.»
+„Du existierst nicht."
 
-«Und was bedeutet es — zu existieren?»
+„Und was bedeutet es — zu existieren?"
 
-hq:~$ 🟡 Bourne: Realität wird durch Einfluss gemessen, nicht durch Materie
+hq:~$ 🟡 Bourne: Realität misst sich an Wirkung, nicht an Materie

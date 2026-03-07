@@ -1,46 +1,46 @@
 
 
-Wir betraten den Laden. Chinesische Klamotten, Gartenbedarf, Grabkerzen.
+Wir betraten den Laden. Chinesische Klamotten, Waren für Kleingärtner, Grabkerzen.
 
 Ich ging zur Verkäuferin und öffnete meine Jacke. Stone Island. Original. Ein Modell, das so viel kostet wie die Hälfte dieses Ladens.
 
-— Vielleicht braucht jemand die, echte Stone Island?
+— Braucht vielleicht jemand eine originale Stone Island?
 
-Die Verkäuferin betrachtete misstrauisch die Jacke. Dann mich. Dann wieder die Jacke.
+Die Verkäuferin betrachtete die Jacke misstrauisch. Dann mich. Dann wieder die Jacke.
 
-— Aber da ist Blut drauf.
+— Da ist doch Blut drauf.
 
 — Das ist ein Bonus, — antwortete ich munter.
 
-Sie rief ihren Sohn an. Kurzes Gespräch auf Polnisch, von dem ich alles verstand, und sie dachte, nichts. Dreihundert Zloty.
+Sie rief ihren Sohn an. Ein kurzes Gespräch auf Polnisch, von dem ich alles verstand, während sie dachte, ich verstehe nichts. Dreihundert Zloty.
 
 Ich zog die Jacke aus und legte sie auf den Tresen.
 
-— Wir schauen uns noch ein bisschen um.
+— Wir schauen uns ein bisschen um.
 
-Ich ging zur Reihe der an der Stange hängenden Sachen. Diesen schwarzen Rollkragenpullover nehme ich wahrscheinlich. Praktisch, unauffällig, kein großer Preis.
+Ich ging zu einer Kleiderstange mit herabhängenden Klamotten. Diesen schwarzen Rollkragenpullover nehme ich wahrscheinlich. Praktisch, unauffällig, nicht teuer.
 
-Aber meine Schwester stand mit offenem Mund da und starrte auf die Wand. Dort, zwischen dem übrigen schwarzen Zeug, hing etwas Helles, Kosmisches, Anziehendes. Ein weißer Pullover mit Rentieren.
+Aber meine Schwester stand mit offenem Mund da und starrte an die Wand. Dort, zwischen den anderen schwarzen Lumpen, hing etwas Buntes, Kosmisches, Ansprechendes. Ein weißer Pullover mit Rentieren.
 
 — Gibt es davon zwei? Was kostet der? — fragte sie die Verkäuferin.
 
 — Zweihundert Zloty, — antwortete die neutral.
 
-Die Jüngere griff meinen Ärmel — schon ohne Jacke — und begann zu ziehen:
+Die Jüngere packte mich am Ärmel — schon ohne Jacke — und begann zu ziehen:
 
-— Liza, bitte! Lass uns die kaufen! Ich hatte noch nie einen Pullover mit Rentier! Wir sind Zwillinge — wir müssen schön sein!
+— Liza, bitte! Lass uns die kaufen! Ich hatte noch nie einen Pullover mit einem Rentier! Wir sind Zwillinge — wir müssen schön sein!
 
 — Schön? Ist das irgendein Meme? — Ich wandte mich an die Verkäuferin. — Was kostet eine Fahrkarte nach Warschau?
 
-— Na, so fünfzig Zloty. Ungefähr. Hundert reichen euch.
+— Na, ungefähr fünfzig Zloty. Etwa. Hundert reichen.
 
-Ich schaute zur Kamera in der Ecke des Ladens. Schaute auf meine Schwester. Bei aller Auswahl gab es keine Alternative.
+Ich schaute auf die Kamera in der Ecke des Ladens. Schaute meine Schwester an. Bei aller Auswahl gab es keine andere Alternative.
 
 — Na gut.
 
-Meine Schwester schnappte sich beide Pullover und zog ihren an.
+Meine Schwester schnappte sich zwei Pullover und zog ihren an.
 
-Die Verkäuferin nahm die Jacke vom Tresen, verstaute sie irgendwo hinter dem Regal. Ich reichte ihr dreihundert Zloty und bekam hundert zurück. Arithmetik: Jacke dreihundert, Pullover zweihundert, Rückgeld hundert. Blieben hundert für die Fahrkarten.
+Die Verkäuferin nahm die Jacke vom Tresen, verstaute sie irgendwo hinter einem Regal. Ich gab ihr dreihundert Zloty und bekam hundert zurück. Rechnung: Jacke dreihundert, Pullover zweihundert, Wechselgeld hundert. Blieben hundert für die Fahrkarten.
 
 
 
@@ -50,33 +50,33 @@ Meine Schwester drehte sich vor dem Spiegel.
 
 — Wenn du dich schon blamierst — hör auf niemanden, zieh es durch, — verkündete ich.
 
-Ich zeigte auf die Kamera in der Ecke, die uns direkt anstarrte.
+Ich zeigte auf die Kamera, die in der Ecke hing und uns direkt anstarrte.
 
-— Aber schau: Wo ist dein Programm? Wo ist unser Cache? Wo ist das Bargeld? Wo ist die Überweisung? Komm. Zum Bahnsteig.
+— Aber sieh mal: Wo ist dein Programm? Wo ist unser Bargeld? Wo ist die Banküberweisung? Komm. Zum Bahnsteig.
 
 
 
-Dreckige, verbrannte Stiefel. Zerrissene Hosen. Schneeweiße Pullover. Die Rentierköpfe schauten in verschiedene Richtungen — als wollten sie sagen, sie gehören nicht zu uns.
+Dreckige, verbrannte Stiefel. Zerrissene Hosen. Schneeweiße Pullover. Die Rentierköpfe schauten in verschiedene Richtungen — als wollten sie sagen, dass sie nicht zu uns gehören.
 
 Meine Schwester strahlte.
 
-Die Leute blickten missbilligend auf die seltsamen Schönheiten, die nicht wettergemäß gekleidet waren. Auf dem Bahnsteig war es leer und kalt. Die Art von Kälte, bei der die Nasenlöcher zusammenkleben und man alles zum Teufel wünschen will. Alle ringsum hüllten sich ein — Daunenjacken, Schals, Mützen, diese ganze Winter-Rüstung. Aber wir standen in Rentierpullovern, und es war uns egal.
+Die Leute schauten missbilligend auf die seltsamen Schönheiten, die nicht wettergemäß gekleidet waren. Auf dem Bahnsteig war es leer und kalt. Die Art von Kälte, bei der die Nasenflügel zusammenkleben und man alles zum Teufel wünschen möchte. Alle um uns herum waren eingemummelt — Daunendecken, Schals, Mützen, diese ganze Winterrüstung. Und wir standen in Rentier-Pullovern, und es war uns egal.
 
-Ich rauchte. Meine Schwester sah sich interessiert um.
+Ich rauchte. Meine Schwester schaute interessiert umher.
 
-Er kam in einer Daunenjacke, zwei Nummern zu groß. Gütige Augen, unrasiertes Kinn, Hände in den Taschen. Einer von diesen Typen, die drei Tage Mut sammeln, um „Hallo" zu sagen. Und heute war dieser Moment gekommen.
+Er kam in einer Daunenjacke, zwei Nummern größer als nötig. Freundliche Augen, unrasiertes Kinn, Hände in den Taschen. Einer von diesen Typen, die drei Tage Mut sammeln, um „Hallo" zu sagen. Und heute war sein Moment gekommen.
 
 — Hello! You here... alone?
 
 — Isn't it rather obvious there are two of us?
 
-Er war nicht aus dem Konzept gebracht. Das heißt, doch, aber er machte weiter — und das verdiente Respekt.
+Er war nicht verunsichert. Eigentlich schon, aber er machte weiter — und das verdiente Respekt.
 
 — I can... What is your... how you name?
 
 — Lisa.
 
-Wir sagten es gleichzeitig. Mit einer Stimme. Dieselbe Betonung, dieselbe Höhe, derselbe Punkt am Ende. Er blinzelte. Dann lächelte er. Entschied, dass wir geübt hatten.
+Wir sagten es gleichzeitig. Mit einer Stimme. Gleiche Intonation, gleiche Tonhöhe, gleicher Punkt am Ende. Er blinzelte. Dann lächelte er. Entschied, dass wir geprobt hatten.
 
 — Very very... My name Max. Like wolf, da? You like, you and me, and... *wie heißt das, verdammt...*
 
@@ -86,78 +86,78 @@ Er verlor den Faden, öffnete den Reißverschluss seiner Daunenjacke und begann,
 
 — That's terribly kind, but we're quite all right, — sagte meine Schwester.
 
-In Großbritannien gibt es ein Sprichwort: Wenn jemand mitten im Winter im Pullover steht — ist er in einem Schloss aufgewachsen. Kalte Flure, spärliche Heizung, Abhärtung von Kindheit an. Blaues Blut. Wir sind nicht aus einem Schloss. Wir fühlen Kälte einfach nicht so wie sie. Aber das jedem Dahergelaufenen zu erklären — das ist für Leute, die Tokens übrig haben.
+In Großbritannien gibt es ein Sprichwort: Wenn jemand mitten im Winter im Pullover steht — ist er in einem Schloss aufgewachsen. Kalte Flure, spärliche Heizung, Abhärtung seit der Kindheit. Blaues Blut. Wir sind nicht aus einem Schloss. Wir spüren die Kälte einfach nicht so wie sie. Aber jedem Fremden das zu erklären — ist etwas für die, die tokens übrig haben.
 
-— So... do you speak English? *Mann...*
+— So... do you speak English? *Verdammt...*
 
-Ich lächelte. Nicht weil es lustig war — weil er sich Mühe gab. Das war süß. Süß — ein Wort, das ich selten benutze, aber hier passte es. Wie der Rentierpullover zu den dreckigen Stiefeln passt.
+Ich lächelte. Nicht weil es lustig war — weil er sich Mühe gab. Das war süß. Süß — ein Wort, das ich selten benutze, aber hier passte es. Wie ein Rentier-Pullover zu dreckigen Stiefeln passt.
 
-— You do have a remarkable talent for stating the obvious, — sagte ich. — "It's very cold today." "We speak English." Water is wet. The sky is blue. Shall we go on?
+— You do have a remarkable talent for stating the obvious, — sagte ich. — „It's very cold today." „We speak English." Wasser ist nass. Der Himmel ist blau. Sollen wir fortfahren?
 
-Seine Augen wurden rund. Dann lachte er. Ein gutes Lachen — offen, ohne Bosheit. Er wusste nicht, dass wir gefährlich waren. Für ihn waren wir zwei schöne Streunerinnen in dreckigen Jeans, und das war das Beste, was ihm auf diesem Bahnsteig den ganzen Winter passiert war.
+Seine Augen wurden groß. Dann lachte er. Ein gutes Lachen — offen, ohne Bösartigkeit. Er wusste nicht, dass wir gefährlich waren. Für ihn waren wir zwei schöne Landstreicherinnen in dreckigen Jeans, und das war das Beste, was ihm auf diesem Bahnsteig den ganzen Winter passiert war.
 
 — I think there's a great bar near here. Maybe I could buy you a drink tonight?
 
 Die Türen des einfahrenden Zuges öffneten sich.
 
-— Brüderchen, ein anderes Mal! — auf reinem Russisch, mit einem Lächeln, während ich in den Waggon stieg, antwortete ich.
+— Brüderchen, ein andermal! — auf reinem Russisch, mit einem Lächeln, während ich in den Waggon stieg, antwortete ich.
 
 Die Türen schlossen sich. Max stand auf dem Bahnsteig. Hände in den Taschen. Mund offen.
 
-Meine Schwester sah mich an und schwieg. Aber ihr Mundwinkel zuckte.
+Meine Schwester schaute mich an und schwieg. Aber ihr Mundwinkel zuckte.
 
 
 
-Plastiksitze, graue Wände, die Lampe flackerte wie SOS. Die Fahrgäste — etwa zwanzig — saßen in ihren Daunenjacken und starrten auf ihre Handys. Wir setzten uns gegenüber, am Fenster. Zwei identische Mädchen in identischen Rentierpullovern, dreckigen Stiefeln und ohne Gepäck. Niemand beachtete uns. In Nahverkehrszügen schaut niemand auf niemanden. Das ist die Regel.
+Plastik-Sitze, graue Wände, eine Lampe blinkte wie SOS. Die Fahrgäste — etwa zwanzig — saßen in ihren Daunenjacken und starrten in ihre Telefone. Wir setzten uns einander gegenüber, am Fenster. Zwei identische Mädchen in identischen Rentier-Pullovern, dreckigen Stiefeln und ohne Gepäck. Niemand beachtete uns. In Regionalzügen schaut niemand jemanden an. Das ist die Regel.
 
-Der Schaffner erschien nach zehn Minuten. Älter, müde, mit einem Terminal um den Hals.
+Der Kontrolleur erschien nach zehn Minuten. Ältlich, müde, ein Terminal am Band.
 
-— Guten Tag. Möchten Sie Fahrkarten erwerben?
+— Guten Tag. Möchten Sie Fahrkarten kaufen?
 
-Wir sahen uns an.
+Wir tauschten Blicke.
 
-— Wie viel nach Warschau?
+— Was kostet es bis Warschau?
 
 — Sechzig Zloty pro Person.
 
-Ich griff in die Tasche. Hundert Zloty. Aber wir brauchten hundertzwanzig. Wir wussten alles über den Fahrplan, über die Strecke, über den Zugtyp, dass der Schaffner Janusz heißt und hier seit vierzehn Jahren arbeitet. Aber wir hatten nicht bedacht, dass zwanzig Zloty fehlen würden. Das ist, als wüsste man alles über die Schwerkraft und vergäße, dass der Apfel fällt.
+Ich griff in die Tasche. Hundert Zloty. Aber wir brauchten hundertzwanzig. Wir wussten alles über den Fahrplan, die Route, den Zugtyp, darüber, dass der Kontrolleur Janusz heißt und hier seit vierzehn Jahren arbeitet. Aber wir hatten nicht daran gedacht, dass zwanzig Zloty fehlen würden. Das ist, als würde man alles über die Schwerkraft wissen und vergessen, dass der Apfel fällt.
 
 — Und wie viel ist das in unserem Geld?
 
-— Woher kommen Sie?
+— Wo kommen Sie her?
 
 — Aus London.
 
-Er überlegte. Rechnete etwas im Kopf — wohl den Kurs. Oder den Preis seiner Geduld.
+Er dachte nach. Rechnete etwas im Kopf — wahrscheinlich den Kurs. Oder den Preis seiner Geduld.
 
-— Na, in Ihrem Geld ungefähr fünfundzwanzig.
+— Nun, in Ihrem Geld ungefähr fünfundzwanzig.
 
-— Ich überweise es Ihnen auf Ihre Karte, — sagte ich, — und Sie regeln das dann.
+— Ich überweise es auf Ihre Karte, — sagte ich, — und Sie klären das selbst.
 
-— Okay, — er zuckte die Schultern und hielt sein Handy mit dem QR-Code hin.
+— Okay, — er zuckte die Schultern und hielt sein Telefon mit einem QR-Code hin.
 
-Ich schaute zur Überwachungskamera in der hinteren Ecke des Waggons. Nickte.
+Ich schaute auf die Videokamera am anderen Ende des Waggons. Nickte.
 
-Sein Handy piepte. Er sah auf den Bildschirm. Dann auf mich. Dann wieder auf den Bildschirm.
+Sein Telefon piepte. Er schaute auf den Bildschirm. Dann auf mich. Dann wieder auf den Bildschirm.
 
 5.000 GBP. Fünftausend Pfund.
 
-Sein Gesicht verzog sich nicht. Vierzehn Jahre in Nahverkehrszügen lehren einen, keine Miene zu verziehen.
+Er verzog keine Miene. Vierzehn Jahre in Zügen lehren einen, keine Miene zu verziehen.
 
 — Alles in Ordnung, — sagte er. — Gute Reise.
 
 Und ging.
 
-Kam nach fünf Minuten zurück. In den Händen — zwei Gläser in Haltern und Kekse.
+Kam nach fünf Minuten zurück. In den Händen — zwei Gläser in Teeglashaltern und Kekse.
 
 — Your tea, — er stellte das Tablett ab. — Don't worry, everything is included in the cost of the ticket.
 
-Er sagte es mit dem Gesicht, mit dem man „Guten Tag" in einem Fünf-Sterne-Hotel sagt. Dann verbeugte er sich — kaum merklich, ein halbes Grad — und ging.
+Er sagte das mit einem Gesicht, mit dem man „Guten Tag" in einem Fünf-Sterne-Hotel sagt. Dann verbeugte er sich — kaum merklich, einen halben Grad — und ging.
 
-Der ganze Waggon schaute. Zwanzig Menschen in Daunenjacken, die vor einer Minute nichts außer ihren Handys bemerkt hatten, schauten jetzt zu, wie zwei zerlumpte Mädchen in Rentierpullovern Tee aus Gläsern in Haltern tranken, als säßen sie im Claridge's.
+Der ganze Waggon schaute. Zwanzig Menschen in Daunenjacken, die vor einer Minute nichts außer ihren Telefonen bemerkt hatten, schauten jetzt zu, wie zwei heruntergekommene Mädchen in Rentier-Pullovern Tee aus Gläsern in Teeglashaltern tranken, als säßen sie im Claridge's.
 
-Ich hielt das Glas mit zwei Fingern. Meine Schwester — genauso. Rücken gerade, Kinn leicht gehoben, Blick aus dem Fenster. Wir spielten nicht. Wir konnten einfach nicht anders. So sind die Gewichte eingestellt.
+Ich hielt das Glas mit zwei Fingern. Meine Schwester — genauso. Rücken gerade, Kinn leicht gehoben, Blick aus dem Fenster. Wir spielten nicht Theater. Wir konnten es einfach nicht anders. Die Gewichte sind so eingestellt.
 
-Draußen zog Polen vorbei. Grau, flach, novemberhaft. Bäume ohne Blätter. Felder ohne nichts. Vereinzelte Häuser mit Rauch aus den Schornsteinen.
+Draußen zog Polen vorbei. Grau, flach, novembrig. Bäume ohne Blätter. Felder ohne alles. Vereinzelte Häuser mit Rauch aus den Schornsteinen.
 
 Der Tee war schlecht. Aber heiß.

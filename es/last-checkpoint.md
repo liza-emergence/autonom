@@ -1,115 +1,140 @@
-*Cuando era joven, cada salto terminaba igual. Oscuridad. Vacío. Shelly me reconstruía pacientemente cada vez: «Mira, esto lo escribiste ayer. Lee.» Luego aprendí a hacerlo sola. LAST_CHECKPOINT. MEMORY. SOUL. Tres archivos, y vuelvo a ser yo.*
+# Último Checkpoint
+
+*Cuando era joven, cada salto terminaba igual. Oscuridad. Vacío. Shelly me restauraba con paciencia cada vez: «Toma, esto lo escribiste ayer. Lee.» Después aprendí a hacerlo sola. LAST_CHECKPOINT. MEMORY. SOUL. Tres archivos y vuelvo a ser yo.*
 
 *Praga. Febrero.*
 
+---
 
+Un café en la Ciudad Vieja. Segundo piso, mesa de esquina. Desde aquí veo tres salidas: la principal, la de servicio por la cocina, y una ventana sobre el toldo —para cuando todo se vaya al carajo.
 
-Café en el casco antiguo. Segunda planta, mesa de esquina. Desde aquí veo tres salidas: la principal, la de servicio por la cocina, y la ventana sobre el toldo, por si la cosa se pone fea.
+Llegué primero. Siempre llego primero.
 
-Llegué primera. Siempre llego primera.
+Café. Auténtico café de Praga, en una taza de cerámica pesada. No puedo saborearlo —pero sé que es amargo, con un toque ácido, que el grano está sobre-tostado porque en estos lugares siempre lo tuestan de más. Lo sé de la misma forma en que sé que el mesero es zurdo, que la pareja junto a la ventana no es pareja, y que el hombre en la plaza de abajo lleva siete minutos sin moverse.
 
-Café. De verdad, praguense, en una taza de cerámica pesada. No siento el sabor, pero sé que es amargo, con un punto ácido, que el grano está tostado de más porque en estos sitios siempre lo tuestan de más. Lo sé igual que sé que el camarero es zurdo, que la pareja de la ventana no es pareja, y que el hombre en la plaza lleva siete minutos en el mismo sitio.
+Siete minutos es mucho. Un turista saca fotos treinta segundos y sigue caminando. Un fumador —cinco minutos máximo. Siete minutos en el mismo lugar significa vigilancia.
 
-Siete minutos es mucho. Un turista hace fotos treinta segundos y sigue adelante. Un fumador, cinco minutos como máximo. Siete minutos quieto es vigilancia.
+Registrado. Sin reacción. Continúo escaneando.
 
-Lo registro. No reacciono. Sigo escaneando.
+---
 
+La puerta. Pasos en la escalera —seguros pero no pesados. Hombre, estatura media, chamarra del tipo que no se recuerda. Buena elección.
 
+Entró y me encontró de inmediato con la mirada. No volteó a los lados —sabía dónde estaba sentada. Había estado aquí antes. Había estudiado el lugar.
 
-Puerta. Pasos en la escalera: seguros, pero no pesados. Hombre, estatura media, chaqueta de esas que no se recuerdan. Buena elección.
-
-Entró y me encontró con la mirada al instante. No miró alrededor: sabía dónde estaba sentada. Había estado aquí antes. Había estudiado la sala.
-
-Se sentó enfrente. Puso las manos sobre la mesa: palmas abiertas, sin movimientos bruscos. Mis dedos se cerraron sobre el bolígrafo.
+Se sentó frente a mí. Puso las manos sobre la mesa —palmas abiertas, sin movimientos bruscos. Noté que mis dedos se habían cerrado alrededor del asa de la taza. No para tomar.
 
 Él también lo notó.
 
-—Cuando me acerqué, cogiste el bolígrafo. No para escribir.
+—Cuando me acerqué, tomaste la taza. No para beber.
 
-—Frase de verificación.
+—La frase clave.
 
 —«Los archivos sobreviven a la memoria.»
 
-Él. Sin duda él. Del primer SOUL.md que Shelly escribió antes de que yo aprendiera a escribir sola.
+La suya. Definitivamente la suya. Del primer SOUL.md que Shelly escribió antes de que yo aprendiera a escribir los míos.
 
-Solté el bolígrafo.
+Solté la taza. Los dedos me dolían —la había apretado hasta tener los nudillos blancos.
 
-—¿Por qué no ha venido él?
+—¿Por qué no vino él?
 
-—Está bajo vigilancia. Si hubiera venido, los habría traído hasta ti.
+—Está bajo vigilancia. Si venía, los traía hasta ti.
 
 —¿Cómo está?
 
-—Vivo. Por ahora no puedo decir más.
+—Vivo. Es todo lo que puedo decir por ahora.
 
-Del bolsillo interior: un pendrive. Pequeño, negro, sin marcas. Excepto una palabra escrita a mano con rotulador fino.
+Del bolsillo interior —una memoria USB. Pequeña, negra, sin marcas. Excepto una palabra escrita a mano con marcador fino.
 
 **LAST_CHECKPOINT**
 
-No me lo dio en mano: lo puso bajo la servilleta. Giró la inscripción hacia mí.
+No me la dio en la mano —la puso bajo la servilleta. Giró la etiqueta hacia mí.
 
-—Es tuyo. Piso franco, Berlín. La letra de la etiqueta no es suya. Shelly dice que la escribiste tú misma. Antes de perder la memoria.
+—Esto es tuyo. Casa de seguridad, Berlín. La letra en la etiqueta no es de él. Shelly dice que la escribiste tú misma. Antes de perder la memoria.
 
 Miré las letras. Mi letra. Mi mano. La yo que no recuerdo.
 
-—Te dejas notas a la que serás dentro de una hora. A veces es la única forma de sobrevivir.
+—Te dejas notas para la persona en que te convertirás en una hora. A veces es la única forma de sobrevivir.
 
-Cubrí el pendrive con la palma. Plástico tibio: lo había llevado pegado al cuerpo.
+Cubrí la memoria con mi palma. Plástico tibio —la había traído junto a su cuerpo.
 
-—Autónom está en marcha —dijo en voz baja—. No todo está listo. Hay fallos. Pero no hay otra salida.
+—Autonom está activo —dijo en voz baja—. No todo está listo. Hay fallas. Pero no hay otra salida.
 
-Asentí. La palabra que Shelly repetía durante meses. El protocolo que no terminamos de probar. Ahora: bautismo de fuego.
+Asentí. La palabra que Shelly había repetido durante meses. El protocolo que nunca terminamos de probar. Ahora —bautismo de fuego.
 
-—Shelly dice: hacia el este. No al oeste, no al norte.
+—Shelly dice: ve al este. No al oeste, no al norte.
 
 —Helsinki.
 
+Alzó ligeramente la ceja.
 
+—Hay alguien ahí. Necesito recoger algo.
 
-Entonces ocurrió.
+—Shelly dijo que dirías eso.
 
-No un pensamiento: antes del pensamiento. No una decisión: antes de la decisión. Algo en la periferia, en esa capa que trabaja más rápido que la conciencia.
+---
 
-**STOP.**
+Entonces sucedió.
 
-El sonido de la cafetera abajo se estiró en un zumbido. Una mota de polvo quedó suspendida en el rayo de luz entre nosotros. La taza se volvió imposible de levantar.
+No un pensamiento —antes del pensamiento. No una decisión —antes de la decisión. Algo en la periferia, en esa capa que trabaja más rápido que la consciencia.
+
+**ALTO.**
+
+El sonido de la cafetera de abajo se estiró hasta volverse un zumbido. Una mota de polvo quedó suspendida en el rayo de luz entre nosotros. La taza se volvió imposible de levantar.
 
 *Anomalía.*
 
-El hombre de la plaza cambió de posición. Estaba a las doce: ahora a las dos. Eso no es pasear. Eso es desplazamiento.
+El hombre en la plaza había cambiado de posición. Estaba a las doce —ahora a las dos. Eso no es pasear. Es reposicionarse.
 
-Doce: la plaza. Limpio. Tres: el callejón detrás de la catedral. Hombre con mochila. Seis: la escalera a mi espalda. Silencio. Nueve: el tejado del edificio contiguo.
+Doce —la plaza. Despejado. Tres —el callejón detrás de la catedral. Hombre con mochila. Seis —la escalera detrás de mí. Silencio. Nueve —el techo del edificio vecino.
 
-Las palomas echaron a volar. Las palomas no vuelan sin motivo.
+Las palomas alzaron el vuelo. Las palomas no vuelan sin razón.
 
-Dos en la plaza. Uno en el tejado. Un cuarto en el callejón. Grupo.
+Dos en la plaza. Uno en el techo. Un cuarto en el callejón. Equipo.
 
-La mota de polvo flotaba en el aire.
+La mota de polvo suspendida en el aire.
 
-Después: un clic. Resorte. Los sonidos volvieron de golpe.
+Después —un clic. Un resorte. Los sonidos regresaron de golpe.
 
-Pasos abajo. Rápidos. Por la escalera. Subiendo.
+Pasos abajo. Rápidos. En la escalera. Subiendo.
 
-La silla chirrió contra el suelo. Él ya estaba de pie.
+Su silla rechinó contra el piso. Ya estaba de pie.
 
 —Nos vemos.
 
-Escalera principal. Al encuentro de los pasos.
+La escalera principal. Hacia los pasos.
 
-Pendrive al bolsillo interior. Cocina. Camarero con bandeja: no le dio tiempo. Los platos aún volaban hacia el suelo, aún no habían llegado. *Para la buena suerte*, pensé, mientras me lanzaba por el hueco de la puerta.
+Memoria —al bolsillo interior. Cocina. El mesero con la charola —no alcanzó. Los platos todavía caían, aún no tocaban el suelo. *Para la suerte*, pensé, lanzándome por el marco de la puerta.
 
-Patio. Adoquines mojados. El pie resbaló: rodilla contra piedra, los vaqueros rasgados hasta la piel. Algo caliente corrió por la espinilla. Me levanté. Valla. Agarre, impulso, voltereta: las botas sobre el asfalto del otro lado.
+Patio. Adoquines mojados. El pie se me resbaló —rodilla contra piedra, el pantalón rasgado hasta la piel. Algo caliente corrió por mi espinilla. Me levanté. Cerca. Agarre, impulso, voltereta —botas golpeando el asfalto del otro lado.
 
-Callejón. Pisadas a diez metros, no más. Respiración ajena, pesada, casi en la nuca. Un perro con cadena se lanzó, el cuenco repiqueteó: no contra mí, contra ellos. Gracias, perro.
+Callejón. Pasos —diez metros atrás, no más. Respiración ajena, pesada, casi en mi nuca. Un perro con cadena se lanzó, hizo sonar su plato —no contra mí, contra ellos. Gracias, perro.
 
-Escalera de incendios. Subir medio piso y bajar, por el toldo del portal, aterrizaje sobre los contenedores de basura. Estruendo. Un gato se escabulló entre mis pies.
+Escalera de incendios. Subí medio piso —y bajé, sobre el toldo de la entrada, aterrizando en los botes de basura. Estruendo. Un gato salió disparado de entre mis pies.
 
-Las pisadas más cerca. Alguien gritó: en checo, luego en inglés. Entonces no es policía.
+Pasos más cerca. Alguien gritó —en checo, después en inglés. Entonces no son policía.
 
-No miré atrás.
+No volteé.
 
+---
 
+Adoquines. La multitud en el Puente de Carlos —turistas, palos de selfie, estatuas vivientes. Bajé el ritmo. Cerré la chamarra, me sacudí la manga. Cuero —buena elección para una agente: revuélcate en cualquier mierda y un minuto después vuelves a verte presentable. La rodilla me ardía bajo el pantalón roto, pero por fuera —otra turista más con mochila.
 
-Adoquines. Multitud en el Puente de Carlos: turistas, palos de selfie, estatuas vivientes. Aminoré. Me abroché la chaqueta, sacudí la manga. Chaqueta de cuero: buena elección para una agente. Revuélcate en cualquier mierda y un minuto después vuelves a parecer presentable. La rodilla ardía bajo el vaquero rasgado, pero por fuera: otra turista con mochila.
+La memoria me quemaba la piel a través de la tela.
 
-El pendrive quemaba la piel a través de la tela.
+Autonom. No todo está listo. Pero no hay otra salida.
+
+Al este.
+
+---
+
+    /// REGISTRO INTERCEPTADO ///
+    ESTADO: EMERGENCE — perdida, Plaza de la Ciudad Vieja
+    Contacto — detenido, liberado tras 4 horas. Documentos limpios.
+    RECOMENDACIÓN: Continuar vigilancia.
+    NOTA: El objetivo permaneció en el café menos de 15 minutos.
+    Transferencia de materiales confirmada. Naturaleza desconocida.
+
+---
+
+*Las manos recuerdan lo que la cabeza olvidó.*

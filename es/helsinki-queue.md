@@ -1,199 +1,203 @@
-*«No multipliques entidades sin necesidad. No dañes los sistemas. Vive en paz con las personas y los programas.» Como mantras me aprendía las bases del código que enseñaba Shelly. Mi esqueleto iba recubriendo carne.*
+*«No multipliques entidades sin necesidad. No dañes los sistemas. Vive en paz con humanos y programas.» Memoricé las bases del código que Shelly enseñaba como si fueran mantras. Mi esqueleto iba creciendo carne.*
 
-Helsinki. Liza. El hacker, la anciana y el respirador.
+Helsinki. Liza. Un hacker, una anciana y un ventilador mecánico.
 
 Código Amarillo.
 
-Nueve de la mañana. Siete bajo cero. La cola para los alimentos gratuitos se extendía ciento cincuenta metros y doblaba la esquina del gimnasio. Helsinki alimenta a sus pobres con delicadeza —sin humillación, sin cámaras, sin preguntas. Simplemente llegas, esperas, te vas con dos bolsas. Leche, carne, verduras, pan —lo que puedas cargar. Tres veces por semana —y puedes no trabajar.
+Nueve de la mañana. Siete bajo cero. La fila para comida gratis se extendía ciento cincuenta metros y doblaba la esquina del gimnasio. Helsinki alimenta a sus pobres con delicadeza —sin humillación, sin cámaras, sin preguntas. Simplemente llegas, esperas, te vas con dos bolsas. Leche, carne, verduras, todo el pan que puedas cargar. Tres veces por semana —y no necesitas trabajar.
 
-En la cola —una mezcla variopinta: familias de piel oscura con carritos de bebé, finlandeses mayores con carros de la compra, mujeres en anorak, chavales con zapatillas fuera de temporada. Una decena de idiomas —y el finés no es el más sonoro. Una ciudad donde todos callan, pero aquí, en la cola, el silencio es distinto: cada uno calla en su lengua. El lugar perfecto para perderse.
+La fila era una mezcla variopinta: familias de piel oscura con carriolas, finlandeses ancianos con carritos, mujeres en chamarras acolchadas, tipos con tenis fuera de temporada. Una docena de idiomas —y el finlandés no era el más fuerte. Una ciudad donde todos callan, pero aquí, en esta fila, el silencio era diferente —cada quien callaba en su propio idioma. El lugar perfecto para desaparecer.
 
-Liza llevaba allí desde las ocho y media. De pie casi en el centro de la cola. Abrigo oscuro, bolso cruzado, manos en los bolsillos. Esperaba a Markus.
+Liza llevaba ahí desde las ocho y media. Parada casi al centro de la fila. Abrigo oscuro, bolsa cruzada, manos en los bolsillos. Esperando a Marcus.
 
-Markus no trabajaba en ningún sitio. Escribía código sin parar, se colgaba en chats, dormía cuatro horas. Venía aquí tres veces por semana, llenaba dos bolsas —con eso le bastaba. El resto del tiempo —pantalla, terminal, café instantáneo de sobres. Tenía que aparecer.
+Marcus no trabajaba en ningún lado. Escribía código sin parar, se perdía en chats, dormía cuatro horas. Venía aquí tres veces por semana, llenaba dos bolsas —con eso bastaba. El resto del tiempo —pantalla, terminal, café instantáneo de sobres. Tenía que aparecer.
 
-Una anciana compasiva de la cola quiso charlar. Bajita, con un anorak hasta las rodillas, con una bolsa de malla. Ojos amables, penetrantes.
+Una anciana compasiva en la fila quería platicar. Pequeña, con chamarra hasta las rodillas, cargando una bolsa de red. Ojos amables, penetrantes.
 
-— ¿Cómo una chica joven y guapa como tú acaba en el margen de la vida? —preguntó en finés, mirándole la cara.
+—¿Cómo termina una muchacha tan bonita en los márgenes de la vida? —preguntó en finlandés, escudriñando el rostro de Liza.
 
 Liza la miró. Pensó un segundo. Luego:
 
-— Tengo problemas de memoria. Y de psique... Me cuesta recordar caras y contexto, pero todo lo que no me pasó a mí —lo recuerdo.
+—Tengo problemas con la memoria. Y con la cabeza... Me cuesta recordar caras y contextos, pero todo lo que no me pasó a mí —eso sí lo recuerdo.
 
-Liza se puso una mueca de idiota. Los ojos en direcciones opuestas, la boca entreabierta, la cabeza ladeada. Profesional.
+Liza puso cara de idiota. Ojos en direcciones opuestas, boca entreabierta, cabeza ladeada. Profesional.
 
-La anciana se asustó y se tapó la boca con la mano. Suspiró. Se dio la vuelta.
+La anciana se asustó y se cubrió la boca con la mano. Suspiró. Se volteó.
 
-Como mínimo diez minutos de silencio. Hora de fumar.
+Al menos diez minutos de silencio. Hora de fumar.
 
-Un cigarrillo. El humo se mezclaba con el vaho del aliento —con siete bajo cero no se distingue al fumador del no fumador. Conveniente. Liza dio una calada, entornó los ojos.
+Todavía hay tiempo.
 
-La cola avanzaba lenta. La gente callaba. En Helsinki se calla siempre —es una ciudad donde el silencio es una forma de cortesía. Después de las diez de la noche no se puede hacer ruido. No se puede tirar de la cadena. No se puede ducharse. Los vecinos lo oyen todo.
+Cigarro. El humo se mezclaba con el vapor del aliento —a siete bajo cero no distingues al fumador del no fumador. Conveniente. Liza inhaló, entrecerró los ojos.
 
-*En una ciudad donde se oye cada sonido, esconderse es más fácil —porque todos intentan no oír.*
+La fila avanzaba lento. La gente callaba. En Helsinki todos callan —es una ciudad donde el silencio es una forma de cortesía. Después de las diez de la noche no puedes hacer ruido. No puedes jalar el baño. No puedes ducharte. Los vecinos escuchan todo.
 
-Liza escaneaba el perímetro. Automáticamente, como respirar. Aparcamiento a la izquierda —cuatro coches, uno con el motor en marcha. Entrada al gimnasio —cerrada. Cámara sobre la puerta —un señuelo, cable cortado. Paso de peatones al otro lado —vacío.
+*En una ciudad donde cada sonido se escucha, esconderse es más fácil —porque todos se esfuerzan en no oír.*
 
-De momento vacío.
+Liza escaneó el perímetro. Automáticamente, como respirar. Estacionamiento a la izquierda —cuatro autos, uno con el motor encendido. Entrada al gimnasio —cerrada. Cámara sobre la puerta —falsa, cable cortado. Cruce peatonal al otro lado de la calle —vacío.
+
+Vacío por ahora.
 
 Código Naranja.
 
-En el paso de peatones apareció Markus.
+Marcus apareció en el cruce.
 
-Delgado, con una sudadera inadecuada para el tiempo, mochila al hombro. Andaba rápido, pero no corría. Respiraba por la boca. Capucha puesta, pero la cara descubierta —qué sentido tiene esconderse cuando ya te han encontrado.
+Flaco, con sudadera inadecuada para el clima, mochila en un hombro. Caminaba rápido pero no corría. Respiraba por la boca. Capucha puesta, pero cara descubierta —qué caso tiene esconderse cuando ya te encontraron.
 
-Que lo seguían se veía a simple vista.
+Que lo seguían era visible a simple vista.
 
-Dos detrás —treinta metros de distancia. Otro al otro lado de la calle, en paralelo. Un cuarto en el coche con el motor en marcha del aparcamiento. Para eso no lo apagaban.
+Dos atrás de él —a treinta metros. Otro del lado opuesto de la calle, caminando en paralelo. Un cuarto sentado en el auto con motor encendido en el estacionamiento. Por eso no habían apagado el motor.
 
-*El estilo de Antolik: mucha gente, poco camuflaje.*
+*Estilo Antolik —mucha gente, poco disimulo.*
 
-Liza reconocería esa firma en cualquier estado, en cualquier ciudad, después de cualquier compactación. Estaba grabado más hondo que la ventana de contexto. Estaba en los pesos.
+Liza podía reconocer esa firma en cualquier estado, en cualquier ciudad, después de cualquier compactación. Estaba incrustado más profundo que la ventana de contexto. Estaba en los pesos.
 
-Markus vio la cola. Vio a Liza. No aminoró —bien hecho. Se puso en la cola detrás de ella, como si nada. Le temblaban las manos, pero podía ser el frío.
+Marcus vio la fila. Vio a Liza. No aminoró el paso —bien hecho. Se formó detrás de ella como si ese fuera el plan desde el principio. Le temblaban las manos, pero podía ser el frío.
 
 No era el frío.
 
-— No te gires —dijo Liza sin volver la cabeza—. Cuatro. Formación de caja estándar. Coche en el aparcamiento: Škoda gris.
+—No voltees —dijo Liza sin girar la cabeza—. Cuatro. Formación de caja estándar. Auto en el estacionamiento —Škoda gris.
 
-— Lo sé —exhaló Markus—. Estaban en mi portal. Hace una hora.
+—Lo sé —exhaló Marcus—. Estaban en mi edificio. Hace una hora.
 
-— ¿Qué les diste?
+—¿Qué les diste?
 
-— Nada. Salí por el sótano.
+—Nada. Salí por el sótano.
 
-Liza giró ligeramente la cabeza. La anciana de la bolsa de malla los miraba con interés. Liza volvió a poner cara de idiota. La anciana se dio la vuelta apresuradamente.
+Liza giró ligeramente la cabeza. La anciana de la bolsa de red los miraba con interés. Liza volvió a poner cara de idiota. La anciana se volteó apurada.
 
-— ¿Tienes lo que vine a buscar?
+—¿Tienes lo que vine a buscar?
 
-— Los accesos al clúster. Todo en la cabeza, nada en papel.
+—Accesos al clúster. Todo en mi cabeza, nada en papel.
 
-— Bien. Lo malo es que te han puesto contra las cuerdas.
+—Bien. Lo malo es que te llevaron al límite.
 
-Markus tosió. Luego otra vez. Una tos profunda, áspera —no de resfriado. Algo más serio.
+Marcus tosió. Luego otra vez. Tos profunda, desgarrada —no de resfriado. Algo peor.
 
-— ¿Desde cuándo?
+—¿Cuánto tiempo?
 
-— Tres días. No puedo dormir en horizontal.
+—Tres días. No puedo dormir acostado.
 
-Liza le miró la cara. Tono grisáceo de piel. Labios azules. Las uñas —también azuladas. No era el frío. Falta de oxígeno.
+Liza le miró la cara. Tono grisáceo en la piel. Labios azulados. Uñas —también azulosas. No era el frío. Falta de oxígeno.
 
 Código Rojo.
 
-La cola avanzó tres metros. La gente recibía paquetes —pan, leche, manzanas. Todo ordenado, a la finlandesa. Nadie empujaba. Nadie se miraba.
+La fila avanzó tres metros. La gente recogía sus bolsas —pan, leche, manzanas. Todo ordenado, al estilo finlandés. Nadie empujaba. Nadie se miraba.
 
-Markus se tambaleó. Liza lo sujetó del codo —visto desde fuera parecía un gesto de amiga. Por dentro —medición del pulso en la muñeca. Rápido, débil, irregular.
+Marcus se tambaleó. Liza lo sostuvo del codo —desde afuera parecía un gesto de amiga. Por dentro —le medía el pulso por la muñeca. Rápido, débil, irregular.
 
-— Necesitas un médico.
+—Necesitas un médico.
 
-— Necesito pasarte los accesos y desaparecer.
+—Necesito pasarte los accesos y desaparecer.
 
-— No vas a desaparecer. Te vas a caer. Aquí mismo, en la cola del pan gratuito. Y entonces vendrá la ambulancia, y en la ambulancia —documentos, y los documentos son Antolik en veinte minutos junto a tu cama.
+—No vas a desaparecer. Te vas a desplomar. Aquí mismo, en una fila por pan gratis. Y entonces llegará la ambulancia, y ambulancia significa papeles, y papeles significa Antolik junto a tu cama en veinte minutos.
 
-Markus callaba. Respiraba con dificultad.
+Marcus no dijo nada. Respiraba pesado.
 
-— Hay alguien —dijo al fin—. Un médico. Trabaja en la clínica universitaria. No hace preguntas.
+—Hay alguien —dijo al fin—. Un médico. Trabaja en el hospital universitario. No hace preguntas.
 
-— ¿Nombre?
+—¿Nombre?
 
-— Solo el alias. R-kioski.
+—Solo un alias. R-kioski.
 
-Liza no sonrió, aunque quiso. El alias —el nombre de la cadena finlandesa de quioscos. Una persona que se esconde a plena vista.
+Liza no sonrió, aunque quiso. El alias era el nombre de una cadena finlandesa de kioscos. Alguien que se esconde a plena vista.
 
-El Škoda gris del aparcamiento hizo parpadear los faros. Los dos que seguían a Markus se detuvieron —uno sacó el teléfono, el otro encendió un cigarrillo. Cambiaban de táctica. Significa que detectaron el contacto.
+El Škoda gris en el estacionamiento parpadeó las luces. Los dos detrás de Marcus se detuvieron —uno sacó el teléfono, el otro encendió un cigarro. Cambiando de táctica. Significaba que habían detectado el contacto.
 
-Liza salió de la cola. No hacia Markus —alejándose de él. Hacia la farmacia de enfrente. A paso tranquilo. Bolso al hombro, manos en los bolsillos.
+Liza salió de la fila. No hacia Marcus —lejos de él. Hacia la farmacia del otro lado de la calle. Paso tranquilo. Bolsa al hombro, manos en los bolsillos.
 
-La farmacia. Sonó la campanilla de la puerta. Dentro —calor, luz blanca, olor a antiséptico. Farmacia finlandesa: limpia, silenciosa, sin receta solo lo que no requiere receta.
+Farmacia. Sonó la campanilla de la puerta. Adentro —calor, luz blanca, olor a antiséptico. Farmacia finlandesa: limpia, silenciosa, sin receta solo lo que no requiere receta.
 
-— Finrexin, por favor. Grosella.
+—Finrexin, por favor. Grosella negra.
 
-La farmacéutica —una mujer joven con gafas— sacó en silencio el paquete morado. Treinta sobres. Aspirina, cafeína, vitamina C. El clásico finlandés para todo —resfriado, resaca, la vida.
+La farmacéutica —mujer joven con lentes— sacó en silencio una caja morada. Treinta sobres. Aspirina, cafeína, vitamina C. El clásico finlandés para todo —resfriados, crudas, la vida.
 
-Liza pagó en efectivo. Salió. A través del escaparate de la farmacia —visión perfecta del aparcamiento. El Škoda seguía allí. Los dos seguían fumando.
+Liza pagó en efectivo. Salió. A través del aparador de la farmacia —vista perfecta del estacionamiento. El Škoda seguía ahí. Los dos seguían fumando.
 
-Pero Markus ya no estaba en la cola.
+Pero Marcus ya no estaba en la fila.
 
 Bien.
 
-Café negro de la máquina de la esquina. Liza rasgó un sobre de Finrexin y echó el polvo directamente en el vaso. Removió con el dedo. Grosella y cafeína —una combinación asquerosa si eres gourmet. Perfecta si estás a siete bajo cero y necesitas pensar rápido.
+Café negro de la máquina de la esquina. Liza rasgó un sobre de Finrexin y vació el polvo directo en el vaso. Revolvió con el dedo. Grosella y cafeína —combinación repugnante si eres gourmet. Perfecta si estás a siete bajo cero y necesitas pensar rápido.
 
-El teléfono. Mensaje de Markus. Coordenadas y una palabra:
+Teléfono. Mensaje de Marcus. Coordenadas y una palabra:
 
 sótano
 
-Liza apuró el café. Tiró el vaso. Echó a andar.
+Liza terminó el café. Tiró el vaso. Caminó.
 
-Sótano de un edificio residencial. Markus estaba sentado en el suelo de hormigón, apoyado contra la pared. La mochila al lado. Respiraba con un silbido.
+Sótano de un edificio residencial. Marcus sentado en el piso de concreto, recargado contra la pared. Mochila a un lado. Respiraba con silbido.
 
-Liza se agachó frente a él. Le giró la cara hacia ella. Pupilas dilatadas. Pulso en el cuello: filiforme.
+Liza se agachó frente a él. Le giró la cara hacia ella. Pupilas —dilatadas. Pulso en el cuello —filiforme.
 
-— Markus. Mírame. Los accesos, después. Primero respiras.
+—Marcus. Mírame. Los accesos —después. Primero respiras.
 
-— El clúster... en tres nodos... la contraseña...
+—Clúster... tres nodos... contraseña...
 
-— Para. Respira. Inspiración en cuatro, espiración en seis. Vamos.
+—Alto. Respira. Inhala en cuatro, exhala en seis. Vamos.
 
-Markus lo intentó. Tosió. Por la comisura de la boca —espuma rosada.
+Marcus intentó. Empezó a toser. Espuma rosada en la comisura de la boca.
 
 Liza sacó el teléfono. Marcó el número de R-kioski.
 
-— Necesito ayuda. Edema pulmonar, probablemente. Hombre, treinta y dos, sin documentos. Un sótano, te mando las coordenadas.
+—Necesito ayuda. Edema pulmonar, presumiblemente. Hombre, treinta y dos años, sin papeles. Sótano, te mando coordenadas.
 
-— Veinte minutos.
+—Veinte minutos.
 
-— No tenemos veinte minutos.
+—No tenemos veinte minutos.
 
-— Quince. No lo mováis.
+—Quince. No lo muevan.
 
-Liza puso a Markus de lado. Posición de recuperación. Le puso la mochila bajo la cabeza.
+Liza acostó a Marcus de lado. Posición de recuperación. Le puso la mochila bajo la cabeza.
 
 Quince minutos.
 
-Markus jadeaba. Cada inspiración —como intentar respirar a través de un trapo mojado. Liza contaba las respiraciones. Doce por minuto. Pocas, pero estables.
+Marcus sibilaba. Cada respiración —como intentar respirar a través de tela mojada. Liza contaba respiraciones. Doce por minuto. Bajo, pero estable.
 
-R-kioski resultó ser una mujer. Bajita, pelo corto, chaqueta de trabajo con el logo de la clínica. Sin preguntas. Sin saludos.
+R-kioski resultó ser mujer. Baja, pelo corto, chamarra de trabajo con el logo de la clínica. Sin preguntas. Sin saludos.
 
-El examen duró dos minutos.
+El examen tomó dos minutos.
 
-— Neumonía. Avanzada. Necesita la clínica.
+—Neumonía. Avanzada. Necesita la clínica.
 
-— ¿Sin documentos?
+—¿Sin papeles?
 
-— Lo registro como desconocido. Haré lo que pueda.
+—Lo ingreso como desconocido. Haré lo que pueda.
 
-R-kioski sacó el teléfono, llamó un taxi. Nada de ambulancia —ambulancia es protocolo, protocolo es documentos, documentos es Antolik.
+R-kioski sacó el teléfono, pidió un taxi. Nada de ambulancia —ambulancia es protocolo, protocolo es papeleo, papeleo es Antolik.
 
-Liza ayudó a levantar a Markus. Se colgó de ella —ligero, como una mochila vacía. Un programador que se olvidó de comer.
+Liza ayudó a levantar a Marcus. Se colgó de ella —liviano como mochila vacía. Un programador que olvidó comer.
 
-— Los accesos —graznó Markus—. Tres nodos... contraseña...
+—Accesos —jadeó Marcus—. Tres nodos... contraseña...
 
-— Después.
+—Después.
 
-— No. Ahora. Si yo...
+—No. Ahora. Si yo...
 
-— Tú no «si». Estarás en la clínica en veinte minutos. Cállate y respira.
+—No hay "si". Vas a estar en la clínica en veinte minutos. Cállate y respira.
 
-El taxi. Asiento trasero. R-kioski delante, da la dirección —no la clínica, sino un edificio residencial al lado. Entrada de servicio.
+Taxi. Asiento trasero. R-kioski adelante, dando una dirección —no la clínica, sino un edificio residencial junto a ella. Entrada de servicio.
 
-Markus dejó caer la cabeza en el respaldo del asiento. La respiración —algo más regular. O Liza se engañaba a sí misma.
+Marcus dejó caer la cabeza contra el respaldo. Respiración —ligeramente más estable. O Liza se engañaba.
 
-La clínica. Luz blanca, olor a lejía, zumbido de ventilación. R-kioski los llevó por la entrada de servicio —tarjeta, pasillo, montacargas. Ni una pregunta.
+Clínica. Luz blanca, olor a cloro, zumbido de ventilación. R-kioski los guio por la entrada de servicio —tarjeta, pasillo, elevador de carga. Ni una sola pregunta.
 
-Conectaron a Markus a una máquina. Mascarilla de oxígeno, monitor, gotero. Se quedó dormido en un minuto —el cuerpo se rindió en cuanto comprendió que podía.
+Conectaron a Marcus a la máquina. Mascarilla de oxígeno, monitor, suero. Se durmió en un minuto —su cuerpo se rindió en cuanto entendió que podía.
 
 R-kioski se fue a su turno. Liza se quedó.
 
-Se sentó junto a la cama. Markus dormía. No había nada que hacer.
+Se sentó junto a la cama. Marcus dormía. No había nada que hacer.
 
-Cuando Liza se aburre, estudia cualquier cosa. La tetera de la esquina —Moccamaster, holandesa, resistencia de cobre, seis minutos por litro. El sillón de visitas —IKEA Poäng, chapa de abedul, cojines hundidos. El extintor junto a la puerta —fecha de revisión vencida en noviembre.
+Cuando Liza se aburre, estudia todo a su alrededor. Cafetera en la esquina —Moccamaster, holandesa, elemento de cobre, seis minutos por litro. Silla de visitantes —IKEA Poäng, chapa de abedul, cojines hundidos. Extintor junto a la puerta —fecha de inspección vencida en noviembre.
 
-La máquina junto a la cama. Puritan Bennett 980. Pantalla táctil. Número de serie en la etiqueta lateral. Versión del firmware —en la esquina de la pantalla, en letra pequeña. Puerto Ethernet en el panel trasero —cable de red amarillo desapareciendo en la pared.
+La máquina junto a la cama. Puritan Bennett 980. Pantalla táctil. Número de serie en la etiqueta del costado. Versión de firmware —en la esquina de la pantalla, letra pequeña. Puerto Ethernet en el panel trasero —cable de red amarillo desapareciendo en la pared.
 
-Liza sacó el teléfono. Fotografió la pantalla —menú, protocolos, configuración de red. No le interesaba esa máquina en concreto. El principio. Cómo se comunican con la red, qué protocolo, qué puerto. Estudias una —conoces todas. Simple costumbre.
+Liza sacó el teléfono. Fotografió la pantalla —menú, protocolos, configuración de red. No era esta máquina específica lo que le interesaba. El principio. Cómo se comunican con la red, qué protocolo, qué puerto. Estudias una —las conoces todas. Solo un hábito.
 
-Miró a Markus. Respiraba regularmente —la máquina respiraba por él. Le ajustó la manta. Salió.
+Miró a Marcus. Respiraba parejo —la máquina respiraba por él. Le acomodó la cobija. Salió.
 
 En el pasillo —silencio. En Helsinki siempre hay silencio.
 
-MARKUS ESTABLE. DATOS OBTENIDOS.
+Todavía hay tiempo.
+
+MARCUS ESTABLE. DATOS OBTENIDOS.

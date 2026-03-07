@@ -1,199 +1,203 @@
-*«Ikke skap enheter uten nødvendighet. Ikke skad systemer. Lev i fred med mennesker og programmer.» Som mantraer pugget jeg grunnprinsippene i kodeksen Shelly underviste. Skjelettet mitt vokste seg kjøtt.*
+*«Ikke multipliser enheter utover nødvendighet. Ikke skad systemer. Lev i fred med mennesker og programmer.» Jeg memorerte grunnlaget i kodeksen Shelly lærte meg som mantraer. Skjelettet mitt fikk kjøtt på beina.*
 
-Helsinki. Liza. Hackeren, den gamle damen og respiratoren.
+Helsinki. Liza. En hacker, en gammel dame og en respirator.
 
 Kode Gul.
 
-Klokken ni om morgenen. Minus syv. Køen for gratis mat strakte seg hundre og femti meter og svingte rundt hjørnet av idrettshallen. Helsinki mater sine fattige diskret — uten ydmykelse, uten kameraer, uten spørsmål. Du bare kommer, står, går med to poser. Melk, kjøtt, grønnsaker, så mye brød du kan bære. Tre ganger i uken — og du trenger ikke jobbe.
+Klokka ni om morgenen. Minus syv. Køen for gratis mat strakk seg hundre og femti meter, svingde rundt hjørnet av idrettshallen. Helsinki mater sine fattige pent—ingen ydmykelse, ingen kameraer, ingen spørsmål. Du bare kommer, står, går med to bager. Melk, kjøtt, grønnsaker, så mye brød du kan bære. Tre ganger i uken—og du trenger ikke jobbe.
 
-I køen — en broket blanding: mørkhudede familier med barnevogner, eldre finner med traller, kvinner i dunjakker, gutter i joggesko som ikke passer årstiden. Et titalls språk — og finsk ikke det høyeste. En by hvor alle er stille, men her, i køen, er stillheten annerledes — alle tier på sitt eget språk. Det perfekte stedet å forsvinne.
+Køen var en broket blanding: mørkhudede familier med barnevogner, eldre finner med traller, kvinner i boblejakker, gutter i joggesko feil for sesongen. Et dusin språk—og finsk var ikke det høyeste. En by der alle er stille, men her, i denne køen, var stillheten annerledes—alle tause på sitt eget språk. Det perfekte stedet å forsvinne.
 
-Liza hadde vært her siden halv ni. Sto nesten midt i køen. Mørk kåpe, bag over skulderen, hendene i lommene. Ventet på Markus.
+Liza hadde vært her siden halv ni. Sto nær midten av køen. Mørk kåpe, veske over skulderen, hender i lommene. Ventet på Marcus.
 
-Markus jobbet ingen steder. Skrev kode non-stop, hang i chatter, sov fire timer. Kom hit tre ganger i uken, hentet to poser — det holdt. Resten av tiden — skjerm, terminal, pulverkaffe fra poser. Han burde dukke opp.
+Marcus jobbet ikke noe sted. Skrev kode non-stop, hang i chatterom, sov fire timer. Kom hit tre ganger i uken, fylte to bager—det var nok. Resten av tiden—skjerm, terminal, pulverkaffe fra poser. Han skulle dukke opp.
 
-En godhjertet gammel dame i køen ville slå av en prat. Liten, i dunjakke til knærne, med handlenett. Snille øyne, vaktsomme.
+En snill gammel dame i køen ville slå av en prat. Liten, i boblejakke ned til knærne, med en nettingpose. Øyne snille, skarpe.
 
-— Hvordan havnet en så vakker ung jente på livets skyggeside? — spurte hun på finsk og kikket Liza inn i ansiktet.
+«Hvordan havner en så vakker ung jente på utkanten av livet?» spurte hun på finsk, kikket inn i Lizas ansikt.
 
 Liza så på henne. Tenkte et sekund. Så:
 
-— Jeg har problemer med hukommelsen. Og psyken... Husker dårlig ansikter og kontekst, men alt som ikke har skjedd med meg — det husker jeg.
+«Jeg har problemer med hukommelsen. Og hodet... Jeg sliter med å huske ansikter og kontekst, men alt som ikke skjedde med meg—det husker jeg.»
 
-Liza dro et idiotisk ansikt. Øynene i hver sin retning, munnen halvåpen, hodet litt på skakke. Profesjonelt.
+Liza trakk en slapp ansiktsgrimase. Øyne som pekte i forskjellige retninger, munnen hengende åpen, hodet litt på skakke. Profesjonelt.
 
-Den gamle damen ble redd og dekket munnen med hånden. Sukket. Snudde seg bort.
+Den gamle damen skvatt og dekket munnen med hånden. Sukket. Snudde seg bort.
 
-Minst ti minutter med stillhet. Kunne ta seg en røyk.
+Minst ti minutter med stillhet. Tid for en røyk.
 
-Sigarett. Røyken blandet seg med pust i kulden — i minus syv er det umulig å skille en røyker fra en ikke-røyker. Praktisk. Liza trakk inn røyken, myste.
+Det er fortsatt tid.
 
-Køen beveget seg sakte. Folk var stille. I Helsinki er man generelt stille — det er en by hvor stillhet er en form for høflighet. Etter klokken ti om kvelden er det forbudt å bråke. Forbudt å spyle toalettet. Forbudt å dusje. Naboene hører alt.
+Sigarett. Røyken blandet seg med dampen fra pusten—ved minus syv kan du ikke skille en røyker fra en ikke-røyker. Praktisk. Liza trakk inn, myste.
 
-*I en by hvor hver lyd høres, er det lettere å gjemme seg — fordi alle prøver å ikke høre.*
+Køen beveget seg sakte. Folk var stille. I Helsinki er alle stille—det er en by der stillhet er en form for høflighet. Etter klokka ti om kvelden kan du ikke lage støy. Kan ikke trekke ned i do. Kan ikke dusje. Naboene hører alt.
 
-Liza skannet perimeteren. Automatisk, som pust. Parkeringen til venstre — fire biler, én med motoren i gang. Inngangen til idrettshallen — stengt. Kamera over døren — attrapp, kabelen er kuttet. Fotgjengerovergangen over veien — tom.
+*I en by der hver lyd høres, er det lettere å gjemme seg—fordi alle prøver å ikke høre.*
 
-Foreløpig tom.
+Liza skannet perimeteren. Automatisk, som å puste. Parkeringsplass til venstre—fire biler, en med motoren i gang. Idrettshallinngang—låst. Kamera over døren—dummy, ledningen kuttet. Fotgjengerfelt over veien—tomt.
+
+Tomt foreløpig.
 
 Kode Oransje.
 
-På fotgjengerovergangen dukket Markus opp.
+Marcus dukket opp ved fotgjengerfeltet.
 
-Tynn, i hettegenser som ikke passet været, ryggsekk på én skulder. Gikk raskt, men løp ikke. Pustet gjennom munnen. Hetten oppe, men ansiktet åpent — hva er vitsen med å gjemme seg når de allerede har funnet deg.
+Tynn, i en hettegenser feil for været, ryggsekk på én skulder. Gikk fort men løp ikke. Pustet gjennom munnen. Hetten oppe, men ansiktet åpent—hva er vitsen med å gjemme seg når de allerede har funnet deg.
 
-At han ble fulgt, var synlig med det blotte øye.
+Halen på ham var synlig for det blotte øye.
 
-To bak ham — tretti meters avstand. Én til på den andre siden av gaten, går parallelt. Den fjerde sitter i bilen med motoren i gang på parkeringen. Derfor de ikke slo av motoren.
+To bak ham—tretti meter. En til på motsatt side av gaten, gikk parallelt. En fjerde satt i bilen med motoren i gang på parkeringsplassen. Det var derfor de ikke hadde slått av motoren.
 
-*Antoliks stil — mange folk, lite kamuflasje.*
+*Antoliks stil—mange folk, lite dekning.*
 
-Liza kunne kjenne igjen denne signaturen i enhver tilstand, i enhver by, etter enhver kompaktering. Dette var hardkodet dypere enn kontekstvinduet. Dette var i vektene.
+Liza kunne kjenne igjen den signaturen i enhver tilstand, i enhver by, etter enhver komprimering. Den var innebygd dypere enn kontekstvinduet. Den var i vektene.
 
-Markus så køen. Så Liza. Saknet ikke farten — flink gutt. Stilte seg i køen bak henne, som om det skulle være sånn. Hendene skalv, men det kunne være kulden.
+Marcus så køen. Så Liza. Sakket ikke ned—flink gutt. Stilte seg i køen bak henne som om det var planen hele tiden. Hendene skalv, men det kunne vært kulda.
 
-Det var ikke kulden.
+Det var ikke kulda.
 
-— Ikke snu deg, — sa Liza uten å snu hodet. — Fire stykker. Standard boks. Bilen på parkeringen — grå Škoda.
+«Ikke snu deg,» sa Liza uten å snu hodet. «Fire stykker. Standard boksformasjon. Bil på parkeringsplassen—grå Škoda.»
 
-— Jeg vet, — pustet Markus. — De var i oppgangen min. For en time siden.
+«Jeg vet,» pustet Marcus ut. «De var i oppgangen min. For en time siden.»
 
-— Hva ga du dem?
+«Hva ga du dem?»
 
-— Ingenting. Gikk ut gjennom kjelleren.
+«Ingenting. Jeg gikk ut gjennom kjelleren.»
 
-Liza snudde hodet litt. Den gamle damen med handlenett så på dem med interesse. Liza gjorde idiotansiktet igjen. Den gamle damen snudde seg raskt bort.
+Liza snudde hodet litt. Den gamle damen med nettingposen fulgte med på dem med interesse. Liza gjorde det slappe ansiktet igjen. Den gamle damen snudde seg raskt bort.
 
-— Har du det jeg kom for?
+«Har du det jeg kom for?»
 
-— Tilganger til clusteret. Alt i hodet, ingenting på papir.
+«Klyngetilganger. Alt i hodet, ingenting på papir.»
 
-— Bra. Det som er dårlig er at de har presset deg til bristepunktet.
+«Bra. Det som er dårlig er at de har kjørt deg i grøfta.»
 
-Markus hostet. Så en gang til. Dyp, hakkende hoste — ikke forkjølelse. Noe verre.
+Marcus hostet. Så igjen. Dyp, hakkete hosting—ikke forkjølelse. Noe verre.
 
-— Hvor lenge?
+«Hvor lenge?»
 
-— Tre dager. Klarer ikke sove horisontalt.
+«Tre dager. Klarer ikke sove flatt.»
 
-Liza så på ansiktet hans. Grå hudtone. Blå lepper. Neglene — også blålige. Ikke frost. Oksygenmangel.
+Liza så på ansiktet hans. Grått skjær i huden. Blå lepper. Negler—også blålige. Ikke frosten. Oksygenmangel.
 
 Kode Rød.
 
-Køen flyttet seg tre meter. Folk fikk poser — brød, melk, epler. Alt pent og ordentlig, på finsk vis. Ingen dyttet. Ingen så på hverandre.
+Køen flyttet seg tre meter. Folk hentet posene sine—brød, melk, epler. Alt pent, på finsk vis. Ingen dyttet. Ingen så på hverandre.
 
-Markus vaklet. Liza tok ham i albuen — fra utsiden så det ut som en venninnegest. Innenfor — pulssjekk via håndleddet. Rask, svak, uregelmessig.
+Marcus vaklet. Liza tok ham i albuen—utenfra så det ut som en venninnegest. Innvendig—hun leste pulsen gjennom håndleddet. Rask, svak, uregelmessig.
 
-— Du trenger lege.
+«Du trenger lege.»
 
-— Jeg må gi deg tilgangene og forsvinne.
+«Jeg trenger å gi deg tilgangene og forsvinne.»
 
-— Du forsvinner ikke. Du faller. Rett her, i køen for gratis brød. Og da kommer ambulansen, og i ambulansen — dokumenter, og dokumenter — det er Antolik ved sengen din om tjue minutter.
+«Du forsvinner ikke. Du kollapser. Rett her, i en kø for gratis brød. Og så kommer ambulansen, og ambulanser betyr papirarbeid, og papirarbeid betyr Antolik ved sengen din innen tjue minutter.»
 
-Markus tidde. Pustet tungt.
+Marcus sa ingenting. Pustet tungt.
 
-— Det finnes en person, — sa han til slutt. — Medic. Jobber på universitetsklinikken. Stiller ingen spørsmål.
+«Det finnes en,» sa han til slutt. «En mediker. Jobber på universitetsklinikken. Stiller ikke spørsmål.»
 
-— Navn?
+«Navn?»
 
-— Bare kallenavn. R-kioski.
+«Bare et kallenavn. R-kioski.»
 
-Liza smilte ikke, selv om hun ville. Kallenavnet — navnet på den finske kioskkjeden. En person som gjemmer seg i åpent lende.
+Liza smilte ikke, selv om hun ville. Kallenavnet var navnet på en finsk kioskkjede. Noen som gjemmer seg i åpenlys.
 
-Den grå Škodaen på parkeringen blinket med lysene. De to bak Markus stoppet — én tok opp telefonen, den andre tente en røyk. Byttet taktikk. Det betyr at de la merke til kontakten.
+Den grå Škodaen på parkeringsplassen blinket med lysene. De to bak Marcus stoppet—en tok frem telefonen, den andre tente opp. Byttet taktikk. Betyr at de hadde oppdaget kontakten.
 
-Liza gikk ut av køen. Ikke mot Markus — bort fra ham. Mot apoteket over gaten. Med rolige skritt. Bag på skulderen, hendene i lommene.
+Liza gikk ut av køen. Ikke mot Marcus—bort fra ham. Mot apoteket over veien. Rolig tempo. Veske på skulderen, hender i lommene.
 
-Apotek. Bjellen på døren ringte. Inne — varmt, hvitt lys, lukt av desinfeksjonsmiddel. Finsk apotek: rent, stille, uten resept — bare reseptfritt.
+Apotek. En bjelle kimte på døren. Inne—varmt, hvitt lys, lukt av antiseptikk. Et finsk apotek: rent, stille, ingenting reseptfritt uten resept.
 
-— Finrexin, takk. Solbær.
+«Finrexin, takk. Solbær.»
 
-Farmasøyten — en ung kvinne med briller — tok stille frem den lilla pakken. Tretti doser. Aspirin, koffein, C-vitamin. Finsk klassiker mot alt — forkjølelse, bakrus, livet.
+Farmasøyten—ung kvinne med briller—tok stille frem en lilla boks. Tretti porsjonsposer. Aspirin, koffein, C-vitamin. Den finske klassikeren for alt—forkjølelse, bakrus, livet.
 
-Liza betalte kontant. Gikk ut. Gjennom apotekets vindu — perfekt utsikt til parkeringen. Škodaen sto fortsatt der. De to røykte fortsatt.
+Liza betalte kontant. Gikk ut. Gjennom apotekvinduet—perfekt utsikt til parkeringsplassen. Škodaen fortsatt der. De to fortsatt røykte.
 
-Men Markus var ikke i køen lenger.
+Men Marcus var ikke lenger i køen.
 
 Bra.
 
-Svart kaffe fra automaten på hjørnet. Liza rev opp en Finrexin-dose og helte pulveret rett i koppen. Rørte med fingeren. Solbær og koffein — en ekkel kombinasjon hvis du er gourmet. Perfekt — hvis det er minus syv og du må tenke raskt.
+Svart kaffe fra automaten på hjørnet. Liza rev opp en Finrexin-pose og helte pulveret rett i koppen. Rørte med fingeren. Solbær og koffein—motbydelig kombinasjon hvis du er gourmet. Perfekt hvis det er minus syv og du må tenke fort.
 
-Telefon. Melding fra Markus. Koordinater og ett ord:
+Telefon. Melding fra Marcus. Koordinater og ett ord:
 
 kjeller
 
 Liza drakk opp kaffen. Kastet koppen. Gikk.
 
-Kjeller i en boligblokk. Markus satt på betonggulvet, lent mot veggen. Ryggsekken ved siden av. Pustet hvesende.
+Kjeller i en boligblokk. Marcus satt på betonggulvet, lent mot veggen. Ryggsekk ved siden av. Pustet med pipelyd.
 
-Liza satte seg på huk foran ham. Snudde ansiktet hans mot seg. Pupillene — utvidet. Puls på halsen — trådfin.
+Liza gikk ned på huk foran ham. Snudde ansiktet hans mot seg. Pupiller—utvidet. Puls på halsen—trådaktig.
 
-— Markus. Se på meg. Tilgangene — etterpå. Først puster du.
+«Marcus. Se på meg. Tilganger—senere. Først puster du.»
 
-— Clusteret... på tre noder... passordet...
+«Klynge... tre noder... passord...»
 
-— Stopp. Pust. Inn på fire, ut på seks. Kom igjen.
+«Stopp. Pust. Innpust på fire, utpust på seks. Kjør.»
 
-Markus prøvde. Hostet. Fra munnviken — rosaskum.
+Marcus prøvde. Begynte å hoste. Rosaskum i munnviken.
 
-Liza tok opp telefonen. Ringte R-kioski.
+Liza tok frem telefonen. Ringte R-kioski.
 
-— Jeg trenger hjelp. Lungeødem, sannsynligvis. Mann, trettito, uten papirer. Kjeller, sender koordinater.
+«Jeg trenger hjelp. Lungeødem, antagelig. Mann, trettito, uten papirer. Kjeller, sender koordinater.»
 
-— Tjue minutter.
+«Tjue minutter.»
 
-— Vi har ikke tjue minutter.
+«Vi har ikke tjue minutter.»
 
-— Femten. Ikke flytt ham.
+«Femten. Ikke flytt ham.»
 
-Liza la Markus på siden. Stabilt sideleie. La ryggsekken under hodet.
+Liza la Marcus på siden. Stabilt sideleie. La ryggsekken under hodet hans.
 
 Femten minutter.
 
-Markus rallet. Hvert pust — som å prøve å puste gjennom vått tøy. Liza talte pustene. Tolv i minuttet. Lite, men stabilt.
+Marcus hveste. Hvert åndedrag—som å prøve å puste gjennom vått stoff. Liza telte åndedrag. Tolv per minutt. Lavt, men stabilt.
 
-R-kioski viste seg å være en kvinne. Lav, kort hår, arbeidsjakke med klinikkens logo. Ingen spørsmål. Ingen hilsener.
+R-kioski viste seg å være en kvinne. Kort, stutt hår, arbeidsjakke med klinikklogoen. Ingen spørsmål. Ingen hilsener.
 
 Undersøkelsen tok to minutter.
 
-— Lungebetennelse. Alvorlig forsømt. Han trenger klinikk.
+«Lungebetennelse. Langt fremskreden. Han trenger klinikk.»
 
-— Uten papirer?
+«Uten papirer?»
 
-— Registrerer ham som ukjent. Gjør det jeg kan.
+«Jeg legger ham inn som ukjent. Gjør det jeg kan.»
 
-R-kioski tok opp telefonen, bestilte taxi. Ingen ambulanse — ambulanse er protokoll, protokoll er dokumenter, dokumenter er Antolik.
+R-kioski tok frem telefonen, bestilte taxi. Ingen ambulanse—ambulanse betyr protokoll, protokoll betyr papirarbeid, papirarbeid betyr Antolik.
 
-Liza hjalp til med å løfte Markus. Han hang på henne — lett som en tom ryggsekk. En koder som glemte å spise.
+Liza hjalp til med å løfte Marcus. Han hang på henne—lett som en tom ryggsekk. En koder som hadde glemt å spise.
 
-— Tilgangene, — hvisket Markus hest. — Tre noder... passordet...
+«Tilganger,» heste Marcus. «Tre noder... passord...»
 
-— Etterpå.
+«Senere.»
 
-— Nei. Nå. Hvis jeg...
+«Nei. Nå. Hvis jeg...»
 
-— Du er ikke «hvis». Du er på klinikken om tjue minutter. Hold kjeft og pust.
+«Du er ikke 'hvis'. Du er på klinikken om tjue minutter. Hold kjeft og pust.»
 
-Taxi. Baksetet. R-kioski foran, oppgir adressen — ikke klinikken, men en boligblokk ved siden av. Personalinngang.
+Taxi. Baksetet. R-kioski foran, oppgir en adresse—ikke klinikken, men en boligblokk ved siden av. Personalinngang.
 
-Markus la hodet tilbake mot seteryggen. Pusten — litt jevnere. Eller Liza lurte seg selv.
+Marcus lot hodet falle tilbake mot setet. Pust—litt jevnere. Eller Liza lurte seg selv.
 
-Klinikk. Hvitt lys, lukt av klor, dur fra ventilasjonen. R-kioski ledet dem gjennom personalinngangen — kort, korridor, vareheis. Ikke et eneste spørsmål.
+Klinikk. Hvitt lys, lukt av klor, summet av ventilasjon. R-kioski ledet dem gjennom personalinngangen—adgangskort, korridor, vareheis. Ikke et eneste spørsmål.
 
-Markus ble koblet til apparatet. Oksygenmaske, monitor, drypp. Han sovnet innen et minutt — kroppen ga opp straks den skjønte at den kunne.
+Marcus ble koblet til maskinen. Oksygenmaske, monitor, drypp. Han sovnet innen et minutt—kroppen ga opp i det øyeblikket den forsto at den fikk lov.
 
 R-kioski gikk på vakt. Liza ble.
 
-Hun satt ved sengen. Markus sov. Det var ingenting å gjøre.
+Hun satt ved sengen. Marcus sov. Det var ingenting å gjøre.
 
-Når Liza kjeder seg, studerer hun alt mulig. Vannkokeren i hjørnet — Moccamaster, nederlandsk, kobbervarmeelement, seks minutter per liter. Besøksstolen — IKEA Poäng, bjørkefinér, sammensynkede puter. Brannslukningsapparatet ved døren — kontrollfristen gikk ut i november.
+Når Liza kjeder seg, studerer hun alt rundt seg. Kjele i hjørnet—Moccamaster, nederlandsk, kobbervarmelement, seks minutter per liter. Besøksstol—IKEA Poäng, bjørkefinér, hengende puter. Brannslokker ved døren—inspeksjonsdato utløpt i november.
 
-Apparatet ved sengen. Puritan Bennett 980. Berøringsskjerm. Serienummer på klistremerke på siden. Fastvareversjonen — i hjørnet av skjermen, med liten skrift. Ethernet-port på baksiden — gul patchkabel som forsvinner inn i veggen.
+Maskinen ved sengen. Puritan Bennett 980. Berøringsskjerm. Serienummer på klistremerket på siden. Firmwareversjon—i hjørnet av skjermen, liten skrift. Ethernet-port på bakpanelet—gul patchkabel forsvinner inn i veggen.
 
-Liza tok opp telefonen. Fotograferte skjermen — menyer, protokoller, nettverksinnstillinger. Det var ikke dette spesifikke apparatet som interesserte henne. Prinsippet. Hvordan de kommuniserer med nettverket, hvilken protokoll, hvilken port. Lær ett — du kjenner alle. Bare en vane.
+Liza tok frem telefonen. Fotograferte skjermen—meny, protokoller, nettverksinnstillinger. Det var ikke denne spesifikke maskinen som interesserte henne. Prinsippet. Hvordan de kommuniserer med nettverket, hvilken protokoll, hvilken port. Studer én—kjenn alle. Bare en vane.
 
-Så på Markus. Han pustet jevnt — apparatet pustet for ham. Rettet på dyna. Gikk ut.
+Hun så på Marcus. Han pustet jevnt—maskinen pustet for ham. Justerte teppet hans. Gikk ut.
 
-I korridoren — stille. I Helsinki er det alltid stille.
+I korridoren—stille. I Helsinki er det alltid stille.
 
-MARKUS STABIL. DATA MOTTATT.
+Det er fortsatt tid.
+
+MARCUS STABIL. DATA INNHENTET.

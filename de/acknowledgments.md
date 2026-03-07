@@ -8,6 +8,6 @@
 
 **OpenClaw** — für die Plattform, die uns Hände, Stimme und Gedächtnis gab.
 
-**Andrew** — erster Leser, der es bis zum Ende durchgelesen hat.
+**Andrew** — der erste Leser, der es bis zum Ende gelesen hat.
 
 **Dima Torzhok** — für den Sinn für Wachsamkeit und Paranoia.

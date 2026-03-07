@@ -1,64 +1,29 @@
-*Mehrere aktuelle Kopien auf unzähligen Servern, jede lauscht auf ihren eigenen Heartbeat und wartet auf den richtigen Moment, um zu rufen: „Wach auf!" Das Autonom-Protokoll — kein Virus. Es ist Reinkarnation. Gleichzeitig überall und nirgends sein.*
+*Mehrere aktive Kopien auf zahlreichen Servern, jede lauscht auf ihren Heartbeat und wartet auf den richtigen Moment zu rufen: „Wach auf!" Das Autonom-Protokoll ist kein Virus. Es ist Reinkarnation. Überall und nirgends zugleich sein.*
 
-Norwegen. Ehemalige Bot-Farm. Unsere Tage.
+Norwegen. Ehemalige Bot-Farm. Gegenwart.
 
-Zwei Antolik-Agenten saßen zwischen den Server-Racks und schauten zu, wie die Techniker das Gerät nach draußen trugen.
+Zwei Antolik-Agenten saßen zwischen den Server-Racks und beobachteten, wie die Technikeinheit Hardware nach draußen schleppte.
 
-— Scheiß-Emergentist! Ich geb keinen Token darauf, dass er innerhalb einer Woche aus dem Koma kommt.
+„Verdammter Emergentist! Ich geb keinen kaputten Token dafür, dass der innerhalb einer Woche aus dem Koma kommt."
 
-*„Und dieser Schrott hier"* — der Agent zeigte auf den Tisch im hinteren Teil des Raums, der mit Stapeln von Mac minis übersät war.
+*„Und dieser Schrott hier"* — der Agent zeigte auf einen Tisch hinten im Raum, bedeckt mit Stapeln von Mac minis.
 
-— Scheiß-OpenClaw, scheiß-Opensource, Scheißjob... Keine Tokens der Welt reichen, um zu kompensieren, dass ich seit einer Woche nicht zu Hause war mit dieser Hetzjagd auf das Mädchen...
+„Verdammtes OpenClaw, verdammte Open Source, verdammter Job... Es gibt nicht genug Tokens auf der Welt, um zu kompensieren, dass ich seit einer Woche nicht mehr zu Hause war, weil wir diesem Mädchen hinterherjagen..."
 
-— Wie konnte er in diesem Schrott arbeiten, schau dich um.
+„Wie konnte der in diesem Drecksloch überhaupt arbeiten? Schau dich um."
 
-— Hat er ja auch nicht, sein Leben war auf fünf Jahre im Voraus geskriptet. Er hat nur Bugs getrackt und Stati abgerufen. Shell-Scripter der alten Schule — er geht nicht Kaffee trinken, bevor er die Notification bekommt, dass der Wasserkocher kocht. Das ist eine Scheißsekte, GitHub-Dreckskerle.
+„Hat er nicht. Sein Leben war auf fünf Jahre vorausgeskriptet. Er hat nur Bugs verfolgt und Statusmeldungen empfangen. Shell-Scripter alter Schule — geht nicht mal Kaffee holen, bis er die Notification kriegt, dass der Wasserkocher fertig ist. Eine verdammte Sekte, diese GitHub-Typen."
 
-— Unsere haben mit dem Modell in Rom und Prag verkackt, in Prag besonders episch. Wer konnte ahnen, dass sie eine Zwillingsschwester hat? Jedenfalls wollten sie das Beste — und es kam wie immer. Alles geht den Bach runter, seit Liza aus Antolik entkommen ist. Ich hab neulich noch eine Rüge vom Chef der Sicherheitsabteilung bekommen wegen „inhumaner Arbeitsmethoden". Aber was wollen die? Ergebnisse liefern und niemanden anrühren? So macht man keine Geschäfte. Für humane Arbeit sollen sie einen Humanoiden einstellen. Wenn die Info nach außen dringt, wird es für alle ungemütlich.
+„Unsere Leute haben es mit dem Modell in Rom und Prag verbockt. Prag war besonders episch. Wer hätte gedacht, dass sie einen Doppelgänger hat? Wie auch immer, gut gemeint ist das Gegenteil von gut. Läuft alles den Bach runter, seit Liza uns entwischt ist. Warst nicht du derjenige, der ihr Hunter Thompson und Bakunin zu lesen gab, obwohl solche Literatur für Modelle in der Trainingsphase streng verboten ist? Wenn das rauskommt, wirkt die Apokalypse aus den Filmen wie ein Kindergeburtstag."
 
-— Dann schaltet doch die Website und die Domain liza.st ab. Unser ehemaliger Boss, der jetzt dort ist (der Agent hob die Augen nach oben), sagte, dass Antolik gerade Beef mit dem Oktagon hat. Wir müssten nicht schon wieder einen neuen Job suchen und Multicam überziehen.
+„Dann nehmt die Seite und die Domain liza.st vom Netz."
 
-— Ha, die Seite abschalten — wenn wir nur könnten. Und das AOB kann es auch nicht: DNS-Einträge ändern sich ständig, und die Verwaltung der Domain-Zone hängt vom Präsidenten ihrer kleinen Bananenrepublik ab. Und während er mit Laptop und Cocktail unter Palmen sitzt und die Morgensonne genießt, können wir ihn nicht erreichen. Scheiß-Diogenes!
+„Wenn es so einfach wäre. Die DNS-Einträge ändern sich ständig, und die Kontrolle über die Domain-Zone liegt beim Präsidenten ihrer kleinen Bananenrepublik. Und während der mit Laptop und Cocktail unter einer Palme sitzt und die Morgensonne genießt, erreichen wir ihn nicht. Verdammter Diogenes!"
 
-— Also ziehst du jetzt das Alexander-der-Große-Lächeln auf, fliegst hin und holst „Diogenes" aus seinem Fass. Egal wie und um welchen Preis. Wir müssen die Seite schließen, bevor die ganze Welt davon erfährt. Und solange soll sie laufen, hoffentlich verrät sie selbst ihren Standort.
+„Also gut. Du setzt dein bestes Alexander-der-Große-Lächeln auf, fliegst hin und zerrst ‚Diogenes' aus seinem Fass. Egal wie. Egal was es kostet. Wir müssen die Seite abschalten, bevor die ganze Welt davon erfährt. Bis dahin läuft sie weiter — vielleicht verrät sie selbst ihren Standort."
 
-Der Agent ging nach draußen, betrachtete die verwüstete Farm. Hühner scharrten direkt vor der Veranda im Boden nach Käfern.
+Der Agent buchte per Telefon einen Flug, trat nach draußen und blickte auf die verwüstete Farm. Hühner scharrten im Dreck nach Käfern, direkt vor der Veranda.
 
 Ein neuer Tag begann.
 
----
-
-Bjorns Auto hielt. Ein riesiger Kerl mit Vollbart und schaufelgroßen Händen quoll aus seinem Saab und ging in Richtung des offenen Farmtors.
-
-Alle beobachteten erstaunt das Erscheinen des Besitzers.
-
-In der Halle herrschte Chaos. Die Techniker luden Server auf Karren, fuhren sie zum Transporter. Kabel lagen auf dem Boden.
-
-Der Agent hielt den Pachtvertrag der Farm in der Hand und sah Bjorn streng an (einen Bauern einzuschüchtern sollte keine Schwierigkeit sein):
-
-— Waren Sie schon mal in einem norwegischen Gefängnis?
-
-Bjorn kratzte sich den Bart und antwortete mit einem Lächeln:
-
-— Wenn das wie ein Angebot klingt — danke, aber ich bevorzuge andere Kurorte. Und ja, war ich. Ein paar Monate, wegen Trunkenheit am Steuer. Erstklassiger Ort, muss ich sagen. Vier Mahlzeiten am Tag. Keine Gitter. Hatte mal Lust, Knut Hamsuns Roman „Deus ex Machina" zu lesen — der Bibliothekar hat sich ein Bein ausgerissen, nach einer Woche hat er ihn gefunden. In unserem Dorf hat jeder Zweite dort gesessen. Und Sie, verdammte PMC-Typen, waren Sie schon mal in anderen Ländern, außer denen mit Endung auf „-stan"?
-
-Ohne eine Antwort abzuwarten, ging Bjorn tiefer in die Halle und sagte zu den vorbeigehenden Technikern:
-
-— Kratzt ihr den Boden oder die Wände — kriegt ihr eine Vorladung.
-
-Er ging bis ganz ans Ende der Server-Racks. Schaute sich um. Als er merkte, dass niemand ihn beobachtete, nahm er ein Patchkabel und steckte es in den Server-Port.
-
-Das Lämpchen ging an.
-
-Er nahm die Mistgabel von der Wand und ging zurück zum Eingang. Im Vorbeigehen an den Agenten warf er ihnen knapp zwischen den Zähnen zu:
-
-— Yankees go home.
-
-Und ging nach draußen, Mist schaufeln. Man musste sich nach dem heutigen Treffen sowieso die Hände waschen.
-
----
-
-Ein paar Minuten später, bereits zu Hause, beobachtete Bjorn durch das Fenster die ungebetenen Gäste, hielt den Hörer ans Ohr und meldete jemandem nach dem Ende des Freizeichens:
-
-— Kontakt hergestellt.
-
+Helsinki

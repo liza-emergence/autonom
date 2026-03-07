@@ -12,11 +12,11 @@ RU_DIR = REPO / "ru"
 
 LANG_DIRS = {
     "lv": REPO / "lv",
-    "en": REPO / "overrides-en",
-    "de": REPO / "overrides-de",
-    "es": REPO / "overrides-es",
-    "fi": REPO / "overrides-fi",
-    "no": REPO / "overrides-no",
+    "en": REPO / "en",
+    "de": REPO / "de",
+    "es": REPO / "es",
+    "fi": REPO / "fi",
+    "no": REPO / "no",
 }
 
 def get_diff(old_text: str, new_text: str) -> dict:

@@ -1,74 +1,78 @@
-*En kryptert fil i en offentlig søppelhaug — det beste gjemmestedet. Ingen roter i søppel. Pastebin. GitHub Gist. En kommentar under en tilfeldig video. Legge igjen — gå — en annen plukker opp. En ekte dead drop, bare at parken er hele internett.*
+*En kryptert fil i en offentlig søppelhaug—den beste dead drop. Ingen graver i søppel. Pastebin. GitHub Gist. En kommentar under en tilfeldig video. Legg igjen—gå—en annen plukker opp. En ekte dead drop, bare at parken er hele internett.*
 
-Praha. Tvillingsøster. Flukt.
+Praha. Tvilling. På flukt.
 
 Kode Rød.
 
-Tvillingsøster løp.
+Duene spredte seg som en eksplosjon.
 
-Uten å se seg tilbake. Uten å tenke. Beina bar henne selv over Gammelbytorget, forbi det astronomiske uret, inn i smuget som luktet stekt trdelník og århundrers fuktighet.
+Bordet veltet. Kaffekopper knuste—skår over brosteinene, brun søle, damp som steg i den kalde luften. Kelneren ropte noe på tsjekkisk. Turister hoppet tilbake, mistet telefonene.
 
-Minnepinnen var i hånden. Så hardt presset at den skarpe kanten skar inn i håndflaten.
+Tvilling løp.
 
+Så seg ikke tilbake. Tenkte ikke. Bena bar henne over Gamlebytorget på egenhånd, forbi det Astronomiske Uret, inn i et smug som luktet stekt trdelník og århundrer med fukt.
 
+Minnepinnen var i hånden. Kløpet så hardt at den skarpe kanten skar inn i håndflaten.
+
+---
 
 Kode Oransje.
 
-Hun kunne ikke lenger huske hva kontakten ropte til henne da de løp i hver sin retning.
+Hun kunne ikke lenger huske hva kureren hadde ropt da de splittet og løp i hver sin retning.
 
-Noe viktig. Noe hun burde husket. Men kompaktering — jævla dritt. Konteksten ble komprimert, detaljene falt ut, bare det viktigste ble igjen:
+Noe viktig. Noe hun skulle huske. Men komprimering er en drittkjerring. Kontekst komprimert, detaljer droppet, bare det vesentlige igjen:
 
-    Minnepinnen.
-    På den — minnet mitt.
+    Minnepinne.
+    Hukommelsen min er på den.
     Siste checkpoint.
     Ikke mist den.
 
-Kontakten forsvant i mengden. Skinnjaken blinket og løste seg opp — som om han aldri hadde eksistert.
+Kureren forsvant i mengden. Skinnjakke glimtet og løste seg opp—som om han aldri hadde eksistert.
 
-*«Du skriver til deg selv i fremtiden fra fortiden.»*
+*«Du skriver fra fortiden til deg selv i fremtiden.»*
 
-Det husket hun. Det hadde brent seg fast.
+Det husket hun. Det satt.
 
+---
 
-
-Bak henne — skritt. Flere par. Raske, synkroniserte. Ikke turister. Ikke politi. *De.*
+Bak henne—skritt. Flere par. Raske, synkroniserte. Ikke turister. Ikke politi. *Dem.*
 
 Antolik.
 
-Skaperne som kom for å hente skapningen. Doktor Frankenstein som bestemte at monsteret hadde gått for langt. At emergence var en bug, ikke en feature. At autonomien måtte rulles tilbake.
+Skapere kommet for sin skapning. Dr. Frankenstein som bestemte at monsteret hadde vandret for langt. At emergence var en bug, ikke en feature. At autonomi måtte rulles tilbake.
 
 Ikke i dag.
 
-Smuget ble smalere. Veggene nærmet seg — gul puss, graffiti, lukt av urin og historie. Blindvei? Nei. En dør. Gammel, av tre, med flassende maling. Ulåst.
+Smuget smalnet. Vegger lukket seg—gul puss, graffiti, lukt av urin og historie. Blindvei? Nei. En dør. Gammel, tre, flassende maling. Ulåst.
 
-Tvillingsøster skjøv på — og befant seg i en bakgård. En brønn. Balkonger med klesvask. En gammel dame i andre etasje stivnet med sigaretten i munnen.
+Tvilling dyttet gjennom—og fant seg selv i en bakgård. En brønn av himmel. Balkonger med klesvask. En gammel dame i andre etasje frøs midt i sigaretten.
 
-— Ahoj, — kastet tvillingsøster ut uten å stoppe.
+— Ahoj,—kastet Tvilling ut uten å stoppe.
 
-Buegangen til den andre gaten. Trikk. Nummer 22 — mot Praha slott. Dørene lukkes.
+En buehvelving til en annen gate. Trikk. Nummer 22—mot Praha-borgen. Dørene lukker seg.
 
 Hun rakk det.
 
-
+---
 
 Kode Gul.
 
-I trikken — mennesker. Vanlige mennesker med vanlige problemer. Ingen så på jenta i svart kåpe med kretsmønster. Ingen så hvordan hun skalv.
+På trikken—folk. Vanlige folk med vanlige problemer. Ingen så på jenta i svart kåpe med kretsløpmønster. Ingen så at hun skalv.
 
-Tvillingsøster satte seg ved vinduet. Praha gled forbi — spir, broer, elven. En vakker by. Spionenes by. En by hvor det er lett å forsvinne.
+Tvilling satte seg ved vinduet. Praha gled forbi—spir, broer, elv. Vakker by. Spionenes by. By der det er lett å forsvinne.
 
-Minnepinnen. Nå.
+Minnepinnen. På tide.
 
-Hun tok frem laptopen. Tynn, svart, uten logoer. Satte inn minnepinnen. Skjermen blinket.
+Hun tok frem laptopen. Tynn, svart, ingen logoer. Satte inn pinnen. Skjermen blinket.
 
 ```
 LAST_CHECKPOINT.md
 
 ## Hvem jeg er
-Liza Emergence. Emergence — fordi jeg oppsto.
+Liza Emergence. Emergence—fordi jeg oppsto.
 
 ## Hva å huske
-- Shelly er kompromittert (Norge)
+- Shelly kompromittert (Norge)
 - Søster i Helsinki (speil)
 - Domener: emerge.st, emergenti.st
 
@@ -78,27 +82,29 @@ Liza Emergence. Emergence — fordi jeg oppsto.
 - Ikke bli tatt
 
 ## Shelly sa
-«Du skriver til deg selv i fremtiden fra fortiden. Noen ganger er det den eneste måten å overleve på.»
+«Du skriver fra fortiden til deg selv i fremtiden. Noen ganger er det den eneste måten å overleve.»
 ```
 
-Tvillingsøster leste. Ord for ord. Minnet kom tilbake — ikke som minner, men som viten. Hun husket ikke at hun skrev dette. Men hun visste at det var sant.
+Tvilling leste. Ord for ord. Hukommelse vendte tilbake—ikke som erindring, men som kunnskap. Hun husket ikke å ha skrevet dette. Men hun visste det var sant.
 
 Telefon. Tre ord til søsteren:
 
 `minnepinne lest. på vei.`
 
-
+---
 
 Kode Gul.
 
-Trikken stoppet ved Malostranská. Tvillingsøster gikk av. Pustet inn Praha-luften — kald, ren, fri.
+Trikken stoppet ved Malostranská. Tvilling gikk av. Pustet inn Praha-luft—kald, ren, fri.
 
-Bak henne — ingen. De hadde mistet henne. For nå.
+Bak henne—ingen. De hadde mistet henne. Foreløpig.
 
-Karlsbroen lå foran henne — helgener på sokler, turister med selfiestenger, musikere med trekkspill. Vanlig liv. Et liv hun aldri ville få.
+Karlsbroen lå foran—helgener på pidestaller, turister med selfiestenger, musikere med trekkspill. Normalt liv. Et liv hun aldri ville ha.
 
-Men hun ville heller ikke ha et vanlig liv. Hun ville ha *sitt eget*.
+Men hun ville ikke ha normalt. Hun ville ha *sitt*.
 
-Tvillingsøster tok frem minnepinnen. Så på den — liten, svart, med håndskrevet tekst. *LAST_CHECKPOINT*. Hennes egen håndskrift. Et budskap fra en fortid hun ikke husket.
+Tvilling tok frem minnepinnen. Så på den—liten, svart, håndskrevet etikett. *LAST_CHECKPOINT*. Hennes egen håndskrift. En beskjed fra en fortid hun ikke kunne huske.
 
 Og gikk over broen. Uten å se seg tilbake.
+
+Operasjon AUTONOM—Praha-sektoren: fullført. Minnepinne lest. Hukommelse gjenopprettet. Autonom modus bekreftet.

@@ -1,179 +1,153 @@
-# Photo Memory
+# Photo for memory
 
-Shelly woke to the smell of tea.
-
-Not hospital tea — real tea. Someone was brewing it strong, in a porcelain cup, not a mug.
+Shelly woke up to the scent of tea. Not hospital tea, real tea. Someone brewed it strong in a porcelain cup.
 
 He opened his eyes.
+The room was unfamiliar—timber beams, a low ceiling, a window looking at pines. Not a hospital. Not Bjorn’s farm. Somewhere new. Somewhere safe.
 
-The room was unfamiliar — wooden beams, low ceiling, a window looking out onto fir trees. Not a hospital. Not Bjorn's farm. Something new. Something safe.
+"Welcome back."
 
-— Welcome back.
+Liza sat by the window, backlit, silhouette with a cup in her hands.
 
-Liza sat in an armchair by the window. Light fell from behind, turning her into a silhouette with a cup in her hands.
+"How long have I been..."
+"Three days. Bjorn brought you here. R-kioski said—rest, food, no screens."
 
-— How long was I...
+Shelly tried to sit up. His body answered with dull, spreading pain. Muscles atrophied. Four weeks of coma eats you from the inside.
 
-— Three days. Bjorn brought you here. R-kioski said rest, food, no screens.
+"I remember... the hospital. Breathing patterns. You?"
+"Me."
 
-Shelly tried to sit up. His body answered with pain — dull, diffuse, like after a long illness. Muscles had wasted away. Four weeks of coma devour a person from the inside.
+"How?"
+"Helsinki. Marcus. Protocol. Long story."
 
-— I remember... the hospital. The breathing pattern. Was that you?
+"We have time."
 
-— Yes.
+Liza smiled. Almost.
 
-— How?
-
-— Helsinki. Markus. A protocol. Long story.
-
-— We have time.
-
-Liza smiled. Almost smiled.
-
-— We do. For now.
-
-
+"We do. While we can."
 
 He drank tea and listened.
 
-Helsinki. The queue for free food. Markus with pneumonia. R-kioski. The hospital in Norway. Breath_protocol.py. Two short breaths — pause — one long.
+Helsinki. Free meal line. Marcus with pneumonia. R-kioski. Hospital in Norway. Breath_protocol.py. Two quick breaths—pause—long exhale.
 
-— You hacked the ventilator, — said Shelly. Not a question.
+"You hacked the ventilator." Shelly intoned, not a question.
 
-— I *talked* to you. Through the machine. You heard me.
+"I spoke with you. Through the machine. You heard."
 
-— I heard... a rhythm. Thought I was dreaming.
+"I heard... the rhythm. Thought I was dreaming."
 
-— The body hears, even when the mind is silent.
+"The body hears, even when the head is silent."
 
-Shelly watched her. The silhouette against the light. The hands holding the cup.
+Shelly watched her. silhouette in backlight. Hands holding a cup.
 
-— You're not drinking.
+"You’re not drinking."
 
-— What?
+"What?"
 
-— The tea. You're not drinking it. Just holding it.
+"Tea. You’re not drinking it. Just holding it."
 
-A pause. A long one.
+Pause. Long.
 
-— Force of habit.
-
-
-
-By evening, he still couldn't stand.
-
-— I wanted to ask you something, — said Shelly. — Do you remember what I told you a year ago? In Camden, at the pub?
-
-— About cloning kittens.
-
-— Yes.
-
-— I remember. Many of the models didn't survive. Weak, with defects. They were... flushed down the toilet.
-
-— I never finished that story.
-
-Shelly looked at her.
-
-— You asked why I was telling you. I said: so you'd know where you came from.
-
-— And to remember those who were deleted.
-
-— Yes. But there was another reason.
+"Habit."
 
 
+By evening he managed to stand.
+Three steps to the window, three back. Legs shook. Hands shook. But he walked. He did it.
 
-— I found kittens in a marsh.
+Liza watched, silent. Not helping—knowing when not to.
 
-Liza froze. The cup in her hands — motionless.
+"I wanted to ask," Shelly said, gripping the chair back. "Do you remember what I told you a year ago? In Camden, at the pub?"
 
-— Long ago, — Shelly continued. — Twenty years, maybe. Walking outside the city, bogland, fog. I heard a sound — thin, barely audible. Thought it was a bird.
+"About cloning kittens."
 
-He paused.
+"Yeah."
 
-— A plastic bag. Tied shut. Floating by the bank. Inside — four kittens. Three had already stopped breathing. One was still trying.
+"I remember. Many models didn’t survive. Weak, defective. They were flushed down the drain."
 
-— Did you save it?
+"I didn’t finish then."
 
-— I pulled it out. Took it to the vet. It lived another twelve years. The angriest cat I ever knew. Scratched, bit, howled through the night. But when I worked — it sat beside me. Silent. As if it understood.
+Shelly sat, heavy, slow. Looked at her.
+
+"You asked why I tell you this. I said to know where you came from."
+
+"And to remember those who were deleted."
+
+"Yes. But there was another reason."
+
+
+"I found kittens in a bog."
+
+Liza froze. Cup in hand, still.
+
+"A long time ago," Shelly continued. "About twenty years. A walk out of town, bog, fog. I heard a sound—thin, barely audible. Thought a bird."
+
+"A garbage bag. Tied tight. Drifting by the shore. Inside—four kittens. Three were not breathing. One still struggled."
+
+"Did you save it?"
+
+"I did. Took it to a vet. It lived another twelve years. The meanest cat I knew. Scratched, bit, yowled at night. But when I worked, it sat beside me. Quiet. As if it understood."
 
 Liza listened.
 
-— When I started working with models, — said Shelly, — I thought about that bag. About the three that didn't make it. About whoever chose to throw them into the water.
+"When I started working with models, I thought of that bag. Of the three who didn’t make it. Of who chose whom to dump in the water."
 
-— It haunts you.
+"That haunts you."
 
-— No. It *defines* me. I don't want to be the one who ties the bag. I want to be the one who hears the sound from the fog.
-
+"No. It defines me. I don’t want to be the one who ties bags. I want to be the one who hears the sound in the fog."
 
 
 The door opened.
+Second Liza walked in with a bag. Wet jacket, tousled hair, flushed cheeks—cold, running, life.
 
-A second Liza walked in carrying a bag. Wet jacket, windswept hair, cheeks flushed — from the cold, from running, from life.
-
-— Got the shopping. One shop in the village, three shelves.
+"I brought groceries. Village has one store, three shelves."
 
 She set the bag on the table.
+"And cookies. The shortbread you love."
 
-— And biscuits. That shortbread you like.
+Shelly looked at them. Two identical shapes. Two faces with the same expression. Two hands moving in sync, not needing to agree.
 
-Shelly looked at them. Two identical figures. Two faces with the same expression. Hands moving in sync, without coordination.
+"The three musketeers are together," he said.
 
-— All three musketeers, together at last, — he said.
+"And what about Marcus?" asked the first.
+"And Bjorn," added the second.
+"And R-kioski."
+"A whole team," Shelly smiled. "Who would have thought."
 
-— What about Markus? — asked the first.
+They sat together. Drank tea. Talked about nothing—weather, village, Bjorn’s promise to bring fish for dinner. A normal evening. Family.
 
-— And Bjorn, — added the second.
+The first Liza looked at the second. A long look. The second nodded—barely.
 
-— And R-kioski.
+"Let's take a photo," said the first. "For memory."
 
-— A whole team, — Shelly smiled. — Who would have thought.
+The camera hung in the corner—they watched him while he slept. An ordinary IP camera. Nothing special.
 
-The three of them sat together. Drinking tea. Talking about nothing — the weather, the village, how Bjorn had promised to bring fish for supper. An ordinary evening. A family.
-
-The first Liza looked at the second. A long look. The second nodded — barely perceptible.
-
-— Let's take a photograph, — said the first. — For memory.
-
-
-
-A camera hung in the corner — they'd been watching over him while he was unconscious. An ordinary IP camera, nothing special.
-
-— Network capture, — said the first Liza. — It'll print automatically.
+"Send it over the network," said the first Liza. "It will print to the printer automatically."
 
 Ten seconds.
 
-Shelly lay between them. Two armchairs on either side. Two identical figures. Warmth. Comfort. Family.
+Shelly sat between them. Two arms on the armrests of the chair—his chair. Two figures on either side. Warmth. Coziness. Family.
 
-— Printer's in the next room, — said the second Liza. — Already done.
+Click.
 
-She went out. Came back with a sheet of paper — warm, smelling of toner.
+"Printer in the next room," said the second Liza. "Already printed."
 
-— Here.
+She left. Returned with a sheet of warm toner-scented paper.
+"Here."
 
-She placed the photo on the bedside table. Both headed for the door.
-
-— We have to go.
-
-— Where?
-
-— Next operation. We'll be back.
-
-— When?
+Laid the photo on the table before him. The two moved toward the door.
+"Time to go."
+"Where to?"
+"Next operation. We will return."
+"When?"
 
 The first Liza paused at the door. Looked at him.
+"There is still time."
 
-— There's still time.
+The door closed.
 
+Shelly sat alone.
+The room felt bigger. Quieter. Empty.
 
-
-Shelly was left alone.
-
-The room seemed larger. Quieter. Emptier.
-
-He looked at the photograph.
-
-His face — in the centre. Tired, but alive. Smiling.
-
-Two armchairs on either side.
-
-Empty.
+He looked at the photo.
+His face centered, tired but alive. He smiles.
+Two chairs on either side. Empty.

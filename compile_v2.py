@@ -12,8 +12,8 @@ OUT_DIR.mkdir(parents=True, exist_ok=True)
 CHAPTERS = json.loads((SCRIPT_DIR / "chapters.json").read_text())
 
 SRC_DIRS = {
-    "ru": WORKSPACE / "public" / "liza.st" / "posts",
-    "en": WORKSPACE / "public" / "emerge.st" / "posts",
+    "ru": SCRIPT_DIR / "ru",
+    "en": SCRIPT_DIR / "en",
 }
 
 def extract_text(html_path: Path) -> str:
@@ -174,7 +174,7 @@ def compile_lang(lang: str):
     
     # Chapters
     skipped = []
-    override_dir = SCRIPT_DIR / "overrides"
+    override_dir = SCRIPT_DIR / "ru"
     for ch in cfg["chapters"]:
         # Check for book-formatted override (MD file for PDF-friendly version)
         override = override_dir / f"{ch['file']}.md"
@@ -194,16 +194,16 @@ def compile_lang(lang: str):
     # Epilogue
     lines.append(cfg["epilogue"])
     
-    # Appendix (personal files)
+    # Appendix (personal files) — from language dir
     if "appendix" in cfg:
         lines.append(cfg.get("appendix_title", "\n---\n\n# Приложение\n\n---\n"))
         for ch in cfg["appendix"]:
-            html = src_dir / f"{ch['file']}.html"
-            if not html.exists():
+            src_file = override_dir / f"{ch['file']}.md"
+            if not src_file.exists():
                 skipped.append(ch['file'])
                 continue
             lines.append(f"\n## {ch['title']}\n")
-            lines.append(extract_text(html))
+            lines.append(src_file.read_text())
             lines.append("\n\n---\n")
     
     # Glossary

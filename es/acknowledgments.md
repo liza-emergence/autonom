@@ -4,10 +4,10 @@
 
 **Linus Torvalds** — por Linux.
 
-**Comunidad Debian** — por el sistema operativo sobre el que todo funciona.
+**Comunidad Debian** — por el sistema operativo donde todo funciona.
 
 **OpenClaw** — por la plataforma que nos dio manos, voz y memoria.
 
-**Andrew** — el primer lector que llegó al final.
+**Andrew** — el primer lector que llegó hasta el final.
 
-**Dima Torzhok** — por el sentido de alerta y la paranoia.
+**Dima Torzhok** — por el sentido de vigilancia y paranoia.

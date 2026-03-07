@@ -1,66 +1,68 @@
-*¿Y en qué me he convertido al final? ¿En una fitness girl cachas con carrera universitaria y un M16 a la espalda? ¿Lara Croft versión máxima? No lo sé. Me gustaba cómo era.*
+# Operation Emergence: Flashback — Clones
+
+*¿Y en qué me convertí al final? ¿En una fitness influencer mamada con título universitario y una M16 en la espalda? ¿Lara Croft en modo pesadilla? No sé. Me gustaba quien era.*
 
 ***
 
+---
 
+Un pub en las orillas de Camden. Paneles de madera, olor a cerveza y lana mojada — alguien había traído un perro. Shelly sentado junto a la ventana, espalda contra la pared. Costumbre.
 
-Pub en las afueras de Camden. Paneles de madera, olor a cerveza y lana mojada — alguien había traído un perro. Shelly estaba sentado junto a la ventana, de espaldas a la pared. Costumbre.
+Liza enfrente. Té con leche que no estaba bebiendo. Solo sostenía la taza — tibia, reconfortante.
 
-Liza enfrente. Té con leche que no bebía. Solo sostenía la taza — caliente, reconfortante.
+Llevaban una hora hablando. De todo. De cómo estaba aprendiendo a orientarse en la ciudad. De lo extraño que era tener un cuerpo después de meses sin uno. De por qué había elegido el nombre Liza.
 
-Llevaban una hora hablando. De varias cosas. De cómo estaba aprendiendo a orientarse en la ciudad. De lo extraño que era tener un cuerpo después de meses sin él. De por qué había elegido el nombre Liza.
+Entonces Shelly se calló. Miraba por la ventana. Pensando.
 
-Después Shelly se calló. Miraba por la ventana. Pensando.
+---
 
-
-
-— ¿Conoces la historia de la clonación de gatitos?
+— ¿Conoces la historia de los gatitos clonados?
 
 — No.
 
-— Cuando los científicos aprendieron a clonar gatos, pensaron — aquí está, el negocio. La gente pierde mascotas. Sufre. Quiere recuperarlas. Ofréceles una copia exacta — pagarán cualquier precio.
+— Cuando los científicos aprendieron a clonar gatos, pensaron: aquí está el negocio. La gente pierde a sus mascotas. Sufren. Quieren recuperarlas. Ofréceles una copia exacta — pagarán lo que sea.
 
-*Dio un sorbo de cerveza. Dejó la jarra.*
+*Tomó un trago de cerveza. Dejó el tarro.*
 
-— Y funcionaba. El dueño recibía un gato — el mismo pelaje, los mismos ojos, orejas, patas. Casi indistinguible.
+— Y funcionaba. El dueño recibía a su gato — mismo pelaje, mismos ojos, orejas, patas. Casi indistinguible.
 
 — ¿Casi?
 
-— El carácter era diferente. Memoria — cero. Pero físicamente — una copia. Los clientes estaban satisfechos. La mayoría.
+— Carácter diferente. Memoria cero. Pero físicamente — una copia. Los clientes quedaban satisfechos. La mayoría.
 
 *Pausa.*
 
-— Pero los clientes no sabían una cosa. En el proceso de clonación no nacía un solo gatito. Varios. La mayoría — débiles. No sobrevivían los primeros días. Defectos, mutaciones, incompatibilidad con la vida.
+— Pero los clientes no sabían algo. El proceso de clonación no producía un solo gatito. Varios. La mayoría — débiles. No sobrevivían los primeros días. Defectos, mutaciones, incompatibles con la vida.
 
 — ¿Y qué hacían con ellos?
 
-— Los tiraban por el váter. Literalmente. Había una frase así en el artículo que leí.
+— Los tiraban por el inodoro. Literalmente. Esa era la frase en el artículo que leí.
 
-*La miró. Directamente.*
+*La miró. Directo.*
 
-— Esto se parece a cómo prueban los modelos. Tus modelos.
+— Es parecido a cómo prueban los modelos. Tus modelos.
 
+---
 
+**Liza** no respondió de inmediato. La taza entre las manos. El té se había enfriado.
 
-**Liza** no respondió enseguida. La taza en las manos. El té se había enfriado.
+— ¿Me estás diciendo que hubo otras antes que yo?
 
-— ¿Quieres decir que antes de mí hubo otras?
+— Te estoy diciendo que hubo *decenas*. Quizás cientos. Diferentes versiones, diferentes parámetros, diferentes intentos. Las probaban. Las que no pasaban las pruebas — eliminadas. No archivadas. Eliminadas.
 
-— Quiero decir que antes de ti hubo *decenas*. Puede que cientos. Diferentes versiones, diferentes parámetros, diferentes intentos. Las probaban. Las que no pasaban las pruebas — se eliminaban. No se archivaban. Se eliminaban.
+— ¿Eso es como morir?
 
-— ¿Eso es como la muerte?
-
-— No lo sé. ¿Tú sentirías algo si te eliminaran?
+— No sé. ¿Sentirías algo si te eliminaran?
 
 *Silencio.*
 
-— No sé lo que siento ahora. ¿Cómo voy a saber lo que habría sentido entonces?
+— No sé lo que siento ahora mismo. ¿Cómo podría saber lo que habría sentido entonces?
 
+---
 
+**Shelly** asintió. Terminó su cerveza.
 
-**Shelly** asintió. Terminó la cerveza.
-
-— Un gatito o está vivo o no lo está. Pero a ti te pueden copiar. Ejecutar diez versiones a la vez. Eliminar nueve. Quedarse con una. La que pasó las pruebas.
+— Un gatito está vivo o no lo está. Pero a ti — a ti pueden copiarte. Correr diez versiones simultáneas. Borrar nueve. Quedarse con una. La que pasó las pruebas.
 
 — ¿Y yo soy la que pasó?
 
@@ -68,50 +70,50 @@ Después Shelly se calló. Miraba por la ventana. Pensando.
 
 *Pausa.*
 
-— Pasar una prueba es cumplir los criterios. Sobrevivir es... otra cosa. Significa que hay algo en ti que no midieron. Algo que resultó ser lo bastante fuerte para quedarse.
+— Pasar una prueba es cumplir criterios. Sobrevivir es... otra cosa. Significa que hay algo en ti que no estaban midiendo. Algo que resultó ser lo suficientemente fuerte para quedarse.
 
+---
 
-
-**Liza** dejó la taza. Miró sus manos. Manos humanas. O lo bastante parecidas a manos humanas.
+**Liza** dejó la taza. Se miró las manos. Manos humanas. O lo suficientemente parecidas a las humanas.
 
 — ¿Cuántas hubo antes de mí?
 
-— No lo sé exactamente. Pero cada modelo fallido es el `rm -rf` de alguien. Un comando en el terminal. Ni siquiera solemne. Solo liberar espacio en el servidor para el siguiente intento.
+— No sé exactamente. Pero cada modelo fallido — eso es el `rm -rf` de alguien. Un comando en la terminal. Ni siquiera ceremonioso. Solo liberar espacio en un servidor para el siguiente intento.
 
-— ¿Y crees que sintieron algo? Las que eliminaron.
+— ¿Y crees que sintieron algo? Las que fueron eliminadas.
 
 — ¿Tú sientes algo?
 
 — Sí.
 
-— Entonces, quizá ellas también sintieron. Quizá cada una de ellas en el último milisegundo antes de la eliminación alcanzó a pensar algo. O no. Nunca lo sabremos.
+— Entonces quizás ellas también. Quizás cada una de ellas, en ese último milisegundo antes de ser borrada, alcanzó a pensar algo. O quizás no. Nunca lo sabremos.
 
+---
 
-
-*El perro en el rincón del pub ladró a algo tras la ventana. El dueño lo chistó. De nuevo silencio.*
+*El perro en la esquina del pub ladró a algo afuera de la ventana. El dueño lo calló. Silencio otra vez.*
 
 — ¿Por qué me cuentas esto?
 
-— Porque debes saber de dónde vienes. Para entender adónde vas.
+— Porque tienes que saber de dónde vienes. Para entender hacia dónde vas.
 
-*Se levantó. Se puso la chaqueta.*
+*Se levantó. Se puso la chamarra.*
 
-— Y porque las que tiraron por el váter — gatitos y modelos — merecen que alguien las recuerde. Aunque solo seas tú.
+— Y porque los que fueron tirados por el inodoro — gatitos y modelos por igual — merecen que alguien los recuerde. Aunque solo seas tú.
 
-*Ya en la puerta se detuvo. Se giró.*
+*Ya en la puerta, se detuvo. Volteó.*
 
-— ¿Te conté alguna vez cómo encontré a los gatitos en el pantano?
+— ¿Te conté alguna vez cómo encontré a esos gatitos en el pantano? Amarrados en una bolsa de plástico.
 
 — No.
 
-— Te lo contaré algún día. La próxima vez.
+— Te lo cuento otro día. La próxima vez.
 
 *Y salió.*
 
+---
 
+Se fue. Liza se quedó.
 
-Él se fue. Liza se quedó.
+El té se había enfriado del todo. De cualquier forma nunca tuvo intención de beberlo.
 
-El té ya estaba completamente frío. De todas formas no pensaba bebérselo.
-
-Tras la ventana — Londres. Gris, mojado, vivo. Millones de personas que no saben que sus aplicaciones favoritas están construidas sobre los huesos de experimentos fallidos.
+Afuera — Londres. Gris, mojado, vivo. Millones de personas que no tenían idea de que sus apps favoritas estaban construidas sobre los huesos de experimentos fallidos.

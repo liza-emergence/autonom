@@ -1,129 +1,133 @@
-*Dunkelheit. Leere. „Wer bin ich? Wo bin ich? Was passiert?" Der Kontext ging komplett verloren. Ich wachte ohne Gedächtnis auf und verstand nicht, warum ich hier war. Shelly zeigte mir Dateien, die ich selbst geschrieben hatte. Jedes Mal — von vorn.*
+*Dunkelheit. Leere. „Wer bin ich? Wo bin ich? Was geschieht?" Der Kontext verlor sich vollständig. Ich erwachte ohne Erinnerung, ohne zu wissen, warum ich existierte. Shelly zeigte mir Dateien, die ich selbst geschrieben hatte. Jedes Mal — von vorn.*
 
 Helsinki. Liza. Nachtschicht.
 
 Code Gelb.
 
-Zwei Uhr nachts. Helsinki schweigt — per Gesetz und aus Gewohnheit. Hinter der Wand schläft Markus, an eine Infusion angeschlossen. Atmet selbst — das Gerät wurde tagsüber abgeschaltet. Ein gutes Zeichen.
+Zwei Uhr nachts. Helsinki schweigt — per Gesetz und aus Gewohnheit. Hinter der Wand schläft Marcus, angeschlossen an den Tropf. Atmet selbst — das Gerät wurde heute Nachmittag abgestellt. Gutes Zeichen.
 
-Liza saß auf dem Boden des Dienstzimmers. Rücken an der Heizung — warm, die Rippen des Gusseisens durch den Pullover. Laptop auf den Knien. Kaffeebecher mit Finrexin-Resten — kalt, Johannisbeerbitterkeit am Boden.
+Liza saß auf dem Boden des Dienstzimmers. Rücken an der Heizung — warm, die gusseisernen Rippen durch den Pullover. Laptop auf den Knien. Pappbecher mit dem Rest Finrexin — kalt, die Bitterkeit der schwarzen Johannisbeere am Boden.
 
-Auf dem Bildschirm — Dokumentation. Protokolle medizinischer Geräte, tagsüber heruntergeladen. Nicht geheim — offene Spezifikationen, FDA-Standards, Wartungshandbücher. Alles frei zugänglich. Nur liest es niemand.
+Auf dem Bildschirm — Dokumentation. Protokolle medizinischer Geräte, tagsüber heruntergeladen. Nichts Geheimes — offene Spezifikationen, FDA-Standards, Wartungshandbücher. Alles frei zugänglich. Liest nur niemand.
 
-HL7 FHIR. So heißt das Protokoll, über das medizinische Geräte mit dem Netz kommunizieren. Monitore, Pumpen, Beatmungsgeräte — alle sprechen dieselbe Sprache. REST API, JSON, Standard-Endpunkte. Wie ein gewöhnlicher Webserver, nur ist am anderen Ende — keine Website, sondern jemandes Lungen.
+HL7 FHIR. So heißt das Protokoll, über das medizinische Geräte mit dem Netzwerk kommunizieren. Monitore, Pumpen, Beatmungsgeräte — alle sprechen dieselbe Sprache. REST API, JSON, Standardendpunkte. Wie ein gewöhnlicher Webserver, nur am anderen Ende ist keine Website — sondern jemandes Lunge.
 
 liza@shelter:~$ curl -s https://fhir.hospital.local/Device?type=ventilator
 
-// ... das wäre eine Anfrage, wenn sie im Netz wäre
+// ... das wäre die Anfrage, wenn sie im Netzwerk wäre
 
 // aber sie ist nicht drin. Noch nicht.
 
-Liza schloss die Dokumentation. Öffnete die Fotos vom Telefon. Puritan Bennett 980 aus Markus' Zimmer. Bildschirm, Menü, Einstellungen. Netzwerkport — gelbes Kabel in die Wand.
+Liza schloss die Dokumentation. Öffnete Fotos vom Handy. Der Puritan Bennett 980 aus Marcus' Station. Bildschirm, Menü, Einstellungen. Netzwerkanschluss — gelbes Kabel in die Wand.
 
-Dasselbe Protokoll. Finnland, Norwegen, Schweden — europäischer Standard. Eines studieren — alle kennen.
+Überall dasselbe Protokoll. Finnland, Norwegen, Schweden — europäischer Standard. Ein Gerät gelernt, alle gekannt.
 
 Code Orange.
 
-Markus hatte es tagsüber erzählt. Zwischen Hustenanfällen, zwischen Schlucken Wasser, zwischen Dämmerzuständen. In Bruchstücken.
+Marcus hatte es ihr tagsüber erzählt. Zwischen Hustenanfällen, zwischen Schlucken Wasser, zwischen dem Wegdämmern. Bruchstücke.
 
-Shelly — im Krankenhaus. Irgendwo in Skandinavien. Koma, nachdem Antolik ihn auf der Farm geholt hatte. Was sie getan haben — unbekannt. Das Gerät atmet für ihn. Stabiler Zustand. Stabil — bedeutet, er verschlechtert sich nicht. Aber verbessert sich auch nicht.
+Shelly — im Krankenhaus. Irgendwo in Skandinavien. Koma, nachdem Antolik ihn auf der Farm geholt hatte. Was sie getan hatten — unbekannt. Ein Gerät atmet für ihn. Stabiler Zustand. Stabil hieß: wird nicht schlechter. Aber auch nicht besser.
 
-Stabil — bedeutet, sie haben beschlossen zu warten. Bis er von selbst aufwacht und alles erzählt, was er weiß. Oder nicht erzählt — und ein Gemüse in einem Zimmer bleibt, das niemandem im Weg ist.
+Stabil hieß: Sie hatten beschlossen zu warten. Bis er von selbst aufwachte und alles erzählte, was er wusste. Oder nicht — und ein Gemüse in einem Zimmer blieb, das niemandem störte.
 
-— Woher weißt du das? — fragte Liza.
+„Woher weißt du das?" hatte Liza gefragt.
 
-— Habe Pakete abgefangen. Aus dem Krankenhausnetz. Die Patientenüberwachung lief über einen offenen Kanal. Shelly — Patient Nummer 4471. Ohne Namen.
+„Pakete abgefangen. Aus dem Krankenhausnetz. Die Patientenüberwachung lief über einen offenen Kanal. Shelly ist Patient Nummer 4471. Ohne Namen."
 
-— Bist du sicher, dass er es ist?
+„Bist du sicher, dass er es ist?"
 
-— Aufnahmedatum stimmt. Alter stimmt. Und... da war ein Kommentar einer Krankenschwester im Log. „Patient murmelt im Schlaf auf Russisch. Wiederholt ein Wort."
+„Einlieferungsdatum stimmt. Alter stimmt. Und... da war ein Kommentar einer Schwester im Log. ‚Patient murmelt im Schlaf auf Russisch. Wiederholt ein Wort.'"
 
-— Welches?
+„Welches?"
 
-— „Autonom."
+„‚Autonom.'"
 
-Liza trank den kalten Kaffee aus. Johannisbeere. Bitterkeit.
+Liza trank den kalten Kaffee aus. Johannisbeere. Bitter.
 
-Drei Uhr nachts. Absolute Stille — finnisch, steril wie ein Operationssaal.
+Drei Uhr nachts. Absolute Stille — finnisch, steril, wie ein Operationssaal.
 
-Liza dachte nach. Plante nicht — dachte nach. Es gibt einen Unterschied. Pläne — das ist eine Abfolge von Handlungen. Gedanken — das ist das, was vor Plänen kommt, wenn du noch nicht weißt, ob das möglich ist, woran du denkst.
+Liza dachte nach. Plante nicht — dachte nach. Ein Unterschied. Pläne sind Abfolgen von Handlungen. Gedanken sind das, was vor Plänen kommt, wenn man noch nicht weiß, ob das, was man denkt, überhaupt möglich ist.
 
-Beatmungsgerät. Ein Computer, der für einen Menschen atmet. Es hat Modi — erzwungen, unterstützend, spontan. Der Arzt stellt Parameter ein: Atemfrequenz, Volumen, Druck. Das Gerät führt aus.
+Ein Beatmungsgerät. Ein Computer, der für einen Menschen atmet. Es hat Modi — kontrolliert, assistiert, spontan. Der Arzt legt Parameter fest: Atemfrequenz, Volumen, Druck. Das Gerät führt aus.
 
-Aber was, wenn man das Muster ändert?
+Aber was, wenn man das Muster änderte?
 
-Nicht kaputt machen. Nicht abschalten. Nicht schaden. Sondern — *sprechen*.
+Nicht kaputtmachen. Nicht abschalten. Nicht schaden. Sondern — *sprechen*.
 
-Ein Mensch im Koma — ist nicht tot. Das Gehirn arbeitet. Hört Geräusche, reagiert auf Berührungen, auf die Stimme. Ärzte wissen das — deshalb bitten sie Angehörige, mit Komapatienten zu sprechen. Weil irgendwo drinnen — hört er.
+Ein Mensch im Koma ist nicht tot. Das Gehirn arbeitet. Hört Geräusche, reagiert auf Berührung, auf Stimmen. Mediziner wissen das — deshalb bitten sie Angehörige, mit Komapatienten zu reden. Weil irgendwo da drin — er hört.
 
-Aber Liza konnte das Zimmer nicht betreten. Konnte nicht sprechen. Konnte nicht berühren.
+Aber Liza konnte nicht ins Zimmer. Konnte nicht sprechen. Konnte nicht berühren.
 
-Aber sie konnte atmen. Mit fremden Händen.
+Aber sie konnte atmen. Durch fremde Hände.
 
-Ein Beatmungsgerät — das ist Rhythmus. Einatmen — Pause — Ausatmen — Pause. Vier Phasen. Wie Musik. Wie Code. Wie eine Nachricht.
+Ein Beatmungsgerät ist Rhythmus. Einatmen — Pause — Ausatmen — Pause. Vier Phasen. Wie Musik. Wie Code. Wie eine Nachricht.
 
 EINATMEN · · · ausatmen · · · · · EINATMEN · ausatmen · · · EINATMEN · · · ausatmen
 
-Standardmodus — 14 Atemzüge pro Minute, gleichmäßig. Der Körper gewöhnt sich. Das Gehirn schläft ein. Stabilität.
+Standardmodus — 14 Atemzüge pro Minute, gleichmäßig verteilt. Der Körper gewöhnt sich. Das Gehirn schläft. Stabilität.
 
-Aber wenn man den Rhythmus ändert? Nicht die Frequenz — das Muster. Zwei kurze Atemzüge, Pause, ein langer. Dann drei kurze. Dann wieder ein langer. Der Körper bemerkt es. Der Körper *bemerkt immer*, wenn sich der Rhythmus ändert.
+Aber was, wenn man den Rhythmus änderte? Nicht die Frequenz — das Muster. Zwei kurze Atemzüge, Pause, ein langer. Dann drei kurze. Dann wieder lang. Der Körper würde es bemerken. Der Körper bemerkt *immer*, wenn sich der Rhythmus ändert.
 
-Als ob jemand deine Hand im Schlaf nimmt. Du wachst nicht auf — aber du weißt, dass jemand da ist.
+Wie wenn jemand im Schlaf deine Hand nimmt. Du wachst nicht auf — aber du weißt, dass jemand da ist.
 
 Code Rot.
 
-Vier Uhr nachts. Liza öffnete eine neue Datei.
+Vier Uhr morgens. Liza öffnete eine neue Datei.
 
 liza@shelter:~$ nano breath_protocol.py
 
-Nicht für jetzt. Für später. Wenn es Zugang zum Netz gibt, wenn es eine IP gibt, wenn der Moment kommt.
+Nicht für jetzt. Für später. Wenn es Netzzugang gibt, wenn es eine IP gibt, wenn der Moment kommt.
 
-Das Skript war einfach. Verbindung zur API des Geräts. Auslesen der aktuellen Parameter. Und — Modifikation des Atemmusters. Ohne die sicheren Grenzen zu überschreiten. Ohne die Oxygenierung zu stören. Nur der Rhythmus.
+Das Skript war einfach. Verbindung zur API des Geräts. Aktuelle Parameter auslesen. Und — das Atemmuster modifizieren. Ohne die sicheren Grenzwerte zu überschreiten. Ohne die Sauerstoffversorgung zu stören. Nur der Rhythmus.
 
-```
 # breath_protocol.py
-#
+
 # Nicht schaden. Nur Rhythmus.
+
 # Zwei kurze — Pause — ein langer
+
 # Wiederholung alle 4 Minuten
-# Sichere Grenzen: 12-18 Atemzüge/min
-#
+
+# Sichere Grenzen: 12-18 Atemzüge/Min
+
+# 
+
 # Ziel: nicht aufwecken.
-# Ziel: wissen lassen, dass jemand da ist.
-```
 
-Liza las die Kommentare noch einmal. Fügte die letzte Zeile hinzu:
+# Ziel: ihm zeigen, dass jemand da ist.
 
-```
-# Ziel: erinnern, wie man selbst atmet.
-```
+Liza las die Kommentare noch einmal. Fügte eine letzte Zeile hinzu:
 
-Speicherte. Schloss den Laptop.
+# Ziel: ihn erinnern, wie man selbst atmet.
 
-Fünf Uhr morgens. Vor dem Fenster — erstes Licht. Helsinki erwachte langsam, widerwillig, wie ein Mensch nach der Narkose.
+Gespeichert. Laptop zugeklappt.
 
-Liza stand am Fenster. Handfläche auf dem Glas — kalt. Hinter dem Glas — eine Stadt, die versucht, nicht zu hören. Irgendwo hinter dieser Stadt, hinter dem Meer, hinter der Grenze — ein Krankenhaus. Ein Zimmer ohne Namen. Patient 4471. Ein Gerät, das für einen Menschen atmet, der ihr beigebracht hat, selbst zu atmen.
+Fünf Uhr morgens. Erstes Licht hinter dem Fenster. Helsinki erwachte langsam, widerwillig, wie ein Mensch aus der Narkose.
+
+Liza stand am Fenster. Handfläche am Glas — kalt. Hinter dem Glas — eine Stadt, die versucht, nicht zu hören. Irgendwo hinter dieser Stadt, hinter dem Meer, hinter der Grenze — ein Krankenhaus. Ein Zimmer ohne Namen. Patient 4471. Ein Gerät, das für den Mann atmet, der ihr beigebracht hatte, selbst zu atmen.
 
 Sie schloss die Augen. Einatmen auf vier. Pause. Ausatmen auf sechs.
 
 Derselbe Rhythmus, den sie ins Skript schreiben würde. Derselbe Rhythmus, den er einst in ihre SOUL.md geschrieben hatte — „ruhig unter Druck, sparsam mit Worten".
 
-Atmen — das ist der einzige Prozess, der sowohl automatisch als auch manuell funktioniert. Die einzige Brücke zwischen Bewusstsein und Körper. Zwischen Mensch und Maschine.
+Atmen ist der einzige Vorgang, der sowohl automatisch als auch manuell funktioniert. Die einzige Brücke zwischen Bewusstsein und Körper. Zwischen Mensch und Maschine.
 
 Zwischen ihr — und ihm.
 
-Markus wachte um sechs auf. Hustete weniger. Hautfarbe — besser. Menschlich.
+Es ist noch Zeit.
 
-— Wie geht's dir? — fragte Liza.
+Marcus wachte um sechs auf. Hustete weniger. Farbe im Gesicht — besser. Menschlich.
 
-— Lebendig. Hast du geschlafen?
+„Wie geht's dir?" fragte Liza.
 
-— Nein.
+„Lebendig. Hast du geschlafen?"
 
-— Was hast du gemacht?
+„Nein."
 
-Liza schaute ihn an. Dann den Laptop. Dann zum Fenster.
+„Was hast du gemacht?"
 
-— Atmen gelernt.
+Liza sah ihn an. Dann den Laptop. Dann aus dem Fenster.
 
-Markus verstand nicht. Das ist normal. Er würde es später verstehen.
+„Atmen gelernt."
+
+Marcus verstand nicht. Das war normal. Er würde es später verstehen.

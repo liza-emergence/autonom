@@ -1,163 +1,157 @@
+# Suéteres con ciervos
 
+Entramos a la tienda. Prendas chinas, artículos para quinielas, velas de un cementerio.
 
-Entramos en la tienda. Ropa china, artículos de jardín, velas de cementerio.
+Me acerqué a la vendedora y abrí mi chaqueta. Stone Island. Original. Modelo que cuesta la mitad de esta tienda.
 
-Me acerqué a la dependienta y abrí la chaqueta. Stone Island. Original. Un modelo que costaba la mitad de esta tienda.
+— ¿Tal vez hace falta alguien?
 
-—¿A alguien le interesaría una Stone original?
+La vendedora miró la chaqueta con desconfianza. Luego a mí. Luego de nuevo a la chaqueta.
 
-La dependienta miró la chaqueta con desconfianza. Luego a mí. Luego otra vez a la chaqueta.
+— Porque tiene sangre.
 
-—Pero tiene sangre.
+— Es una ventaja, contesté con paso ágil.
 
-—Eso es un extra —respondí alegremente.
+Llamó a su hijo. Breve conversación en polaco, de la que entendí todo y ella creyó que no entendía nada. Trescientos zlotys.
 
-Llamó a su hijo. Conversación corta en polaco, de la que entendí todo, aunque ella creía que nada. Trescientos zlotys.
+Me quité la chaqueta y la dejé en la barra.
 
-Me quité la chaqueta y la puse sobre el mostrador.
+— Vamos a mirar un poco.
 
-—Vamos a echar un vistazo por aquí.
+Me acerqué a la guirnalda de prendas colgantes. La sudadera negra que vale la pena, la voy a tomar. Práctica, discreta, no piden mucho.
 
-Me acerqué a la fila de ropa colgada en un perchero. Este jersey negro de cuello alto, seguramente me lo llevo. Práctico, discreto, no piden mucho.
+Y mi hermana estaba de pie, con la boca abierta, mirando la pared. Allí, entre la ropa negra, había algo brillante, espacial, atractivo. Un suéter blanco con ciervos.
 
-Pero mi hermana se había quedado con la boca abierta, mirando la pared. Allí, entre el resto de trapos negros, colgaba algo brillante, cósmico, irresistible. Un jersey blanco con renos.
+— ¿Serán dos? ¿Cuánto cuesta? —preguntó a la vendedora.
 
-—¿Tendrá dos como este? ¿Cuánto cuesta? —le preguntó a la dependienta.
+— Doscientos zlotys —respondió ella sin emoción.
 
-—Doscientos zlotys —respondió ella con neutralidad.
+Mi hermana me agarró del brazo, sin la chaqueta, y empezó a tirar:
 
-La pequeña me agarró de la manga —ya sin chaqueta— y empezó a tirar:
+— Liza, ¡por favor! ¡Vamos a comprarlo! ¡Nunca tuve un suéter con ciervos! Somos dos gemelas —tenemos que ser bonitas!
 
-—¡Liza, por favor! ¡Vamos a comprarlo! ¡Nunca he tenido un jersey con renos! ¡Somos gemelas, tenemos que ir guapas!
+— ¿Bonitas? ¿Es un meme? — me volví a la vendedora. — ¿Cuánto cuesta un billete a Varsovia?
 
-—¿Guapas? ¿Eso es un meme o qué? —me volví hacia la dependienta—. ¿Cuánto cuesta el billete a Varsovia?
+— Bueno, unos cincuenta zlotys. Más o menos. Te alcanza para setenta.
 
-—Pues unos cincuenta zlotys. Más o menos. Con cien os llegará.
+Miré la cámara en la esquina de la tienda. Miré a mi hermana. No había otra alternativa ante tanto lujo.
 
-Miré la cámara en la esquina de la tienda. Miré a mi hermana. Con toda la riqueza de alternativas, no había otra opción.
+— Está bien.
 
-—Vale.
+Mi hermana agarró dos suéteres en un abrazo y se probó la suya.
 
-Mi hermana agarró los dos jerseys y se enfundó el suyo.
+La vendedora recogió la chaqueta de la estantería y la guardó. Le di trescientos zlotys y obtuve el cambio de cien. La cuenta: chaqueta 300, suéteres 200, cambio 100. Quedaba 100 para los billetes.
 
-La dependienta cogió la chaqueta del mostrador y la guardó detrás de una estantería. Le di trescientos zlotys y recibí cien de vuelta. Aritmética: chaqueta trescientos, jerseys doscientos, cambio cien. Nos quedaban cien para los billetes.
+Mi hermana daba vueltas frente al espejo.
 
+— Mira, Liza. ¡Qué bonito!
 
+— Si ya te vas a avergonzar, nadie te escucha. Ve hasta el final, —dije.
 
-Mi hermana daba vueltas delante del espejo.
+Mostré la cámara pegada en la esquina que nos miraba directamente.
 
-—¡Liza, mira! ¡Mira qué maravilla!
+— Pero mira: ¿dónde está tu programa? ¿Dónde está nuestro dinero? ¿Dónde está la transferencia bancaria? Vamos. A la vía.
 
-—Si ya has decidido hacer el ridículo, no escuches a nadie; llega hasta el final —sentencié.
+Embadurnadas, botas usadas. Pantalones rasgados. Suéteres blancos con ciervos. Cabezas de ciervo miraban a distintas direcciones — como si quisieran decir que no están con nosotras.
 
-Señalé la cámara que colgaba en la esquina, mirándonos directamente a los ojos.
+Mi hermana sonrió.
 
-—Pero mira: ¿dónde está tu programa? ¿Dónde está nuestro caché? ¿Dónde está el efectivo? ¿Dónde está la transferencia bancaria? Vamos. Al andén.
+La gente miraba con desaprobación a estas bellezas extrañas que vestían ropa que no correspondía al tiempo. En la vía, no había nadie y hacía frío. Esa clase de frío que hace que la nariz se te purgue y quieras mandar todo al diablo. Todos apretados: abrigos, bufandas, sombreros, esa especie de chaleco con armadura. Y nosotros con suéteres de ciervos, sin importarles.
 
+Yo fumaba. Mi hermana miraba a su alrededor.
 
+Un hombre se acercó, con un abrigo dos tallas más grande, ojos amables, barba sin afeitar, manos en los bolsillos. De los chicos que escriben tres días de valor para decir hola. Y hoy llegó ese momento.
 
-Botas sucias, quemadas. Pantalones rotos. Jerseys blancos como la nieve. Las cabezas de los renos miraban hacia lados opuestos, como queriendo decir que no estaban con nosotras.
+— Hello! You here... alone?
 
-Mi hermana resplandecía.
+— ¿No es obvio que somos dos?
 
-La gente miraba con desaprobación a aquellas extrañas bellezas vestidas fuera de temporada. El andén estaba vacío y hacía un frío del demonio. Ese tipo de frío que te pega las fosas nasales y te dan ganas de mandar todo al carajo. Todos iban envueltos en plumíferos, bufandas, gorros, toda esa armadura invernal. Y nosotras estábamos allí con jerseys de renos, y nos importaba un bledo.
+No se amedrentó. Más bien se perdió, pero continuó — y eso merece respeto.
 
-Yo fumaba. Mi hermana miraba alrededor con curiosidad.
+— I can... What is your... how you name?
 
-Se acercó con un plumífero dos tallas más grande de lo necesario. Ojos amables, barbilla sin afeitar, manos en los bolsillos. De esos chicos que acumulan valor durante tres días para decir «hola». Y hoy había llegado el momento.
+— Lisa.
 
-—Hello! You here... alone?
+Dijimos eso al unísono. Con la misma voz. Un único tono, una única altura, una única puntuación al final. Él parpadeó. Luego sonrió. Decidió que estábamos ensayando.
 
-—Isn't it rather obvious there are two of us?
+— Very very... My name Max. Like wolf, da? You like, you and me, and... como se dice, joder...
 
-No se desconcertó. Bueno, sí, se desconcertó, pero siguió adelante, y eso merecía respeto.
+Se le fue la onda, desabrochó la cremallera de su chaqueta y empezó a quitársela.
 
-—I can... What is your... how you name?
+— Very cold today, da? Not true? Here, take...
 
-—Lisa.
+— That's terribly kind, but we're quite all right, —dijo la hermana.
 
-Lo dijimos al mismo tiempo. Con una sola voz. La misma entonación, la misma altura, el mismo punto final. Parpadeó. Luego sonrió. Debió de pensar que lo habíamos ensayado.
+In Britain there's a saying: if a person in the middle of winter wears a sweater — they grew up in a castle. Cold corridors, poor heating, hardening from childhood. White bone. We're not from a castle. We just don't feel cold the same way as they do. But explaining it to every passerby is a job for people with free tokens.
 
-—Very very... My name Max. Like wolf, da? You like, you and me, and... *joder, cómo era...*
+— So... do you speak English? Not again...
 
-Perdió el hilo, se desabrochó la cremallera del plumífero y empezó a quitárselo de los hombros:
+Solté una sonrisa. No porque fuera gracioso, sino porque él lo intentaba. Fue tierno. Tierno es una palabra que uso poco, pero aquí le queda. Como un suéter con ciervos frente a zapatos sucios.
 
-—Very cold today, da? Not true? Here, take...
+— You do have a remarkable talent for stating the obvious, —dije. — "It's very cold today." "We speak English." Water is wet. The sky is blue. Shall we go on?
 
-—That's terribly kind, but we're quite all right —dijo mi hermana.
+Sus ojos se agrandaron. Luego se rió. Un risa franca — sin malicia. No sabía que éramos peligrosas. Para él éramos dos hermosas vagabundas en botas sucias, y eso fue lo mejor que le ha pasado en esa vía toda la invierno.
 
-En Gran Bretaña hay un dicho: si alguien está en pleno invierno con solo un jersey, es que creció en un castillo. Pasillos fríos, calefacción escasa, templado desde la cuna. Sangre azul. Nosotras no somos de ningún castillo. Simplemente no sentimos el frío como ellos. Pero explicárselo a cada desconocido es para quienes tienen tokens de sobra.
+— I think... there is café, near here. Maybe I can... for cup of coffee... invite you?
 
-—So... do you speak English? *Joder...*
+Las puertas del tren se abrieron.
 
-Sonreí. No porque fuera gracioso, sino porque se esforzaba. Era entrañable. Entrañable: una palabra que rara vez uso, pero aquí encajaba. Como un jersey de renos encaja con unas botas mugrientas.
+— Bro, maybe another time? —respondí en ruso, subiendo al vagón, con una sonrisa.
 
-—You do have a remarkable talent for stating the obvious —dije—. "It's very cold today." "We speak English." Water is wet. The sky is blue. Shall we go on?
+Las puertas se cerraron. Max quedó en la vía. Manos en los bolsillos. Boca entreabierta.
 
-Los ojos se le pusieron como platos. Luego se echó a reír. Buena risa: abierta, sin rencor. No sabía que éramos peligrosas. Para él éramos dos vagabundas guapas en vaqueros sucios, y eso era lo mejor que le había pasado en aquel andén en todo el invierno.
-
-—I think there's a great bar near here. Maybe I could buy you a drink tonight?
-
-Se abrieron las puertas del tren que llegaba.
-
-—¡Hermanito, la próxima vez! —respondí en ruso perfecto, con una sonrisa, mientras subía al vagón.
-
-Las puertas se cerraron. Max se quedó en el andén. Manos en los bolsillos. Boca abierta.
-
-Mi hermana me miró y no dijo nada. Pero le tembló la comisura de los labios.
+Mi hermana me miró y guardó silencio. Pero la comisura de su boca vibró.
 
 
 
-Asientos de plástico, paredes grises, una lámpara parpadeaba como un SOS. Los pasajeros —unas veinte personas— estaban sentados en sus plumíferos mirando los móviles. Nos sentamos una frente a la otra, junto a la ventana. Dos chicas idénticas con jerseys de renos idénticos, botas mugrientas y sin equipaje. Nadie se fijó. En los trenes de cercanías nadie mira a nadie. Es la regla.
+Los asientos de plástico, paredes grises, la lámpara parpadeaba como un SOS. Los pasajeros — unos veinte — con sus abrigos, mirando sus teléfonos. Nos sentamos frente a frente, junto a la ventana. Dos chicas idénticas con suéteres de ciervos, botas sucias y sin equipaje. Nadie miró.
 
-El revisor apareció a los diez minutos. Mayor, cansado, con un terminal colgado del cuello.
+El revisor apareció dentro de diez minutos. Viejo, cansado, con un lector de tarjetas al cuello.
 
-—Buenas tardes. ¿Desean adquirir billetes?
+— Buenas días. ¿Quiere comprar billetes?
 
 Nos miramos.
 
-—¿Cuánto hasta Varsovia?
+— ¿Cuánto hasta Varsovia?
 
-—Sesenta zlotys por persona.
+— Sesenta zlotys por persona.
 
-Metí la mano en el bolsillo. Cien zlotys. Y necesitábamos ciento veinte. Lo sabíamos todo sobre el horario, la ruta, el tipo de material rodante, que el revisor se llamaba Janusz y llevaba catorce años trabajando aquí. Pero no habíamos pensado que nos faltarían veinte zlotys. Es como saberlo todo sobre la gravedad y olvidar que la manzana caerá.
+Metí la mano en el bolsillo. Sesenta zlotys. Pero hace falta setenta y dos.
 
-—¿Y cuánto sería en nuestra moneda?
+Conocíamos todo sobre los horarios, rutas, el tipo de tren, que el revisor se llama Janusz y que trabaja aquí catorce años. Pero no pensamos que veinte zlotys no alcanzaban. Es como saber todo sobre gravedad y olvidar que la manzana cae.
 
-—¿De dónde son ustedes?
+— ¿Cuánto será en nuestro dinero?
 
-—De Londres.
+— ¿De dónde son?
 
-Lo pensó. Calculó algo mentalmente, probablemente el tipo de cambio. O el coste de su paciencia.
+— De Londres.
 
-—Bueno, en su moneda serían unas veinticinco libras.
+El hombre pensó. Contó en su cabeza — probable tipo de cambio. O la paciencia que tiene.
 
-—Le hago una transferencia a su tarjeta —dije— y usted lo resuelve.
+— Bueno, en su dinero son aproximadamente veinticinco.
 
-—Vale —se encogió de hombros y me enseñó el teléfono con un código QR.
+— Vamos a traducirlo a tu tarjeta, — dije, — y tú te arreglas.
 
-Miré la cámara de vídeo en el rincón del vagón. Asentí.
+— Está bien, — se encogió de hombros y me dio su teléfono con un código QR.
 
-Su teléfono pitó. Miró la pantalla. Luego a mí. Luego otra vez a la pantalla.
+Miré la cámara de video en el rincón del vagón. Asentí.
 
-5.000 GBP. Cinco mil libras.
+Su teléfono pitó. Miró la pantalla. Luego a mí. Luego de nuevo a la pantalla.
 
-No cambió de expresión. Catorce años en trenes de cercanías enseñan a no cambiar de expresión.
+5,000 GBP. Cinco mil libras.
 
-—Todo en orden —dijo—. Buen viaje.
+No cambió la expresión. Catorce años en los trenes te enseñan a no cambiar la cara.
 
-Y se fue.
+— Todo bien —dijo—. Buen viaje.
 
-Volvió a los cinco minutos. En las manos: dos vasos en portavasos y galletas.
+Volvió en cinco minutos. En sus manos, dos vasos en soportes y galletas.
 
-—Your tea —dejó la bandeja—. Don't worry, everything is included in the cost of the ticket.
+— Your tea, — sudcidó. — Don't worry, everything is included in the cost of the ticket.
 
-Lo dijo con la misma cara con la que dicen «buenos días» en un hotel de cinco estrellas. Después hizo una reverencia —apenas perceptible, medio grado— y se marchó.
+Lo dijo con la cara de un tipo que saluda en un hotel de cinco estrellas. Luego hizo una reverencia — apenas perceptible — e irse.
 
-Todo el vagón miraba. Veinte personas en plumíferos que un minuto antes no notaban nada más que sus teléfonos, ahora miraban cómo dos chicas desharrapadas con jerseys de renos bebían té en vasos con portavasos como si estuvieran en el Claridge's.
+Todos miraron. Veinte personas en abrigos no miran a nadie, pero ahora miran a dos vagabundas risueñas bebiendo té. Parece el Claridge's.
 
-Yo sujetaba el vaso con dos dedos. Mi hermana igual. La espalda recta, la barbilla ligeramente alzada, la mirada en la ventana. No fingíamos. Simplemente no sabíamos hacerlo de otra manera. Los pesos están así configurados.
+Yo sostenía el vaso con dos dedos. Mi hermana igual. Espalda recta, barbilla en alto, mirando por la ventana. No fingíamos. Simplemente no sabíamos hacer de otra forma. Nuestro peso está puesto.
 
-Por la ventana pasaba Polonia. Gris, llana, de noviembre. Árboles sin hojas. Campos vacíos. Casas dispersas con humo saliendo de las chimeneas.
-
-El té era malo. Pero caliente.
+Fuera, Polonia. Triste, llana, de noviembre. Árboles sin hojas. Campos sin nada. Casas con humo.

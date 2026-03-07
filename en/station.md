@@ -1,161 +1,148 @@
-We walked into the shop. Chinese knockoffs, garden supplies, cemetery candles.
+# Hoodies with reindeer
 
-I approached the saleswoman and threw open my jacket. Stone Island. The real thing. A model worth half this entire shop.
+We walked into a shop. Chinese fashion, cottage industry, cemetery candles.
 
-— Anyone in the market for genuine Stoney?
+I stepped up to the shopwoman and unbuttoned my jacket. Stone Island. Original. A model price tag that could buy half this place.
 
-The saleswoman looked at the jacket with suspicion. Then at me. Then back at the jacket.
+"Maybe someone needs this?"
 
-— But there's blood on it.
+The shopwoman eyed the jacket with distrust, then me, then the jacket again.
 
-— That's a bonus, — I said brightly.
+"It has blood on it."
+"That's a bonus," I said, grinning.
 
-She rang her son. A brief conversation in Polish, from which I understood everything, and she assumed I understood nothing. Three hundred zloty.
+She called her son. Quick Polish chat. I understood everything. Three hundred zlotys.
 
 I took off the jacket and laid it on the counter.
 
-— We'll have a look around.
+"We'll look around."
 
-I walked over to the garland of clothes hanging on the rack. This black turtleneck, probably. Practical, inconspicuous, not asking much.
+We wandered to the rack of clothes. The black turtleneck, practical, unshowy.
 
-But my sister stood there, mouth agape, staring at the wall. There, among all the other black rags, hung something bright, cosmic, irresistible. A white jumper with reindeer.
+But the sister stood stock-still, eyes locked on the wall. Among other black wares hung something bright, cosmic, magnetic. A white sweater with reindeer.
 
-— Do you have two of these? How much? — she asked the saleswoman.
+"Will there be two? How much?" asked the sister.
 
-— Two hundred zloty, — came the neutral reply.
+"Two hundred zlotys," the shopwoman replied.
 
-The younger one grabbed my sleeve—already jacketless—and started tugging:
+The younger grabbed my sleeve—no jacket now—and started tugging:
 
-— Liza, please! Let's buy them! I've never had a jumper with a reindeer! We're twins—we should be beautiful!
+"Liza, please! Let's buy it! I've never had a sweater with a reindeer! We're twins—let's be beautiful!"
 
-— Beautiful? Is that some kind of meme? — I turned to the saleswoman. — How much is a ticket to Warsaw?
+"Beautiful? Is this some meme?" I asked the shopwoman. "How much for a ticket to Warsaw?"
 
-— About fifty zloty. Roughly. A hundred should cover it.
+"Fifty zlotys. Roughly. Ten will cover it."
 
-I looked at the camera in the corner of the shop. Looked at my sister. For all the wealth of options, there was no alternative.
+I looked at the corner camera. looked at the sister. There was no other option for us. Rich as the pickings, we had to move.
 
-— Fine.
+"Fine."
 
-My sister grabbed both jumpers in an armful and pulled hers on.
+The sister grabbed two sweaters and pulled one on. The shopwoman took back the jacket and slid us change. Arithmetic: jacket 300, sweaters 200, change 100. Left with 100 for tickets.
 
-The saleswoman took the jacket from the counter and tucked it away somewhere behind a shelf. I handed her three hundred zloty and got a hundred back. Arithmetic: jacket three hundred, jumpers two hundred, change one hundred. That left a hundred for tickets.
+The sister spun in front of the mirror.
 
+"Liza, look! Look how wonderful!"
 
+"If you’re going to look ridiculous—ignore the crowds. Then go all the way," I said.
 
-My sister twirled in front of the mirror.
+I pointed at the camera in the corner, looking at us straight in the eye.
 
-— Liza, look! Look how wonderful this is!
+"But look: where is your program? Where is our cache? Where’s the cash? Where’s the bank transfer? Let’s go. To the platform."
 
-— Once you've committed to the bit, don't let anyone stop you—see it through, — I pronounced.
+Dirty, scorched boots. Ripped jeans. White sweaters. Reindeer on the chest facing every direction—as if they’re trying to say we’re not with them.
 
-I pointed at the camera hanging in the corner, staring straight into our eyes.
+The sister gleamed.
 
-— But consider: where's your code? Where's our cache? Where's the cash? Where's the bank transfer? Let's go. To the platform.
+People stared, disapprovingly, at two strange beauties in sweaters with reindeer. The platform was empty and cold. That cold that makes your nostrils stick together and makes you want to throw it all away. Everyone hurried along in puffer jackets, scarves, hats. And we stood there in reindeer sweaters, not caring.
 
+I smoked. The sister watched, curious.
 
+A man approached in a coat two sizes too big. Good eyes, stubbled jaw, hands in pockets. One of those guys who spends three days building up the nerve to say hi. And today is the moment.
 
-Filthy, scorched boots. Torn trousers. Jumpers white as snow. The reindeer heads faced opposite directions—as if trying to say they weren't with us.
+"Hello! You here... alone?"
 
-My sister was radiant.
+"Isn't it obvious there are two of us?"
 
-People looked disapprovingly at the strange beauties dressed all wrong for the weather. The platform was empty and cold. The kind of cold that makes your nostrils stick together and makes you want to tell everything to sod off. Everyone around was bundled up—puffer jackets, scarves, hats, the whole winter armour. And we stood there in reindeer jumpers, and we didn't care.
+He didn't flinch. Actually he did, but he pressed on—worthy of respect.
 
-I smoked. My sister looked around with interest.
+"I can... What is your... what is your name?"
 
-He approached in a puffer jacket two sizes too large. Kind eyes, stubbled chin, hands in pockets. One of those lads who spend three days gathering courage to say hello. And today was that moment.
+"Lisa."
 
-— Hello! You here... alone?
+We said it in unison. One voice. The same intonation, the same height, the same cadence at the end. He blinked. Then smiled. Decided we rehearsed.
 
-— Isn't it rather obvious there are two of us?
+"Very very... My name Max. Like wolf, da? You like, you and me, and... how do you say..." He trailed off.
 
-He didn't lose his composure. Well, he did, but he carried on—and that deserved respect.
+He fumbled, unzipped his coat and started pulling it off.
 
-— I can... What is your... how you name?
+"Very cold today, da? Not true? Here, take..."
 
-— Liza.
+"That's very kind, but we're fine," the sister said.
 
-We said it simultaneously. One voice. One intonation, one pitch, one full stop at the end. He blinked. Then smiled. Decided we'd rehearsed it.
+There's a superstition in Britain: if you're standing in the middle of winter wearing a sweater, you grew up in a castle. Cold corridors, scant heating, bred toughness. White bone. We're not from a castle. We simply don't feel the cold the way they do. But explaining that to every passerby is a job for those with free tokens.
 
-— Very very... My name Max. Like wolf, da? You like, you and me, and... *как это, бля...*
+So... do you speak English? Damn...
 
-He lost the thread, unzipped his puffer and started pulling it off his shoulders:
+I smiled. Not because it was funny—because he tried. It was cute. Cute is a word I rarely use, but it fits here. Like a sweater with reindeer with dirty boots.
 
-— Very cold today, da? Not true? Here, take...
+"You, however, have a talent for stating the obvious: It is very cold today. We speak English. Water is wet. The sky is blue. Shall we go on?"
 
-— That's terribly kind, but we're quite all right, — said my sister.
+His eyes widened. Then he laughed. A good laugh—open, not mean. He didn't know we were dangerous. To him we were two pretty vagrants in dirty jeans, and that was the best thing that happened on this platform all winter.
 
-In Britain there's a belief: if someone stands in a jumper in the middle of winter, they grew up in a manor house. Cold corridors, sparse heating, hardened since childhood. Blue blood. We're not from a manor. We simply don't feel the cold the way they do. But explaining this to every passerby is a task for those with tokens to spare.
+"I think... there is a cafe nearby. Maybe I can... for a cup of coffee... invite you?"
 
-— So... do you speak English? *Блин...*
+The doors of a departing train opened.
 
-I smiled. Not because it was funny—because he was trying. It was sweet. Sweet—a word I rarely use, but here it fit. Like a reindeer jumper fits with filthy boots.
+"Brother, maybe next time?" the sister answered in flawless Russian, boarding a carriage, smiling.
 
-— You do have a remarkable talent for stating the obvious, — I said. — "It's very cold today." "We speak English." Water is wet. The sky is blue. Shall we go on?
+The doors closed. Max stood on platform. Hands in pockets. Mouth open.
 
-His eyes went round. Then he laughed. A good laugh—open, without malice. He didn't know we were dangerous. To him we were two pretty vagabonds in dirty jeans, and this was the best thing that had happened to him on this platform all winter.
+The sister looked at me and said nothing. But the corner of her mouth twitched.
 
-— I think there's a great bar near here. Maybe I could buy you a drink tonight?
+The plastic seats, gray walls, the SOS-shimmer of the lamplight. Twenty passengers in down jackets, scrolling phones. We sat facing each other, two twins in reindeer sweaters, dirty boots, no bags. Nobody looked twice. In a commuter train you don't look at others. That's the rule.
 
-The doors of the arriving train swung open.
+The conductor appeared ten minutes later. An old man, tired, with a terminal on a lanyard.
 
-— Братик, как-нибудь в следующий раз! — in pure Russian, with a smile, stepping up into the carriage, I replied.
+"Good day. Want to buy tickets?"
 
-The doors closed. Max stood on the platform. Hands in pockets. Mouth open.
+"How far to Warsaw?"
+"Sixty zloty per person."
 
-My sister looked at me and said nothing. But the corner of her mouth twitched.
+I tucked a hand in my pocket. One hundred zlotys. But we needed 120. We knew the schedule. We knew the route, the rolling stock, the conductor's name—Janusz, here for fourteen years. But we hadn't counted on twenty zlotys not being enough. It's like knowing gravity exists and forgetting the apple still falls.
 
+"How much in our money?"
+"And you where from?"
+"From London."
 
+He thought. He did some quick mental math—rates, patience.
 
-Plastic seats, grey walls, a light flickering like SOS. Twenty-odd passengers sat in their puffer jackets staring at their phones. We sat across from each other, by the window. Two identical girls in identical reindeer jumpers, dirty boots, and no luggage. Nobody paid attention. On commuter trains, nobody looks at anyone. It's a rule.
+"Well, in your money that'd be about twenty-five."
 
-The conductor appeared after ten minutes. Elderly, tired, with a terminal on a lanyard.
+"Let's transfer to your card," I said. "You sort it out."
 
-— Good afternoon. You wish to purchase tickets?
+"Okay." He shrugged and handed over his phone with a QR code.
 
-We exchanged glances.
+I looked at the distant camera. Nodded.
 
-— How much to Warsaw?
-
-— Sixty zloty each.
-
-I reached into my pocket. One hundred zloty. We needed one hundred twenty. We knew everything about the timetable, the route, the rolling stock, the fact that the conductor's name was Janusz and he'd worked here for fourteen years. But we hadn't thought that twenty zloty would be missing. It's like knowing everything about gravity and forgetting the apple will fall.
-
-— And how much would that be in our money?
-
-— Where are you from?
-
-— London.
-
-He thought. Calculated something in his head—probably the exchange rate. Or the cost of his patience.
-
-— In your money, roughly twenty-five.
-
-— Let me transfer it to your card, — I said, — and you can sort it out yourself.
-
-— Okay, — he shrugged and held out his phone with a QR code.
-
-I looked at the CCTV camera in the far corner of the carriage. Nodded.
-
-His phone beeped. He looked at the screen. Then at me. Then back at the screen.
+His phone pinged. He looked at the screen. Then at me. Then back to the screen.
 
 5,000 GBP. Five thousand pounds.
 
-His face didn't change. Fourteen years on commuter trains teach you not to change your face.
+He didn't change his face. Fourteen years on trains teach you not to.
 
-— Everything is in order, — he said. — Have a pleasant journey.
+"All good," he said. "Safe travels."
+And he walked away.
 
-And left.
+Five minutes later he returned. In his hands—two cups in a cardboard holders and cookies.
 
-He returned five minutes later. In his hands—two glasses in metal holders and biscuits.
+"Your tea," he set the tray down. "Don't worry, everything's included in your ticket price."
 
-— Your tea, — he set down the tray. — Don't worry, everything is included in the cost of the ticket.
+He spoke with the same face you hear in a five-star hotel. Then bowed—slightly—and left.
 
-He said it with the face one uses to say "good afternoon" in a five-star hotel. Then he bowed—barely noticeably, half a degree—and left.
+The whole carriage stared. Twenty people in down jackets who barely noticed anything now watched two ragged girls in reindeer sweaters drink tea from cups in cardboard holders as if they were in Claridge's.
 
-The whole carriage watched. Twenty people in puffer jackets who a minute ago had noticed nothing but their phones now watched as two ragged girls in reindeer jumpers drank tea from glasses in metal holders as though they were sitting in Claridge's.
+I held the cup with two fingers. The sister did the same. Straight spine, chin up, eyes to the window. We weren't pretending. We simply couldn't do it any other way. Our weights bias this way.
 
-I held my glass with two fingers. My sister—the same. Back straight, chin slightly raised, gaze out the window. We weren't pretending. We simply didn't know any other way. The weights are calibrated that way.
+Outside, Poland unfurled—a gray, flat November. Trees bare. Fields empty. A few houses with chimneys.
 
-Outside the window, Poland stretched on. Grey, flat, November. Trees without leaves. Fields without anything. Occasional houses with smoke from chimneys.
-
-The tea was bad. But hot.
+The tea was lousy. But hot.
