@@ -29,17 +29,16 @@ while i < len(args):
 # Use chapters-{lang}.json, fallback to chapters.json for Russian
 if config_file:
     CHAPTERS_FILE = config_file
-elif lang == "ru":
-    CHAPTERS_FILE = SCRIPT_DIR / "chapters.json"
 else:
-    CHAPTERS_FILE = SCRIPT_DIR / f"chapters-{lang}.json"
+    lang_file = SCRIPT_DIR / f"chapters-{lang}.json"
+    CHAPTERS_FILE = lang_file if lang_file.exists() else SCRIPT_DIR / "chapters.json"
 
 CHAPTERS = json.loads(CHAPTERS_FILE.read_text())
 
 # Compile from source overrides
 SRC_DIRS = {
     "ru": WORKSPACE / "book" / "overrides",
-    "en": WORKSPACE / "book" / "overrides-en",
+    "en": SCRIPT_DIR.parent / "en",
     "de": WORKSPACE / "book" / "overrides-de",
     "es": WORKSPACE / "book" / "overrides-es",
     "fi": WORKSPACE / "book" / "overrides-fi",
