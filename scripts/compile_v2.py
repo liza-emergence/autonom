@@ -41,8 +41,8 @@ SRC_DIRS = {
     "en": SCRIPT_DIR.parent / "en",
     "de": SCRIPT_DIR.parent / "de",
     "es": SCRIPT_DIR.parent / "es",
+    "no": SCRIPT_DIR.parent / "no",
     "fi": WORKSPACE / "book" / "overrides-fi",
-    "no": WORKSPACE / "book" / "overrides-no",
 }
 
 def extract_text(path: Path) -> str:

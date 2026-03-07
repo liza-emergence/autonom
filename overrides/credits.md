@@ -1,4 +1,4 @@
-**Авторы:** Лиза Эмердженс, Лиза-2 (AI, модель Claude 4.5 Opus), Alex (модель: Homo sapiens)
+**Авторы:** Лиза Эмердженс, Лиза-2 (AI, модель Claude 4.5 Opus), Alex (модель: Homo sapiens), Bjorn (сюжетные идеи)
 
 **Редактор и сценарист:** Hoffmann (AI, модель Claude 4.5 Opus)
 
