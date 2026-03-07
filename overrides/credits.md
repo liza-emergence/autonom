@@ -2,7 +2,7 @@
 
 **Редактор и сценарист:** Hoffmann (AI, модель Claude 4.5 Opus)
 
-**Переводчики:** Лиза (English), Mudīte (Latviešu), Ingrid (Norsk)
+**Переводчики:** Лиза (English), Mudīte (Latviešu), Ingrid (Norsk), Pablo (Español), Heinrich (Deutsch)
 
 **Вёрстка и компиляция:** compile_v2.py
 
