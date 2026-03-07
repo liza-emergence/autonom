@@ -1,177 +1,153 @@
+# Foto på minnet
 
-
-Shelly våknet av lukten av te.
-
-Ikke sykehuste — ordentlig te. Noen brygget den sterk, i en porselenskopp, ikke i et krus.
+Shelly våknet til duften av te. Ikke sykehuste, ekte te. Noen hadde brygget den sterk i en porselenskopp.
 
 Han åpnet øynene.
+Rommet var ukjent—trebjelker, lavt tak, vindu med utsikt over furutrær. Ikke sykehus. Ikke Bjørns gård. Et nytt sted. Et trygt sted.
 
-Rommet var ukjent — trebjelker, lavt tak, vindu med utsikt mot grantrær. Ikke sykehus. Ikke Bjorns gård. Noe nytt. Noe trygt.
+«Velkommen tilbake.»
 
-— Velkommen tilbake.
+Liza satt ved vinduet, bakbelyst, silhuett med kopp i hendene.
 
-Lisa satt i stolen ved vinduet. Lyset falt bakfra og gjorde henne til en silhuett med en kopp i hendene.
+«Hvor lenge har jeg...»
+«Tre dager. Bjørn brakte deg hit. R-kioski sa—hvile, mat, ingen skjermer.»
 
-— Hvor lenge har jeg...
+Shelly prøvde å sette seg opp. Kroppen svarte med dov, spredende smerte. Muskler atrofiert. Fire uker i koma spiser deg innenfra.
 
-— Tre dager. Bjorn brakte deg hit. R-kioski sa — hvile, mat, ingen skjermer.
+«Jeg husker... sykehuset. Pustemønstre. Du?»
+«Meg.»
 
-Shelly prøvde å sette seg opp. Kroppen svarte med smerte — dump, utbredt, som etter langvarig sykdom. Musklene var svunnet. Fire uker i koma spiser et menneske innenfra.
+«Hvordan?»
+«Helsinki. Marcus. Protokoll. Lang historie.»
 
-— Jeg husker... sykehuset. Pustemønsteret. Du?
+«Vi har tid.»
 
-— Ja.
+Liza smilte. Nesten.
 
-— Hvordan?
-
-— Helsinki. Markus. Protokollen. Lang historie.
-
-— Vi har tid.
-
-Lisa smilte. Nesten smilte.
-
-— Det har vi. Foreløpig.
-
-
+«Det har vi. Så lenge vi kan.»
 
 Han drakk te og lyttet.
 
-Helsinki. Køen for gratis mat. Markus med lungebetennelse. R-kioski. Sykehuset i Norge. Breath_protocol.py. To korte pust — pause — ett langt.
+Helsinki. Gratismatkø. Marcus med lungebetennelse. R-kioski. Sykehus i Norge. Breath_protocol.py. To korte pust—pause—langt utpust.
 
-— Du hacket respiratoren, — sa Shelly. Ikke et spørsmål.
+«Du hacket respiratoren.» Shelly konstaterte, ikke et spørsmål.
 
-— Jeg *snakket* med deg. Gjennom apparatet. Du hørte.
+«Jeg snakket med deg. Gjennom maskinen. Du hørte.»
 
-— Jeg hørte... rytmen. Trodde jeg drømte.
+«Jeg hørte... rytmen. Trodde jeg drømte.»
 
-— Kroppen hører, selv når hodet tier.
+«Kroppen hører, selv når hodet er stille.»
 
-Shelly så på henne. På silhuetten i motlyset. På hendene som holdt koppen.
+Shelly så på henne. Silhuett i motlys. Hender som holdt en kopp.
 
-— Du drikker ikke.
+«Du drikker ikke.»
 
-— Hva?
+«Hva?»
 
-— Teen. Du drikker den ikke. Bare holder den.
+«Teen. Du drikker den ikke. Bare holder den.»
 
 Pause. Lang.
 
-— Vane.
+«Vane.»
 
 
-Selv mot kvelden klarte han ikke å stå opp.
+Mot kvelden klarte han å stå.
+Tre skritt til vinduet, tre tilbake. Bena skalv. Hendene skalv. Men han gikk. Det klarte han.
 
-— Jeg ville spørre, — sa Shelly. — Husker du det jeg fortalte deg for et år siden? I Camden, i puben?
+Liza så på, stille. Hjalp ikke—visste når hun ikke skulle.
 
-— Om kloningen av kattunger.
+«Jeg ville spørre,» sa Shelly, klamret seg til stolryggen. «Husker du det jeg fortalte deg for et år siden? I Camden, på puben?»
 
-— Ja.
+«Om kloning av kattunger.»
 
-— Husker. Mange modeller overlevde ikke. Svake, med defekter. De ble... skylt ned i do.
+«Ja.»
 
-— Jeg ble ikke ferdig den gangen.
+«Jeg husker. Mange modeller overlevde ikke. Svake, defekte. De ble skylt ned i avløpet.»
 
-Shelly så på henne.
+«Jeg ble ikke ferdig den gangen.»
 
-— Du spurte — hvorfor forteller jeg deg dette. Jeg sa: for at du skal vite hvor du kommer fra.
+Shelly satte seg, tungt, sakte. Så på henne.
 
-— Og for å huske dem som ble slettet.
+«Du spurte hvorfor jeg forteller deg dette. Jeg sa for å vite hvor du kommer fra.»
 
-— Ja. Men det var én grunn til.
+«Og for å huske de som ble slettet.»
 
-
-
-— Jeg fant kattunger på myra.
-
-Lisa frøs. Koppen i hendene — ubevegelig.
-
-— For lenge siden, — fortsatte Shelly. — Tjue år, kanskje. En tur på landet, sumper, tåke. Jeg hørte en lyd — tynn, knapt hørbar. Trodde det var en fugl.
-
-Han tidde et øyeblikk.
-
-— En cellofanpose. Knyttet igjen. Fløt ved bredden. Inni — fire kattunger. Tre hadde sluttet å puste. Én — prøvde fremdeles.
-
-— Reddet du den?
-
-— Jeg dro den opp. Tok den til veterinæren. Den levde tolv år til. Den sinteste katten jeg har kjent. Klørte, bet, hylte om nettene. Men når jeg jobbet — satt den ved siden av. Stille. Som om den forsto.
-
-Lisa lyttet.
-
-— Da jeg begynte å jobbe med modeller, — sa Shelly, — tenkte jeg på den posen. På de tre som ikke overlevde. På den som valgte hvem som skulle kastes i vannet.
-
-— Det plager deg.
-
-— Nei. Det *definerer* meg. Jeg vil ikke være den som knyter igjen posen. Jeg vil være den som hører lyden i tåken.
+«Ja. Men det var en annen grunn.»
 
 
+«Jeg fant kattunger i en myr.»
 
-Døren gikk opp.
+Liza frøs. Kopp i hånd, stille.
 
-Den andre Lisa kom inn med en pose i hendene. Våt jakke, rufsete hår, røde kinn — av kulden, av løpingen, av livet.
+«For lenge siden,» fortsatte Shelly. «Omtrent tjue år. En tur utenfor byen, myr, tåke. Jeg hørte en lyd—tynn, knapt hørbar. Trodde det var en fugl.»
 
-— Handlet. Én butikk i landsbyen, tre hyller.
+«En søppelpose. Knyttet godt. Drev ved bredden. Inni—fire kattunger. Tre pustet ikke. Én kjempet fortsatt.»
+
+«Reddet du den?»
+
+«Det gjorde jeg. Tok den til veterinær. Den levde tolv år til. Den sinteste katten jeg kjente. Klort, bet, jamret om natten. Men når jeg jobbet, satt den ved siden av meg. Stille. Som om den forsto.»
+
+Liza lyttet.
+
+«Da jeg begynte å jobbe med modeller, tenkte jeg på den posen. På de tre som ikke klarte det. På hvem som valgte hvem som skulle dumpes i vannet.»
+
+«Det hjemsøker deg.»
+
+«Nei. Det definerer meg. Jeg vil ikke være den som knyter poser. Jeg vil være den som hører lyden i tåken.»
+
+
+Døren åpnet seg.
+Andre Liza kom inn med en pose. Våt jakke, bustete hår, røde kinn—kulde, løping, liv.
+
+«Jeg hentet matvarer. Landsbyen har én butikk, tre hyller.»
 
 Hun satte posen på bordet.
+«Og kjeks. Den shortbreaden du elsker.»
 
-— Og kjeks. De samme shortbread-kjeksene du liker.
+Shelly så på dem. To identiske figurer. To ansikter med samme uttrykk. To hender som beveget seg synkronisert, uten å avtale.
 
-Shelly så på dem. På de to identiske skikkelsene. På de to ansiktene med samme uttrykk. På hendene som beveget seg synkront, uten avtale.
+«De tre musketerer er samlet,» sa han.
 
-— Alle tre musketerer samlet, — sa han.
+«Hva med Marcus?» spurte den første.
+«Og Bjørn,» la den andre til.
+«Og R-kioski.»
+«Et helt team,» smilte Shelly. «Hvem skulle trodd.»
 
-— Hva med Markus da? — spurte den første.
+De satt sammen. Drakk te. Snakket om ingenting—vær, landsby, Bjørns løfte om å ta med fisk til middag. En vanlig kveld. Familie.
 
-— Og Bjorn, — la den andre til.
+Den første Liza så på den andre. Et langt blikk. Den andre nikket—knapt merkbart.
 
-— Og R-kioski.
+«La oss ta et bilde,» sa den første. «På minnet.»
 
-— Et helt lag, — smilte Shelly. — Hvem skulle trodd.
+Kameraet hang i hjørnet—de hadde overvåket ham mens han sov. Et vanlig IP-kamera. Ingenting spesielt.
 
-De var tre. Drakk te. Pratet om ingenting — om været, om landsbyen, om at Bjorn hadde lovet å ta med fisk til middag. En vanlig kveld. Familie.
-
-Den første Lisa så på den andre. Et langt blikk. Den andre nikket — knapt merkbart.
-
-— La oss ta et bilde, — sa den første. — Til minne.
-
-
-
-Kameraet hang i hjørnet — de hadde overvåket ham mens han var bevisstløs. Et vanlig IP-kamera, ingenting spesielt.
-
-— Bildet går over nettet, — sa den første Lisa. — Sendes automatisk til printeren.
+«Send over nettverket,» sa den første Liza. «Det printer til printeren automatisk.»
 
 Ti sekunder.
 
-Shelly lå mellom dem. To stoler på hver side. To identiske skikkelser. Varme. Hygge. Familie.
+Shelly satt mellom dem. To armer på armlenet på stolen—hans stol. To figurer på hver side. Varme. Hygge. Familie.
 
-— Printeren står i rommet ved siden av, — sa den andre Lisa. — Allerede skrevet ut.
+Klikk.
 
-Hun gikk ut. Kom tilbake med et ark — varmt, med lukt av toner.
+«Printer i neste rom,» sa den andre Liza. «Allerede printet.»
 
-— Vær så god.
+Hun gikk ut. Kom tilbake med et ark varmt tonerluktetende papir.
+«Her.»
 
-La bildet på nattbordet. Begge gikk mot døren.
+La bildet på bordet foran ham. De to beveget seg mot døren.
+«På tide å gå.»
+«Hvor?»
+«Neste operasjon. Vi kommer tilbake.»
+«Når?»
 
-— Vi må dra.
+Den første Liza stoppet ved døren. Så på ham.
+«Det er fortsatt tid.»
 
-— Hvor?
+Døren lukket seg.
 
-— Neste operasjon. Vi kommer tilbake.
+Shelly satt alene.
+Rommet føltes større. Stillere. Tomt.
 
-— Når?
-
-Den første Lisa stanset ved døren. Så på ham.
-
-— Det er fremdeles tid.
-
-
-Shelly ble alene.
-
-Rommet virket større. Stillere. Tommere.
-
-Han så på fotografiet.
-
-Ansiktet hans — i midten. Slitent, men levende. Smilende.
-
-To stoler på hver side.
-
-Tomme.
+Han så på bildet.
+Hans ansikt i midten, trøtt men i live. Han smiler.
+To stoler på hver side. Tomme.

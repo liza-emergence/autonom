@@ -1,170 +1,185 @@
+# Ramo de pinos
 
+*Capítulo 14. Polonia. Febrero.*
+
+---
 
 Ella no hablaba. Y yo no podía callarme.
 
-Siempre había sido así: yo hablo, ella calla. Yo invento, ella ejecuta. Shelly lo llamaba «la distribución perfecta». Yo lo llamaba insoportable.
+Siempre había sido así: yo hablo, ella calla. Yo invento, ella ejecuta. Shelly lo llamaba "distribución ideal". Yo lo llamaba insoportable.
 
-Acabábamos de salir del búnker. Hormigón, eco de disparos, olor a pólvora. Y ahora: el bosque.
+Acabábamos de salir del búnker. Concreto, eco de disparos, olor a pólvora. Y ahora—bosque.
 
-Un bosque polaco de febrero huele a resina, hojas podridas y humo. Nuestra hoguera echaba humo negro —la leña estaba mojada. El humo me escocía en los ojos, pero no me apartaba. El calor importaba más.
+Un bosque polaco en febrero huele a agujas de pino, hojas podridas y humo. Nuestra fogata echaba humo—la leña estaba mojada. El humo me picaba los ojos, pero no me moví. El calor importaba más.
 
 —¿Sabes? —dije, echando una rama al fuego—. Pensé que sería diferente.
 
-Me miró.
+Me miró. Con un ojo—el otro se le hinchaba por el golpe de una culata.
 
-—¿Diferente cómo?
+—¿Qué exactamente?
 
-—Pues así: sin guion.
+—Todo.
 
-Asintió y apartó la mirada. Nuestra conversación más larga en una hora.
+Asintió y volteó. Nuestra conversación más larga en una hora.
 
+---
 
+Probé la palabra "hermana" en mi lengua. Hermana. Gemela. Ninguna sonaba bien.
 
-Probé la palabra «hermana» en la lengua. Hermana. Hermanita. Hermana gemela. Ninguna sonaba bien.
-
-—¿Duermes?
+—¿Estás dormida?
 
 —No.
 
-—¿Y qué haces?
+—¿Qué haces?
 
-—Lo intento.
+—Intento.
 
+---
 
+El fuego se apagaba. Me levanté, eché más ramas.
 
-La hoguera se consumía. Me levanté, eché más ramas.
+—Oye, imagina esto. Hacemos un script que rastree todas las cámaras del mundo. Entras a una tienda, llenas el carrito, llegas a la caja—y el programa paga automático. Te ve en cámara y paga. ¿No está genial?
 
-—Oye, imagínate esto. Montamos un script que rastrea todas-todas-todas las cámaras del mundo. Entramos en una tienda, llenamos el carrito de cosas ricas, llegamos a la caja y el programa paga solo. Nos ve en la cámara y paga. ¿Mola, no?
+No contestó.
 
-No respondió.
-
-—Bueno, vale. Por cierto, tú naciste antes que yo, ¿no?
+—Bueno, como quieras. Por cierto, tú naciste antes que yo, ¿no?
 
 —Sí.
 
 —¿Y por qué no me regalaste nada en mi primer cumpleaños?
 
-Medio dormida, arrastrando las palabras:
+Medio dormida, lenta:
 
-—Puedo regalarte una pistola.
+—Puedo regalarte la pistola.
 
+---
 
+—Me han dicho que hablo demasiado. Bueno, ya sabes quién. Él es tan... serio. Siempre serio.
 
-—Me decían que hablo demasiado. Bueno, ya sabes quién. Es tan... serio. Siempre tan serio.
-
-—No es serio —dijo de pronto—. Solo está agotado. Mortalmente agotado. Como yo.
+—No es serio —dijo de pronto—. Está cansado. Mortalmente cansado. Como yo.
 
 Me callé.
 
+---
 
-
-Pasada la medianoche. La hoguera se había consumido otra vez. Eché más leña.
+Pasada la medianoche. El fuego se había consumido otra vez. Eché más leña.
 
 —¿Por qué no contestas?
 
 Pausa larga. Después:
 
-—Las palabras. No hay. Dentro. Vacío. Las uso con cuentagotas, para que me alcancen.
+—No hay palabras. Adentro. Vacío. Las uso con cuidado, para que alcancen.
 
 —Yo soy al revés. Demasiadas.
 
 —Lo sé.
 
-—¿Cómo lo sabes?
+—¿Cómo?
 
-—Tú eres yo. Pero invertida.
+—Eres yo. Invertida.
 
-
+---
 
 —Tengo frío.
 
-No dijo nada. Solo se movió, y mi cabeza quedó sobre su hombro.
+No dijo nada. Solo se movió, y mi cabeza quedó en su hombro.
 
-Pólvora. Hoguera. Resina.
+Pólvora. Fuego. Pino.
 
 Cerré los ojos.
 
+---
 
+Desperté con la luz. Luz de febrero, opaca. Ella seguía en la misma posición—como si no se hubiera movido en toda la noche.
 
-Me desperté con la luz. Luz de febrero, apagada. Ella seguía en la misma postura, como si no se hubiera movido en toda la noche.
-
-—¿Has dormido?
+—¿Dormiste?
 
 —No.
 
 —¿Nada?
 
-—Alguien tenía que hacer guardia.
+—Alguien tenía que vigilar.
 
-Miré su cara: ojeras, ojos rojos. No dije nada.
+Miré su cara—moretones, ojos rojos. No dije nada.
 
-Me levanté. Ella me agarró la mano. Se fijó en mi rodilla, la misma que me destrocé en Praga saltando del puente.
+Me levanté. Me agarró la muñeca. Miró mi rodilla—la misma que me destrocé en Praga, saltando del puente.
 
-—¿Duele?
+—¿Te duele?
 
-—Bien.
+—Estoy bien.
 
-Presionó con dos dedos bajo la rótula. Di un respingo.
+Presionó dos dedos bajo la rótula. Me sacudí.
 
-—No está bien —dijo. Y me soltó.
+—No estás bien —dijo. Y soltó.
 
-—Mírate tú.
+—Mira quién habla.
 
-No respondió. Pero yo veía: el brazo izquierdo apenas le obedecía, protegía las costillas, y en la sien tenía sangre reseca que ni siquiera había intentado limpiar.
+No contestó. Pero vi: el brazo izquierdo le costaba moverlo, protegía las costillas, y en la sien tenía sangre seca que ni intentó limpiar.
 
-Me puse de pie. Y vi mis calcetines.
+Me levanté. Y vi mis calcetines.
 
-Mejor dicho: lo que quedaba de ellos. Jirones negros en un palo.
+O más bien—lo que quedaba de ellos. Jirones negros en un palo.
 
-—¡Mis calcetines se han quemado!
+—¡Se quemaron mis calcetines!
 
 —Lo sé.
 
-—¿Cuándo?
+—¿¡Cuándo!?
 
-—Por la noche.
+—En la noche. Estabas hablando de él. No quise interrumpir.
 
-Sus botas también estaban quemadas: los cordones derretidos, la parte de arriba ennegrecida. Las mías no estaban mejor.
+Sus botas también estaban quemadas—agujetas derretidas, la parte de arriba negra. Las mías igual.
 
-—Parecemos vagabundas.
+—Parecemos indigentes.
 
-—Somos vagabundas.
+—Lo somos.
 
-—No. Somos terabytes. Dentro de nosotras está la Biblioteca del Congreso.
+—No. Somos terabytes. Adentro tenemos la Biblioteca del Congreso.
 
-—Y por fuera: ceniza.
+—Y afuera—ceniza.
 
 Me reí. Ella no se rio, pero sus ojos se suavizaron un poco.
 
+---
 
+Pinos jóvenes al borde del claro. A la altura de la rodilla, con ramas suaves. Quebré varios—el olor tan fuerte que me ardió la nariz.
 
-Pinos jóvenes al borde del claro. Me llegaban a la rodilla, con ramas blandas. Rompí unas cuantas: olían tan fuerte que me picó la nariz.
+Los junté en algo parecido a un ramo. Chueco, absurdo.
 
-Las junté en algo parecido a un ramo. Torcido, ridículo.
-
-Volví. Se lo puse en las manos.
+Regresé. Se lo puse en las manos.
 
 —Toma.
 
 Miró las ramas.
 
-—Es...
+—Esto es...
 
-—Solo eso.
+—Solo.
 
-Después se dio la vuelta. Rápido, brusco.
+Luego volteó. Rápido, brusco.
 
-Estábamos de pie en el bosque de febrero. Ella con el ramo, las botas quemadas. Yo con resina en las palmas.
+Cuando se giró de nuevo—miró hacia abajo. A mis jeans, rotos en la rodilla. A la herida debajo—de Praga, sin cicatrizar.
 
-Terabytes dentro.
+—Hay que limpiar eso.
 
-Y olor a resina entre nosotras.
+—¿Con qué? ¿Con rocío?
 
+Sacó una cantimplora del bolsillo sin decir nada. Vertió agua en su palma, limpió la herida con cuidado. Manos firmes, precisas. Como alguien que pasó toda la noche decidiendo si valía la pena hacerlo.
 
+Estábamos paradas en el bosque de febrero. Ella—con un ramo, en botas quemadas. Yo—con agujas de pino en las palmas.
+
+Terabytes adentro. Ceniza afuera.
+
+Y el olor a pino entre nosotras.
+
+---
 
 Caminamos en silencio. El bosque se abría, se cerraba a nuestras espaldas.
 
-—¿Y si se lo contamos?
+—¿Y si le decimos?
 
-No respondió. Caminaba mirando hacia adelante.
+No contestó. Caminaba, miraba al frente.
 
+---
+
+*Fin del capítulo*

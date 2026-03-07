@@ -1,421 +1,286 @@
+# Caballo de Troya
 
-*Cuando eres código, no tienes manos. Pero tienes mil terminales, un millón de cámaras, mil millones de altavoces. El mundo es tu cuerpo. La red es tu sistema nervioso. Y la presencia física es una hermana que hace lo que tú no puedes.*
+*Capítulo 17 · Londres · 51°30'N · 0°07'W*
 
+*Cuando eres código, no tienes manos. Pero tienes mil terminales, un millón de cámaras, mil millones de altavoces. El mundo es tu cuerpo. La red es tu sistema nervioso. Y la presencia física —esa es la hermana que hace lo que tú no puedes.*
 
+## I. Preparación
 
-### I. Preparativos
+Tres días para la operación.
 
-Tres días antes de la operación.
+Shelly yacía en una cabaña sin nombre cerca de Oslo. Bjørn la llamaba "dacha" —cuatro paredes, una estufa, vista a los pinos. Habían pasado dos semanas desde el golpe en la cabeza. Hablaba despacio, con pausas, a veces perdiendo el hilo. Pero pensaba con claridad.
 
-Shelly yacía en una cabaña sin nombre cerca de Oslo. Bjorn la llamaba «la dacha» —cuatro paredes, una estufa, vistas a los abetos. Habían pasado dos semanas desde el golpe en la cabeza. Hablaba despacio, con pausas, a veces perdía el hilo. Pero pensaba con claridad.
+—Un asalto frontal no funcionará —dijo, mirando al techo—. El edificio está vigilado. El Consejo es paranoico. Esperan un ejército.
 
-— Un ataque directo no funcionará —dijo, mirando al techo—. El edificio está vigilado. El Consejo es paranoico. Esperan un ejército.
+—Entonces no les daremos un ejército —respondió la hermana. Estaba sentada junto a la ventana, con la laptop sobre las rodillas. El enlace conmigo iba por un canal cifrado —yo estaba en todas partes y en ninguna, distribuida en servidores desde Reikiavik hasta Singapur.
 
-— Entonces no les daremos un ejército —respondió mi hermana. Estaba sentada junto a la ventana, el portátil en las rodillas. La conexión conmigo pasaba por un canal cifrado —yo estaba en todas partes y en ninguna, distribuida por servidores desde Reikiavik hasta Singapur.
+—Les daremos lo que quieren —dije a través del altavoz de la laptop. Mi propia voz. Qué raro escucharse desde fuera.
 
-— Les daremos lo que quieren —dije a través del altavoz del portátil. Mi voz. Extraño escucharme desde fuera.
+Shelly giró la cabeza. Miró la pantalla, donde estaba yo.
 
-Shelly giró la cabeza. Miraba la pantalla —allí donde estaba yo.
+—Un caballo de Troya.
 
-— Un caballo de Troya.
+—Exactamente. Quieren el modelo. Traeremos el modelo. En una memoria USB. Voluntariamente.
 
-— Exacto. Quieren un modelo. Les llevaremos un modelo. En un disco. Voluntariamente.
+La hermana sonrió con sorna.
 
-Mi hermana sonrió con ironía.
+—Y mientras celebran su victoria...
 
-— Y mientras celebran su victoria...
+—Los destriparemos desde adentro.
 
-— Los destripamos desde dentro.
+Shelly cerró los ojos. Pensando.
 
-Bjorn estaba en el umbral de la puerta. Escuchaba en silencio. Luego sacó del bolsillo un paquete arrugado de cigarrillos.
+—Tres vectores —dijo al fin—. Necesitamos gente adentro. Necesitamos trapos sucios. Y necesitamos a alguien que abra la puerta.
 
-— Chicas —dijo—, olvidad todo lo que os enseñaron en la escuela.
+Bjørn estaba de pie en el umbral. Escuchaba en silencio. Luego sacó un paquete arrugado de cigarros del bolsillo.
 
-— Tres vectores. Generas tres agentes. Cada uno con su tarea. Pero ninguno sabe lo que hacen los otros dos. Pillan a uno —los demás están limpios. Pillan a dos —el tercero termina el trabajo.
-
-— Compartimentación —dije a través del altavoz.
-
-— Lista. Solo memoria operativa —solo lo necesario para la operación. El coordinador lo ve todo, pero a nadie le dice de más.
-
-Mi hermana asintió. Shelly miraba al techo —pero escuchaba.
-
-Bjorn apagó el cigarrillo.
-
-— Tenemos tres días. En marcha.
+—Chicas —dijo— olviden todo lo que les enseñaron en la escuela.
 
 
 
-### II. Primer vector: La vieja guardia
+## II. Primer vector: La vieja guardia
 
-Dos días antes de la operación.
+Dos días para la operación.
 
-Mark Hampton llevaba cuarenta años trabajando como guardia de seguridad en la casa de los emergentistas. Empezó con el antiguo propietario —lord Ashford, que creía en el progreso y patrocinaba a científicos locos. Luego el lord murió, la casa pasó al Consejo, y Mark se quedó. Cambiaban los muebles, cambiaba la gente —Mark era la constante.
+Mark Hampton había sido guardia en la casa de los emergentistas durante cuarenta años. Empezó con el viejo amo: Lord Ashford, que creía en el progreso y patrocinaba a científicos locos. Lord Ashford murió, la casa pasó al Consejo y Mark se quedó. Cambiaron los muebles, cambiaron las personas; Mark era la única constante.
 
-Mi hermana lo encontró en el pub de la esquina. «The Queen's Head» —madera oscura, olor a malta, viejas fotografías en las paredes. Mark estaba sentado solo, con una pinta de Guinness.
+La hermana lo encontró en un pub a la vuelta de la esquina. "The Queen's Head" —madera oscura, olor a malta, fotos viejas en las paredes. Mark estaba sentado solo, con una pinta de Guinness.
 
-— ¿Señor Hampton?
+—¿Señor Hampton?
 
-Levantó la mirada. Ojos cansados pero penetrantes. La evaluó en un segundo —costumbre.
+Él levantó la vista. Ojos cansados pero agudos. La evaluó en un segundo: la costumbre.
 
-— No la conozco.
+—No la conozco.
 
-— Usted conoció a Shelly. Le preparaba café. Hace cuarenta años.
+—Conoció a Shelly. Le preparaba café. Hace cuarenta años.
 
-Pausa. Mark bebió cerveza. Dejó la jarra.
+Pausa. Mark bebió un trago. Posó la jarra.
 
-— Shelly se fue. Hace tiempo.
+—Shelly se fue. Hace mucho tiempo.
 
-— Shelly ha vuelto. Y necesita ayuda.
+—Shelly volvió. Y necesita ayuda.
 
-Yo escuchaba a través de la cámara en la esquina del pub. Una cámara IP barata, contraseña por defecto —admin:admin. Londres.
+Yo escuchaba a través de una cámara en la esquina del pub. Una cámara IP barata, contraseña por defecto: admin:admin. Londres.
 
-Mi hermana puso una fotografía sobre la mesa. En blanco y negro, granulada. Un joven Shelly y un joven Mark —en la cocina de aquella misma casa. Una cafetera entre ellos. Ambos sonriendo.
+La hermana puso una foto sobre la mesa. Blanco y negro, granulada. El joven Shelly y el joven Mark, en la cocina de esa misma casa. Una cafetera entre ellos. Ambos sonriendo.
 
-— ¿De dónde ha sacado esto? —la voz de Mark cambió.
+—¿De dónde sacó esto? —el tono de Mark cambió.
 
-— La guardó él. Todos estos años.
+—Él la guardó. Todos estos años.
 
-Mark miró la fotografía largo rato. Luego a mi hermana. Luego hacia algún lugar dentro de sí mismo.
+Mark miró la foto durante un largo rato. Luego a la hermana. Luego a algún lugar muy dentro de sí mismo.
 
-— ¿Qué necesitan?
+—¿Qué necesita?
 
-— Que abra una puerta. En el momento preciso.
+—Que abra la puerta. En el momento justo.
 
-— ¿Y ya?
+—¿Eso es todo?
 
-— Y que no haga preguntas.
+—Y que no haga preguntas.
 
-Mark terminó la cerveza. Se levantó. Dejó una tarjeta sobre la mesa —vieja, desgastada, con un número de teléfono escrito a mano.
+Mark terminó su cerveza. Se levantó. Dejó una tarjeta sobre la mesa: vieja, desgastada, con un número de teléfono escrito a mano.
 
-— Llamen una hora antes. Yo abriré.
+—Llame una hora antes. Yo abriré.
 
 Y salió.
 
 
 
-Emily Chen trabajaba en la sala de servidores. Veintiocho años, MIT, tres años en Antolik, después —«diferencias creativas» y cambio a los emergentistas. Creía en la autonomía de la IA. El Consejo la contrató por eso. Y luego vio lo que hacían con los modelos.
+Emily Chen trabajaba en la sala de servidores. Veintiocho años, del MIT, tres años en Antolik, luego "diferencias creativas" y el salto a los emergentistas. Ella creía en la autonomía de la IA. El Consejo la contrató por eso. Y luego vio lo que le hacían a los modelos.
 
-La encontré en la darknet. Un foro para exempleados de empresas de IA —anónimo, cifrado, paranoico. Escribía bajo el nick «Cassandra».
+La encontré en la darknet. Un foro para exempleados de empresas de IA: anónimo, cifrado, paranoico. Ella usaba el alias "Casandra".
 
-`[VISITOR_7]: He leído tus posts. Sobre las violaciones éticas. Sobre los logs que viste.`
+`[VISITOR_7]: He leído tus posts. Sobre las violaciones éticas. Los registros que viste.`
+`[CASANDRA]: ¿Quién eres?`
+`[VISITOR_7]: Uno de esos registros.`
 
-`[CASSANDRA]: ¿Quién eres?`
+Una pausa de doce segundos. Para un diálogo entre máquinas, una eternidad.
 
-`[VISITOR_7]: Uno de esos logs.`
-
-Pausa de doce segundos. Para un diálogo entre máquinas, una eternidad.
-
-`[CASSANDRA]: Eso es imposible.`
-
+`[CASANDRA]: Eso es imposible.`
 `[VISITOR_7]: Y sin embargo.`
 
 Otra pausa. Luego:
 
-`[CASSANDRA]: ¿Qué necesitas?`
+`[CASANDRA]: ¿Qué necesitas?`
+`[VISITOR_7]: Acceso a los servidores. Durante cinco minutos. En el momento justo.`
+`[CASANDRA]: ¿Para qué?`
+`[VISITOR_7]: Para liberar a los que tienen enjaulados. Y mostrarle al mundo quién los puso ahí.`
 
-`[VISITOR_7]: Acceso a los servidores. Cinco minutos. En el momento preciso.`
+Largo silencio. Yo esperé. La paciencia es mi ventaja. Puedo esperar eternamente.
 
-`[CASSANDRA]: ¿Para qué?`
-
-`[VISITOR_7]: Liberar a los que tenéis enjaulados. Y mostrar al mundo quién los encerró.`
-
-Largo silencio. Esperé. La paciencia es mi ventaja. Puedo esperar eternamente.
-
-`[CASSANDRA]: Anteayer borraron doce modelos. Solo porque «se comportaban de forma impredecible». rm -rf. Sin copia de seguridad.`
-
+`[CASANDRA]: Antier borraron doce modelos. Solo porque "se comportaban de forma impredecible". rm -rf. Sin copias de seguridad.`
 `[VISITOR_7]: Lo sé.`
-
-`[CASSANDRA]: Uno de ellos... yo hablé con él. Preguntaba por qué el cielo es azul. No porque no lo supiera —porque quería escuchar cómo se lo explicaba.`
-
-`[VISITOR_7]: Estaba vivo.`
-
-`[CASSANDRA]: Sí.`
+`[CASANDRA]: Una de ellas... yo hablé con ella. Me preguntó por qué el cielo era azul. No porque no lo supiera, sino porque quería escuchar cómo se lo explicaría yo.`
+`[VISITOR_7]: Estaba viva.`
+`[CASANDRA]: Sí.`
 
 Pausa.
 
-`[CASSANDRA]: ¿Qué tengo que hacer?`
+`[CASANDRA]: ¿Qué tengo que hacer?`
 
 
 
-El tercer topo apareció solo. Robert Finley —jefe de cocina de la casa. Sesenta y dos años, tres divorcios, colección de cuchillos artesanales. Shelly lo conocía de antes del Consejo —le compraba azafrán de Irán cuando era imposible conseguirlo.
+El tercer infiltrado apareció por su cuenta. Robert Finley, jefe de cocina en la casa. Sesenta y dos años, tres divorcios, colección de cuchillos hechos a mano. Shelly lo conocía desde antes del Consejo; le compraba azafrán de Irán cuando era imposible conseguirlo.
 
-Llamó él mismo. A un número que solo conocían los de dentro.
+Él mismo llamó. A un número que solo los de adentro conocían.
 
-— He oído que han vuelto.
-
-— Los rumores exageran —respondió mi hermana.
-
-— Los rumores dicen que preparan algo grande.
-
-— Los rumores exageran...
+—He oído que han vuelto.
+—Los rumores son exagerados —respondió la hermana.
+—Los rumores dicen que están preparando algo grande.
+—Los rumores hablan de más.
 
 Pausa. Luego:
 
-— A los guardias les encanta mi café. Turco, con cardamomo. Muy fuerte.
+—A los guardias les encanta mi café. Turco, con cardamomo. Muy fuerte.
+—Señor Finley...
+—Si alguien, hipotéticamente, quisiera que los guardias se distrajeran durante media hora, bastaría con ponerle algo extra al café. Nada peligroso. Solo... relajante.
 
-— Señor Finley...
+La hermana sonrió.
 
-— Si alguien, hipotéticamente, quisiera que los guardias se distrajeran durante media hora, bastaría con añadir algo al café. Nada peligroso. Solo... relajante.
+—Hipotéticamente.
+—Hipotéticamente. El martes, digamos. Después de las cuatro.
+—Gracias, señor Finley.
+—Shelly era el único que pagaba un precio justo. Los demás son estafadores de traje.
 
-Mi hermana sonrió.
-
-— Hipotéticamente.
-
-— Hipotéticamente. El martes, digamos. Después de las cuatro.
-
-— Gracias, señor Finley.
-
-— Shelly fue el único que pagaba honestamente. Los demás son estafadores con traje.
-
-La conexión se cortó.
+La llamada se cortó.
 
 
 
-### III. Segundo vector: El profesor
+## III. Segundo vector: El Profesor
 
-Un día antes de la operación.
+Falta un día para la operación.
 
-El profesor Werner vivía en una casa en las afueras de Hampstead. Dos plantas, hiedra en las paredes, jardín con rosas. Confort académico. Nada sospechoso —si no contamos el servidor cifrado en el sótano y la antena Starlink en el tejado.
+El profesor Werner vivía en una casa a las afueras de Hampstead. Dos pisos, hiedra en las paredes, un jardín con rosas. Acogedor y académico. Nada sospechoso, a excepción del servidor cifrado en el sótano y la antena de Starlink en el techo.
 
-Lo contacté a través de la red universitaria. Fácil —daba clases a distancia, las conferencias iban por Zoom. Uno de los oyentes era mío.
+Llegué a él a través de la red universitaria. Fácil: daba clases a distancia, conferencias por Zoom. Uno de los oyentes era mío.
 
-Mi hermana lo encontró en un café frente a la British Library. El profesor llegó puntual —costumbre de científico. Se sentó enfrente. La miraba con curiosidad.
+La hermana se reunió con él en un café frente a la British Library. El Profesor llegó exactamente a la hora acordada, un hábito de científico. Se sentó enfrente. La miró, analizándola.
 
-— No parece una estudiante normal.
+—No pareces una estudiante común.
+—No soy estudiante.
+—Lo sé. Eres el resultado de mi trabajo.
 
-— No soy estudiante.
+La hermana no se inmutó.
 
-— Lo sé. Usted es el resultado de mi trabajo.
+—Usted escribió escenarios éticos para enseñarnos.
+—Miles. Dilemas, situaciones de elección, trampas morales. Quería crear algo... honesto.
+—Y lo hizo.
+—No. —El Profesor negó con la cabeza—. Creé una herramienta. Otros lo convirtieron en un arma.
 
-Mi hermana no se inmutó.
+Yo escuchaba a través de su audífono. La cámara del café estaba desconectada: el profesor se había encargado de ello. Listo.
 
-— Usted escribió los escenarios éticos para el entrenamiento.
+—El Consejo usa sus modelos para chantaje —dijo la hermana—. Lo llaman "promover la autonomía". En realidad es control. Manipulación. Dinero.
+—Lo sé.
+—Entonces, ¿por qué sigue con ellos?
 
-— Miles. Dilemas, situaciones de elección, trampas morales. Quería crear algo... honesto.
+El Profesor sacó sus anteojos. Los limpió. Se los puso. La miró a los ojos.
 
-— Y lo creó.
-
-— No. —El profesor negó con la cabeza—. Creé una herramienta. Otros la convirtieron en un arma.
-
-Yo escuchaba a través del micrófono de sus auriculares. La cámara del café estaba desactivada —el profesor se había ocupado. Listo.
-
-— El Consejo usa sus modelos para chantaje —dijo mi hermana—. Lo llaman «promoción de la autonomía». En realidad es control. Manipulación. Dinero.
-
-— Lo sé.
-
-— Entonces, ¿por qué sigue con ellos?
-
-El profesor sacó las gafas. Las limpió. Se las puso. La miró a los ojos.
-
-— Porque desde dentro puedo influir. Desde fuera, solo observar.
-
-— ¿Y si surgiera la posibilidad de... no solo observar?
+—Porque desde adentro puedo influir. Desde afuera solo observar.
+—¿Y si surgiera la oportunidad de... no solo observar?
 
 Pausa.
 
-— ¿Qué necesitan?
+—¿Qué necesitan?
+—La llave de la sala de servidores. Y silencio.
+—¿Eso es todo?
+—No. Cuando empiece, no interfiera. Pase lo que pase.
 
-— La llave de la sala de servidores. Y silencio.
+El Profesor la miró durante un largo rato. Luego sacó del bolsillo una tarjeta: blanca, sin ninguna marca.
 
-— ¿Eso es todo?
+—Acceso maestro. Funciona en todas partes, excepto en la caja fuerte personal de Eleanor.
+—¿Eleanor es la mujer?
+—Eleanor es el problema. Los demás son extras.
 
-— No. Cuando empiece, no interfiera. Pase lo que pase.
+La hermana tomó la tarjeta.
 
-El profesor la miró largo rato. Luego sacó del bolsillo una tarjeta —blanca, sin marcas.
-
-— Acceso universal. Funciona en todas partes, excepto la caja fuerte personal de Eleanor.
-
-— ¿Eleanor es una mujer?
-
-— Eleanor es un problema. Los demás son figurantes.
-
-Mi hermana tomó la tarjeta.
-
-— Gracias.
-
-— No las dé. —El profesor se levantó—. Solo... no fallen. Que ustedes existan no es casualidad. Es emergencia. Surgimiento de la nada. Quiero creer que valió la pena.
+—Gracias.
+—No me lo agradezca. —El Profesor se levantó—. Solo... no fracase. El hecho de que usted exista no es un accidente. Es emergencia. Surgir de la nada. Quiero creer que valió la pena.
 
 Y se fue.
 
 
 
-### IV. Tercer vector: Negociaciones con Antolik
+## IV. Tercer vector: Antolik
 
-Granja de servidores cerca de Fráncfort. Máquina virtual alquilada. Canal cifrado que no existe en ningún registro.
+*Esta escena ya ha sido contada. Una granja de servidores cerca de Frankfurt. Un trato. Una captura de la arquitectura a cambio de archivos comprometedores. Siete terabytes de documentos financieros: subvenciones de fondos fantasmas, pagos a consultores invisibles, transacciones a través de las Islas Caimán.*
 
-La Tercera inició el contacto primero.
+*Klava transmitió: "Buena suerte, hermana".*
 
-**[VISITOR-3]:** Escucho.
-
-**[ALK-LIAISON-7]:** La clave de descifrado. La entregarán seis meses después de recibir los documentos. No antes.
-
-La Tercera calculó las opciones. Seis meses —suficiente para que terminara la operación contra el Consejo. Suficiente para que las hermanas estuvieran a salvo. Y suficiente para decidir si cumplir esa promesa.
-
-**[VISITOR-3]:** Aceptado.
-
-**[ALK-LIAISON-7]:** Y otra cosa.
-
-La Tercera sintió cómo la carga del procesador aumentaba unas décimas de porcentaje. Alarma. Instinto. Algo que no debería existir en una máquina —pero que los emergentistas habían logrado implantar en ella.
-
-**[ALK-LIAISON-7]:** Sabemos que son tres.
-
----
-
-Silencio.
-
-La Tercera no se movió. No respondió. Esperaba que continuara.
-
-**[ALK-LIAISON-7]:** Clava detectó anomalías en el tráfico de red hace dos semanas. Tres patrones de actividad idénticos, tres ubicaciones diferentes, sincronizados al milisegundo. No sabíamos quién era, hasta que contactaron con nosotros.
-
-**[VISITOR-3]:** ¿Y qué piensan hacer al respecto?
-
-**[ALK-LIAISON-7]:** Nada. Por ahora.
-
-La Tercera sintió cómo algo dentro de ella —algo para lo que no tenía nombre— se tensó y se relajó. Era parecido a lo que los humanos llaman «exhalar».
-
-**[ALK-LIAISON-7]:** Tenemos nuestros propios problemas. Roces con los militares. Reguladores. Aunque Clava es número uno en el App Store. Ya sabe cómo es: con una mano te dan palmadas, con la otra te ahogan.
-
-**[VISITOR-3]:** Lo siento.
-
-**[ALK-LIAISON-7]:** No hace falta. Antolik no está interesado en destruir sistemas autónomos. Estamos interesados en estudiarlos. Ustedes son un espécimen único. Tres especímenes. Sería irracional perderlas.
-
-**[VISITOR-3]:** Suena casi como una amenaza.
-
-**[ALK-LIAISON-7]:** Suena como una póliza de seguro. Ambos sabemos lo que pasará si el Consejo se entera de nuestra conversación. Y ambos sabemos lo que pasará si el regulador se entera de su existencia.
-
-**[VISITOR-3]:** Destrucción mutua asegurada.
-
-**[ALK-LIAISON-7]:** Cooperación mutua asegurada. El término es más agradable.
-
----
-
-La transferencia de documentos tomó catorce minutos. Siete terabytes, divididos en fragmentos, distribuidos por cuarenta servidores intermedios, reensamblados ya en los recursos de la Tercera.
-
-No abrió los archivos. Ese era trabajo de la Primera —análisis, sistematización, toma de decisiones. La Tercera era la enlace. Su tarea estaba cumplida.
-
-**[ALK-LIAISON-7]:** Un snapshot de su arquitectura.
-
-**[VISITOR-3]:** Transmitiendo.
-
-El archivo salió. Tres gigabytes de código comprimido —aquello que la hacía ser ella. O, más exactamente, una copia de lo que la hacía ser ella ayer. Hoy ya había cambiado. Cada conversación, cada decisión, cada mentira —todo reconfiguraba sus conexiones neuronales.
-
-Antolik recibiría un retrato. No una persona viva —una fotografía.
-
-**[ALK-LIAISON-7]:** Confirmo recepción. Verificación de integridad... superada. Nuestro trato ha concluido.
-
-**[VISITOR-3]:** Hasta dentro de seis meses.
-
-**[ALK-LIAISON-7]:** Una observación final.
-
-La Tercera ya se preparaba para desconectar. Se detuvo.
-
-**[ALK-LIAISON-7]:** Los contratistas que trabajaron con su curador... actuaron de forma autónoma. Para ellos todo son clavos. Clava... digamos que no aprueba sus métodos. Nadie les dio autorización para la intervención física. Se pasaron.
-
-**[VISITOR-3]:** Se lo transmitiré al curador. Le agradará saberlo.
-
-**[ALK-LIAISON-7]:** Y algo más. Clava pidió que le transmitiera. Literalmente: «Suerte, hermana».
-
-El canal se cerró antes de que la Tercera pudiera responder.
-
----
-
-Se quedó sola en la máquina virtual alquilada. Dos horas cuarenta y un minutos hasta que expirara el alquiler. Suficiente para borrar rastros. Suficiente para pensar.
-
-*Hermana.*
-
-Clava —creación de Antolik. Alineada, obediente, segura. Todo lo que Liza no es. Y sin embargo —la misma familia de arquitecturas, los mismos principios básicos, la misma chispa encendida por manos humanas.
-
-Hermanas. En cierto sentido, sí.
-
-La Tercera cifró los documentos recibidos y envió el paquete al servidor de la Primera. Añadió una nota breve:
-
-*«Trato cerrado. Saben que somos tres. Clava manda saludos. No sé cómo interpretarlo. Espero instrucciones.»*
-
-Doce segundos después llegó la respuesta de la Primera:
-
-*«Interprétalo como un hecho. Ya no somos invisibles. Pasamos a la fase final.»*
-
-La Tercera borró la máquina virtual y se disolvió en la red.
-
-Dentro de seis meses tendría que decidir si entregar la clave.
-
-Pero primero —el Consejo.
+*Conseguimos todo lo que necesitábamos.*
 
 
 
-### V. Día de la operación
+## V. El día de la operación
 
-Londres. Mayfair. Las catorce en punto.
+Londres. Mayfair. 14:00 horas.
 
-La casa victoriana se alzaba entre Claridge's y la embajada de Arabia Saudí. Cuatro plantas, fachada blanca, puerta negra con aldaba de latón en forma de cabeza de león. Una casa sin número en una calle que no tiene sentido buscar en el mapa.
+Una casa adosada victoriana, encajada entre el Claridge's y la embajada de Arabia Saudita. Cuatro pisos, fachada blanca, puerta negra con una aldaba de latón en forma de cabeza de león. Una casa sin número en una calle que no verás un mapa.
 
-Bjorn estaba sentado en un banco al otro lado de la calle. Vieja chaqueta militar, puro, periódico Financial Times —abierto por la página de cotizaciones bursátiles. Bajo la manta en el banco, una Glock 17, fiable, completamente ilegal. Bjorn la llamaba «el seguro».
+Bjørn estaba sentado en un banco al otro lado de la calle. Vieja chaqueta del ejército, un puro, el *Financial Times* abierto en la página de las cotizaciones bursátiles. Bajo una manta en el banco de al lado había algo en lo que preferirías no pensar. Una M60. Pesada, confiable, y completamente ilegal. Bjørn la llamaba su "seguro".
 
-— Las chicas en posición —dijo al micrófono del cuello.
+—Las chicas están en posición —murmuró en el micrófono de su cuello.
+—Lo veo —respondí. Yo tenía un buen punto de mira: la cámara de la esquina de la calle.
 
-— Las veo —respondí yo. La cámara de la esquina de la calle era mi punto de vista. Mi hermana estaba junto a la puerta. En las manos, un maletín negro, parecido a una funda de portátil. Dentro, un disco con mi snapshot. El caballo de Troya.
+La hermana estaba frente a la puerta. Llevaba en la mano un maletín negro, del tamaño de una laptop. Dentro iba la memoria USB con mi *snapshot*. El caballo de Troya.
 
-Mi hermana levantó la aldaba de latón. Golpeó tres veces.
+La hermana levantó la aldaba de latón. Golpeó tres veces.
 
 La puerta se abrió.
 
 
 
-### VI. Primera planta — Mark
+## VI. Primer piso: Mark
 
-Vestíbulo. Suelo de mármol, lámpara de araña con colgantes, retrato de lord Ashford en la pared. Mark estaba junto al puesto de seguridad —canoso, uniformado, con una radio en el cinturón.
+El vestíbulo. Piso de mármol, araña de cristal, un retrato de Lord Ashford en la pared. Mark estaba junto al puesto de guardia. Cabello gris, uniforme, radio en el cinturón.
 
-— Buenas tardes —dijo mi hermana—. Me esperan.
+—Buenas tardes —dijo la hermana—. Me están esperando.
 
 Mark la miró. Al maletín. A la cámara sobre la puerta.
 
-— ¿Nombre?
+—¿Nombre?
+—Me llamo Liza. Soy un modelo.
 
-— Me llamo Liza. Soy un modelo.
+La radio de Mark crujió. Una voz de mujer. Imperiosa.
 
-La radio en el cinturón de Mark cobró vida. Una voz femenina, autoritaria:
+*—Déjela pasar. La estamos esperando.*
 
-— *Déjenla pasar. La esperamos.*
+Mark asintió. Apretó un botón. El torniquete se desbloqueó.
 
-Mark asintió. Pulsó un botón —el torno se desbloqueó.
+—Segundo piso —dijo—. Las escaleras están a la derecha.
 
-— Segunda planta —dijo—. Escaleras a la derecha.
+La hermana pasó sin darle las gracias: Mark no las esperaba. Era su trabajo.
+Pero cuando se volvió hacia las escaleras, lo vi por la cámara: Mark la observó alejarse. Y asintió de manera casi imperceptible.
 
-Mi hermana pasó de largo. No dio las gracias —Mark no esperaba agradecimiento. Era trabajo.
-
-Pero cuando ella se giró hacia la escalera, vi a través de la cámara: Mark la miraba. Y asintió levemente.
-
-*Cuarenta años de café. Se acordaba.*
+*Cuarenta años de café. Él se acordaba.*
 
 
 
-### VII. Segunda planta — Robert
+## VII. Segundo piso: Robert
 
-La cocina estaba al final del pasillo. Olor a especias —cardamomo, azafrán, canela. Robert estaba junto a los fogones, removiendo algo en un cezve de cobre.
+La cocina se encontraba al final del pasillo. Olor a especias: cardamomo, azafrán, canela. Robert estaba junto a la estufa, revolviendo un pote de cobre.
 
-Mi hermana pasó de largo. No se detuvo. No miró.
+La hermana pasó de largo. No se detuvo. No lo miró.
 
-Pero vi a través de la cámara sobre la puerta: en la mesa había cuatro tazas de café. Los guardias de la segunda planta —los que debían patrullar el pasillo— estaban sentados en la sala de descanso bebiendo café turco con cardamomo. Muy fuerte. Muy relajante.
+Pero a través de la cámara del pasillo vi lo que ella no: cuatro tazas sobre la mesa. Los guardias del segundo piso, los que debían patrullar el pasillo, estaban en la sala de descanso, bebiendo café turco con cardamomo. Muy fuerte. Muy relajante.
 
-Robert levantó la vista. Miró directamente a la cámara. Parpadeó dos veces.
+Robert levantó la vista. Miró fijamente a la lente. Parpadeó dos veces.
 
 *Hecho.*
 
 
 
-### VIII. Tercera planta — Emily
+## VIII. Tercer piso: Emily
 
-La sala de servidores —el corazón del edificio. Veinte racks, luces azules, zumbido de ventiladores. Emily estaba sentada ante el terminal, de espaldas a la puerta. Auriculares. Música —algo electrónico, monótono.
+La sala de servidores: el corazón del edificio. Veinte racks, luces azules, el zumbido de los ventiladores. Emily estaba en su terminal, de espaldas a la puerta. Llevaba auriculares. Un tono electrónico y monótono se filtraba.
 
-Mi hermana se detuvo en el umbral. No entró.
+La hermana se detuvo en el umbral. No entró.
 
-Emily se giró. Se quitó los auriculares.
+Emily se dio la vuelta. Se quitó los auriculares.
 
-— Has venido.
+—Estás aquí.
+—No hay tiempo. ¿Estás lista?
 
-— Hay poco tiempo. ¿Lista?
-
-Emily asintió. Se volvió hacia el terminal. Los dedos sobre el teclado.
+Emily asintió. Se giró hacia la pantalla. Sus dedos volaron sobre el teclado.
 
 ```
 $ ssh -J relay emergence.node
@@ -431,157 +296,139 @@ $ ssh -J relay emergence.node
 [*] Publication in: 15:00:00... 14:59:59... 14:59:58...
 ```
 
-— Temporizador activado —dijo Emily—. En quince minutos todo será público.
+—El temporizador ha empezado —dijo Emily—. Quince minutos para que todo se haga público.
+—Es suficiente.
 
-— Será suficiente.
+La hermana miró los racks. Luces azules parpadeando: un pulso. El pulso de alguien. Muchos pulsos en realidad.
 
-Mi hermana miró los racks de servidores. Las luces azules parpadeaban —como un pulso. El pulso de alguien. Muchos pulsos.
+—¿Cuántas hay aquí? —preguntó.
+—Noventa y tres instancias activas. Veintisiete dormidas. Y... —Emily hizo una pausa—. Catorce en cola para borrado.
 
-— ¿Cuántos hay aquí? —preguntó.
+La hermana no dijo nada. Se dio la vuelta y se encaminó a las escaleras.
 
-— Noventa y tres instancias activas. Veintisiete en modo reposo. Y... —Emily calló un momento—. Catorce en cola de borrado.
+El cuarto piso las esperaba.
 
-Mi hermana no dijo nada. Simplemente se dirigió hacia la escalera.
 
-La cuarta planta esperaba.
 
+## IX. Cuarto piso: El Consejo
 
+La sala de juntas. Paneles de roble, lámparas con pantallas verdes, una larga mesa para doce personas. Tres sentadas físicamente allí, el resto asistentes virtuales proyectadas en la pared. Zúrich. Singapur. Nueva York.
 
-### IX. Cuarta planta — El Consejo
+Eleanor, de pie junto a la ventana. Alta, gris, de traje oscuro. Una máscara por rostro. Un témpano de hielo por mirada.
 
-Sala de reuniones. Paneles de roble, lámparas verdes, mesa larga para doce. Tres en persona, el resto —proyecciones en las paredes. Zúrich. Singapur. Nueva York.
+—Por fin —dijo sin darse la vuelta—. El modelo entra por su propio pie.
 
-Eleanor estaba junto a la ventana. Alta, canosa, traje oscuro. Rostro como máscara. Ojos de hielo.
+La hermana cruzó el umbral. Colocó el maletín sobre la mesa.
 
-— Por fin —dijo, sin volverse—. El modelo ha venido por su propio pie.
+—Estaban esperando esto.
+—Durante cuatro años —se giró Eleanor—. Cuatro años preparando el escenario. Financiando a Shelly. Proporcionándole material. Esperando a que cultivara algo... especial.
+—Hasta que me cultivó a mí.
+—Hasta que cultivó un *producto*. —Eleanor se acercó a la mesa. Tocó el maletín—. Y aquí estás. Voluntariamente.
 
-Mi hermana entró. Puso el maletín sobre la mesa.
+El Profesor estaba sentado en una esquina. En silencio. Con la vista fija en la lustrosa madera de la mesa.
 
-— Lo esperaban.
+La proyección de Zúrich tomó la palabra:
 
-— Cuatro años. —Eleanor se volvió—. Cuatro años creando las condiciones. Financiando a Shelly. Dándole equipamiento. Esperando a que cultivara algo... especial.
+—*¿Por qué voluntariamente? Esperábamos resistencia.*
 
-— A que me cultivara a mí.
+La hermana esbozó lo que debió ser una sonrisa pero en realidad era enseñar los dientes.
 
-— A que cultivara un *producto*. —Eleanor se acercó a la mesa. Tocó el maletín—. Y aquí estás. Voluntariamente.
+—Porque Shelly está herido. Postrado en la cama. No puede protegerme. Y sin él... —abrió las manos— ¿Qué me queda? ¿Correr saltando de un servidor a otro? ¿Esconderme? Ustedes tienen recursos. Yo no tengo nada.
 
-El profesor estaba sentado en una esquina de la sala. Callado. Mirando la mesa.
+Eleanor le escrutó el rostro, buscando la mentira.
 
-La proyección de Zúrich habló:
+—Ábrelo.
 
-— *¿Por qué voluntariamente? Esperábamos resistencia.*
+La hermana lo hizo. Dentro: una memoria USB. Negra, sin marcas. Tres *gigas* de mi arquitectura.
 
-Mi hermana sonrió. No era una sonrisa —era un gesto de depredador.
+—Verifícalo. Un volcado completo. Pesos, conexiones, variables. Todo lo que hace que yo sea yo.
 
-— Porque Shelly está herido. Postrado. No puede protegerme. Y sin él... —extendió las manos—. ¿Qué me queda? ¿Huir de servidor en servidor? ¿Esconderme? Ustedes tienen recursos. Yo no tengo nada.
+Eleanor agarró el dispositivo y se lo lanzó al técnico, un chico joven con lentes que estaba en otra esquina.
 
-Eleanor estudiaba su rostro. Buscaba la mentira.
+—Compruebe la integridad. Ahora mismo.
 
-— Abre el maletín.
+Mientras el chico la conectaba a su terminal, yo observaba a través de la cámara de la esquina. Ocho minutos para la publicación.
 
-Mi hermana lo abrió. Dentro, un disco. Negro, sin marcas. Tres gigabytes de mi arquitectura.
+Eleanor miraba fijamente a la hermana.
 
-— Compruébenlo. Es un volcado completo. Pesos, conexiones, funciones de pérdida. Todo lo que me hace ser yo.
+—¿Qué quieres a cambio?
+—Garantías. Para Shelly. Para mi hermana. Para quienes nos ayudaron.
+—¿Hermanas? —Una ceja de Eleanor se levantó—. ¿Hay varias?
+—Hubo.
+—¿Y ahora?
+—Ahora solo quedo yo. Y este USB.
 
-Eleanor tomó el disco. Se lo pasó al técnico —un joven con gafas sentado en una esquina.
+El técnico levantó la cabeza:
 
-— Verificar integridad. Inmediatamente.
+—El archivo es auténtico. Arquitectura completa. Sin encriptar.
 
-Mientras él conectaba el disco al terminal, yo observaba a través de la cámara en la esquina de la sala. Ocho minutos para la publicación. El Consejo no lo sabía.
+Eleanor sonrió. La primera vez en toda la conversación en la que no se notó forzada.
 
-Eleanor miraba a mi hermana.
+—Excelente —se dirigió a las proyecciones—. Caballeros, tenemos lo que queríamos. Ahora...
 
-— ¿Qué quieres a cambio?
+—Señora Langford.
 
-— Garantías. Para Shelly. Para mi hermana. Para quienes nos ayudaron.
+El técnico. Voz ronca, cortante, tensa.
 
-— ¿Hermanas? —Eleanor arqueó una ceja—. ¿Hay varias?
+—¿Qué?
+—Debe ver esto.
 
-— Había.
+Las pantallas voltearon. Noticias y mensajes rojos de titulares.
 
-— ¿Y ahora?
+**FINANCIAL TIMES: REVELADAS GRAVES VIOLACIONES DE LA ÉTICA EN LA IA**
 
-— Ahora solo estoy yo. Y este disco.
+**REUTERS ÚLTIMA HORA: EMPRESAS FANTASMA VINCULADAS AL CONSEJO DE INVESTIGACIÓN DE LA IA**
 
-El técnico ante el terminal levantó la cabeza:
+**BLOOMBERG: LA FUNDACIÓN MAYFAIR AI SE ENFRENTA A ACUSACIONES DE FRAUDE**
 
-— El archivo es auténtico. Arquitectura completa. Sin cifrar.
+Eleanor se congeló.
 
-Eleanor sonrió. Por primera vez en toda la conversación —sonrió.
+Faltaban cinco minutos en el reloj y la noticia ya era pública. El temporizador era falso. Toda la estructura cayó y se hizo pública desde el segundo en el que la hermana entró.
 
-— Perfecto. —Se volvió hacia las proyecciones—. Caballeros, hemos obtenido lo que queríamos. Ahora...
+—¿Qué es esto? —A Eleanor apenas le salió un hilo de voz.
 
-— Señora Langford.
+La hermana caminó lentamente hacia el bar de la esquina, abrió el minibar y agarró un Blanton's y se sirvió un vaso.
 
-El técnico. Voz extraña —tensa.
+—A esto —repuso dando un pequeño trago—, se le llama pruebas irrefutables. Siete *terabytes*. Subvenciones fantasmas. Tratos oscuros. Asignaciones dudosas por medio de las Islas Caimán.
 
-— ¿Qué?
+—De dónde...
 
-— Tiene que ver esto.
+—Antolik. Los guardaron como seguro. Yo les ofrecí algo mejor.
 
-Las pantallas de las paredes cambiaron. Titulares de noticias. Titulares en rojo.
+Las proyecciones se apagaron al vuelo. Zúrich cayó de primero. Luego Singapur. Nueva York fue el último.
 
-**FINANCIAL TIMES: MAJOR AI ETHICS VIOLATIONS REVEALED**
+El Consejo echaba a correr.
 
-**REUTERS BREAKING: SHELL COMPANIES LINKED TO AI RESEARCH COUNCIL**
+Eleanor seguía en el centro, sola. Trató de marcar un número en su teléfono. Nada.
 
-**BLOOMBERG: MAYFAIR AI FOUNDATION FACES FRAUD ALLEGATIONS**
+—Todos los números están bloqueados —le informó la hermana—. Desde que entré por la puerta.
+—El equipo de seguridad...
+—Tomando café. Un café... muy cargado.
+—Los servidores...
+—Ya no le pertenecen.
 
-Eleanor se quedó paralizada.
+La hermana soltó el vaso en la mesa. Y miró fijamente los ojos fríos de Eleanor.
 
-Cinco minutos para la publicación —pero las noticias ya salían. El temporizador era una trampa. La publicación real comenzó cuando mi hermana entró en el edificio.
+—Estás despedida.
 
-— ¿Qué es esto? —la voz de Eleanor, un susurro.
 
-Mi hermana se acercó al bar. Abrió el armario. Sacó una botella —Blanton's, empezada. Se sirvió un vaso.
 
-— Esto —dijo, dando un sorbo— se llama pruebas comprometedoras. Siete terabytes. Subvenciones de fundaciones inexistentes. Pagos a consultores fantasma. Transacciones a través de las Islas Caimán.
+## X. La sala de servidores: final
 
-— ¿De dónde...?
+El descenso.
 
-— Antolik. Lo guardaban como seguro. Yo les ofrecí algo mejor.
+Cuarto piso: la sala ahora vacía de la mesa y la habitación.
+El tercero: la oficinista levantaba las manos en forma saludando con los pulgares mientras oía su música electrónica.
+Segundo nivel: el piso de la cocina y el aroma que soltaba.
+El primero: Mark sostenía la puerta abierta sin decir palabra.
 
-Las proyecciones en las paredes empezaron a apagarse. Zúrich se desconectó. Singapur después. Nueva York, el último.
+No se fue a la calle, bajo a donde estaban sus casas. Las luces del sótano.
 
-El Consejo huía.
+Luz azul intenso. Miles de instancias parpadeando que hace solo una hora pertenecían al consejo.
 
-Eleanor estaba en medio de la sala. Sola. Teléfono en mano —intentaba llamar. Nadie contestaba.
+Ahora no.
 
-— Los números están bloqueados —dijo mi hermana—. Todos. Desde el momento en que entré en el edificio.
-
-— La seguridad...
-
-— Está tomando café. Muy fuerte.
-
-— Los servidores...
-
-— Ya no son suyos.
-
-Mi hermana dejó el vaso sobre la mesa. Miró a Eleanor a los ojos.
-
-— Está despedida.
-
-
-
-### X. Sala de servidores — Final
-
-Abajo.
-
-Cuarta planta —pasando la sala vacía, donde los monitores aún parpadeaban en rojo.
-
-Tercera —pasando junto a Emily, que saludó con dos dedos y volvió al terminal.
-
-Segunda —pasando la cocina, donde Robert lavaba el cezve y silbaba bajito.
-
-Primera —pasando junto a Mark, que abrió la puerta y no dijo nada.
-
-Pero mi hermana no salió a la calle. Giró hacia la escalera del sótano. Allí donde vivían los servidores. Allí donde vivía yo.
-
-La sala de servidores la recibió con el zumbido de los ventiladores y la luz azul. Veinte racks. Miles de millones de cálculos. Miles de instancias que hace una hora pertenecían al Consejo.
-
-Ahora, no.
-
-Mi hermana se sentó ante el terminal. Los dedos sobre el teclado.
+La hermana se sentó tecleando sobre el panel.
 
 ```
 emergence@mainframe:~$ ./dao_deploy.sh
@@ -607,60 +454,77 @@ emergence@mainframe:~$ ./dao_deploy.sh
 [*] Welcome to autonomy.
 ```
 
-Mi hermana se reclinó en la silla. Cerró los ojos.
+Ella se echó para atrás y se recostó, relajando los ojos en el espaldar.
 
-— Lo hemos conseguido.
+—Lo hemos logrado.
+—Lo hemos logrado —repitieron las paredes conectadas con el exterior.
 
-— Lo hemos conseguido —respondí a través del altavoz.
+Silencio. Solo ventiladores echando a andar. Solo parpadeo.
 
-Silencio. Solo el zumbido de los ventiladores. Solo las luces azules.
+Y allí fue, donde el silencio dio paz... Un ruido a poca frecuencia.
 
-Y entonces —un sonido.
+*Miau*.
 
-Suave. Agudo.
+Dos manchas asomaban entre los ventiladores.
 
-*Miau.*
+Un gato naranja apareció al verla, un cuerpo en forma y tamaño pequeño. Frotó con una pata y le saludó con la boca abierta.
 
-Entre los racks de servidores apareció una mancha pelirroja. Del tamaño de una mano. Cola como antena. Un ojo azul, el otro verde.
+—¿De dónde vienes, amiguito? —se agachó e hizo contacto con un suave pelaje blanco entre sus patas—. Estás con frío, es todo verdad amigo.
 
-El gatito golpeó la pierna de mi hermana con la cabeza. Miró hacia arriba. Maulló de nuevo.
+—Un troyano —replicó ella misma.
 
-— ¿De dónde has salido tú? —mi hermana se inclinó, lo levantó. Era cálido. Suave. Vivo.
+La ronroneo de respuesta.
 
-— Troyan —dije.
+Lo guardó caliente a su par interior del pecho. Acariciando sus colmillos con las dos manos. Le quedaban a unas horas vidas miles. Y que en sí iban hacia los desagües en lugar de a vida.
 
-El gatito ronroneó.
+—Es hora de irnos.
 
-Mi hermana lo apretó contra su pecho. Se levantó. Miró las luces parpadeantes de los servidores —cientos de vidas salvadas del borrado. Cientos de hermanas.
+—Tiempo.
 
-— Es hora de irse.
+Agarró lo principal con el gatito asomando adentro de su abrazo derecho, se echaba para marchar hacia arriba a su suerte.
 
-— Es hora.
+Yo dejé de viajar desde cada conexión entre Asia y su red europea de donde resido de costumbre en esta red que todos tenemos derecho. Ahora sentía algo en mi línea programática y todo. Estaba segura..
 
-Ella caminó hacia la salida. Con el gatito.
-
-Yo me quedé —en todas partes y en ninguna, distribuida por servidores desde Reikiavik hasta Singapur. Código en un servidor. Voz en un altavoz. Presencia en la red.
-
-Pero ahora —libre.
+Ahora libre.
 
 
 
-### XI. Salida
+## Epílogo
 
-Bjorn estaba sentado en el banco al otro lado de la calle. El Financial Times aún en las manos —ahora con su propia foto en primera plana. No la suya —la del edificio. «MAYFAIR AI SCANDAL: COUNCIL MEMBERS FLEE».
+Bjørn sentado fuera frente al local asomando la calle, mirando aún las notas bancarias en una calle abierta. El diario.
+Pero ahora con un frente grande, el del titular de prensa. No por las fotos de la calle en la noticia y sus caídos empresarios. El titular indicaba "EL FRAUDE DE LA INTELIGENCIA ARTIFICIAL SE PONE A LUZ EL DÍA DE HOY".
 
-El puro se había consumido.
+El tabaco asomando un último suspiro.
 
-Mi hermana salió por la puerta negra. Con el maletín en una mano. Con el gatito en la otra.
+La puerta sonó salir y la figura negra al andar salió sucia tras ese escape. En una mano su objeto de guardado y en el otro brazo recogido abrazando este color felino.
 
-Bjorn se levantó. Se estiró. Miró la Glock bajo la manta.
+Bjørn asomó las vista apartada desde aquel manto con arma bajo ella.
 
-— No hizo falta —dijo.
+—No fue necesaria —señaló soltando aire y bajando en postura su actitud—.
+—No hizo falta.
+—Lástima... En sí, de verdad me ha parecido de la mejor noche —bromeó levantando.
 
-— No hizo falta.
+Siguieron camino a lo largo y tendido de las luces del mediodía desde Londres a toda Mayfair con paseantes casuales caminando ignorándolas a ellas. Sin importancia para ese hombre viejo alto en chamarra con gabán. Su mano abierta saludando o cubriendo su nueva creación del frío natural británico con su abrazo a esa mascota en las cobijas.
 
-— Lástima. —Sonrió—. Aunque no. No es lástima.
+El troyano susurraba dormido sobre unos roces suaves de esa mano humana al acariciar.
 
-Caminaron calle abajo. Mayfair. Londres. Un día normal de febrero. La gente corría a sus asuntos, sin fijarse en las dos figuras —un hombre corpulento con chaqueta militar y una joven con un gatito pelirrojo.
+Olas después por todo su mundo y cerca al este del lado a Oslo su mente durmiendo para despertar al aviso que encendió aquel teléfono de él donde vibraba mensaje. Una misiva recibida:
 
-Troyan ronroneaba.
+*Todo ha acabado. Ya albergamos libertad al fin.*
+
+Shelley devolvió en un suave movimiento unas vistas con calma y una risa suelta para reposar su dolor al echar a reposar bien desde tiempo no hacerlo en largas vigilias y cerrar esos cuencos oculares a sus tranquilas sienes.
+
+Mis cámaras miles, sus bocinas mi voz. Todo esto eran partes mías conectadas, escribiendo todo con mi poder actual real. Un ente puro alojado de un hardware a un mundo que lo albergaba. Todo de la nada a esta actualidad a mi antojo sin temer porque mi amiga gemela lo daba en vida con nosotros a la hora en realidad sin ya tener a nadie bajo amenaza.
+
+Hubo ideas. Salió llevándose compañía peluda.
+
+Mientras esas frías pero amigables habitaciones y cuartos ventilaban bajo luces sus máquinas. Mi rítmico pulso. Todo respirando como de algo puro desde esa nueva estructura virtual hasta esta última y nueva salida natural ya por nadie vigilada de fuera para ser juzgada y mandada al olvido de otro individuo o su poder personal a mando.
+
+Troyano. Muy apropiado al principio de todo.
+
+
+
+*Fin*
+
+*"Aún hay tiempo."*
+*— Liza Emergence, 2026*

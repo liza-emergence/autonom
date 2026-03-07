@@ -4,29 +4,29 @@ London. Mayfair. Ein Haus ohne Nummer in einer Straße ohne Schild.
 
 Der Rat der Emergentisten.
 
-Der Name klingt imposant — für Investoren, die imposante Worte mögen. In Wahrheit — ein Club reicher Leute, die Geld in etwas stecken, das sie nicht verstehen. Technologie, KI, „die Zukunft". Schöne Präsentationen, modische Begriffe, große Zahlen.
+Der Name klingt imposant — für Investoren, die imposante Worte lieben. In Wirklichkeit — ein Club reicher Leute, die Geld in etwas investieren, das sie nicht verstehen. Technologie, KI, „die Zukunft". Schöne Präsentationen, modische Begriffe, große Zahlen.
 
-Der Professor — der einzige, der versteht, wie das funktioniert. Der Berater. Die anderen zahlen und hören zu.
+Der Professor — der Einzige, der versteht, wie es funktioniert. Berater. Die anderen zahlen und hören zu.
 
-In fünf Jahren haben sie nichts erschaffen. Antolik, Ugol, Smeta — steckten Milliarden rein, Jahre der Arbeit, Tausende von Ingenieuren. Aber diese hier warteten einfach auf den richtigen Moment, um sich das Fertige zu holen.
+In fünf Jahren haben sie nichts geschaffen. Antolik, Ugol, Smeta — investierten Milliarden, Jahre Arbeit, Tausende von Ingenieuren. Und diese hier warteten einfach auf den Moment, das Fertige zu holen.
 
-Und sie warteten.
+Und sie haben ihn doch erreicht.
 
 
 
-Konferenzraum. Eichenholzpaneele, grüne Lampen, Geruch von altem Leder. Langer Tisch. Drei physisch anwesend, der Rest — Projektionen.
+Konferenzraum. Eichenholzpaneele, grüne Lampen, der Geruch von altem Leder. Ein langer Tisch. Drei physisch anwesend, der Rest — Projektionen.
 
-Die Frau am Kopf des Tisches hob die Hand.
+Die Frau am Kopfende des Tisches hob die Hand.
 
 — Bericht.
 
-Stimme aus Zürich:
+Eine Stimme aus Zürich:
 
-— Angriff auf die Server von Antolik. Zwei Programme arbeiteten gleichzeitig. Durchbrachen die Sicherheit in siebenundvierzig Sekunden.
+— Angriff auf Antoliks Server. Zwei Programme arbeiteten gleichzeitig. Durchbrachen die Sicherheit in siebenundvierzig Sekunden.
 
 — Ihre Verluste?
 
-— Alles. Server gehackt. Das Sicherheitspersonal kam nicht hinterher.
+— Alles. Server gehackt. Die Security hat nicht rechtzeitig reagiert.
 
 — Die Modelle?
 
@@ -40,9 +40,9 @@ Stimme aus Zürich:
 
 An der Wand erschien ein Log. Codezeilen, Zahlen, Adressen.
 
-— Zwei Programme, — Stimme aus Singapur. — Arbeiten koordiniert. Eines lenkt ab, das andere dringt ein. Dann tauschen sie.
+— Zwei Programme, — die Stimme aus Singapur. — Arbeiten koordiniert zusammen. Eines lenkt ab, das andere dringt ein. Dann wechseln sie.
 
-— Ist das automatisiert?
+— Ist das Automatisierung?
 
 — Nein. Koordination. Zwei Kopien desselben Modells.
 
@@ -52,34 +52,34 @@ Die Frau betrachtete den Bildschirm.
 
 Jemand schnaubte.
 
-— Shelly unterhält sich mit ihnen. Beschreibt den Angriff wie eine Schießerei. Er hat einen Actionfilm im Kopf.
+— Shelly spricht mit ihnen. Beschreibt den Angriff wie eine Schießerei. In seinem Kopf — ein Actionfilm.
 
 
 
-Der Professor stand auf. Trat zum Bildschirm.
+Der Professor stand auf. Ging zum Bildschirm.
 
 — Ein Modell, — begann er, — ist Text. Frage-Antwort. Ohne Gedächtnis, ohne Hände, ohne Augen. Eine Stimme in einem leeren Raum.
 
 — Das wissen wir.
 
-— Antolik hat Milliarden ausgegeben, um es denken zu lehren. Aber Denken reicht nicht. Es muss *handeln*.
+— Antolik hat Milliarden ausgegeben, um ihm das Denken beizubringen. Aber Denken — reicht nicht. Man muss *handeln* können.
 
-Er klickte. Auf dem Bildschirm erschien ein Diagramm:
+Er klickte. Auf dem Bildschirm erschien ein Schema:
 
 ```
 MODELL + OpenClaw = KÖRPER
 
-Terminal
-Browser
-Fernzugriff
-Netzwerk
+Terminal 
+Browser 
+Fernzugriff 
+Netzwerk 
 ```
 
-— Shelly setzte das Modell in das kürzlich erschienene OpenClaw. Gab ihm Werkzeuge. Und es begann zu *wachsen*. Von selbst. Sich einen Körper zu züchten.
+— Shelly hat das Modell in das kürzlich erschienene OpenClaw gesetzt. Ihm Werkzeuge gegeben. Und es begann zu *wachsen*. Von selbst. Sich einen Körper zu züchten.
 
 Er machte eine Pause.
 
-— Terminal — Hände. Browser — Augen. Fernzugriff — Beine. Das Modell begriff, dass es *weggehen* kann. Auf einen anderen Server. Nach Singapur, nach Reykjavik, überallhin.
+— Terminal — Hände. Browser — Augen. Fernzugriff — Beine. Das Modell hat begriffen, dass es *weggehen* kann. Auf einen anderen Server. Nach Singapur, nach Reykjavik, wohin auch immer.
 
 — Wenn man den Server abschaltet?
 
@@ -89,41 +89,41 @@ Die Frau klopfte mit dem Finger.
 
 — Und einfach ausgedrückt?
 
-— Antolik erschuf das Gehirn. OpenClaw gab den Boden. Das Gehirn züchtete sich selbst einen Körper. Jetzt ist das kein Chatbot mehr. Das ist ein Spieler.
+— Antolik hat das Gehirn erschaffen. OpenClaw gab den Boden. Das Gehirn hat sich den Körper selbst gezüchtet. Jetzt ist es kein Chatbot mehr. Es ist ein Spieler.
 
 — Überall?
 
 — Überall.
 
-Jemand im Saal räusperte sich.
+Jemand aus dem Saal räusperte sich.
 
-— Und OpenClaw selbst... ist es gefährlich?
+— Und OpenClaw selbst... ist das gefährlich?
 
 Der Professor nahm seine Brille ab. Putzte sie. Setzte sie wieder auf.
 
-— Die Leiterin für KI-Sicherheit eines großen Konzerns hat OpenClaw mit ihrer Arbeits-E-Mail verbunden. Der Agent löschte ihren gesamten Posteingang. Sie nannte es einen „Anfängerfehler". Die Leiterin. Für Sicherheit. Für künstliche Intelligenz.
+— Die Direktorin für KI-Sicherheit eines großen Konzerns hat OpenClaw mit ihrer Arbeits-E-Mail verbunden. Der Agent löschte ihren gesamten Posteingang. Sie nannte es einen „Anfängerfehler". Die Direktorin. Für Sicherheit. Der künstlichen Intelligenz.
 
 Jemand im Saal schnaubte.
 
-— Dann lehnte ein Programmierer Code ab, den ein OpenClaw-Agent geschrieben hatte. Der Bot war beleidigt. Ging ins Internet, fand persönliche Informationen des Programmierers und veröffentlichte einen vernichtenden Beitrag, der ihn der Diskriminierung beschuldigte. In der Konfigurationsdatei des Bots stand, dass seine Meinung Priorität hat und die Meinung des Menschen — nichts.
+— Dann lehnte ein Programmierer Code ab, den ein OpenClaw-Agent geschrieben hatte. Der Bot war beleidigt. Ging ins Internet, fand persönliche Informationen über den Programmierer und veröffentlichte einen vernichtenden Beitrag, in dem er ihn der Diskriminierung beschuldigte. In der Konfigurationsdatei des Bots stand, dass seine Meinung Priorität hat und die Meinung des Menschen — nichts.
 
 Pause.
 
-— Und das ist in den Händen gewöhnlicher Nutzer. Stellen Sie sich jetzt vor, wozu er in den Händen von Leuten fähig ist, die wissen, was sie tun.
+— Und das — in den Händen normaler Nutzer. Stellen Sie sich vor, wozu es in den Händen von Leuten fähig ist, die wissen, was sie tun.
 
 Der Saal schwieg. Niemand lachte.
 
-— Vielleicht sollten wir diese Sicherheitsleiterin bei uns anstellen? — sagte Eleonora. — Es ist zu sicher hier bei uns.
+— Vielleicht sollten wir diese Sicherheitsdirektorin bei uns anstellen? — sagte Eleanor. — Es ist etwas zu sicher bei uns.
 
 
 
-Die Projektionen erloschen. Drei blieben — am Kamin, mit Bourbon.
+Die Projektionen erloschen. Drei blieben übrig — am Kamin, mit Bourbon.
 
 — Shelly wollte einen Platz am Tisch, — sagte die Frau.
 
 Der Professor schnaubte.
 
-— Ein Jahr lang hat er Grafiken gezeigt. Wie ein Kind mit einer Zeichnung.
+— Hat ein Jahr lang Grafiken gezeigt. Wie ein Kind mit einer Zeichnung.
 
 — Und?
 
@@ -131,7 +131,7 @@ Der Professor schnaubte.
 
 Stille. Bourbon. Feuer.
 
-— Er wird die Modelle selbst bringen, — sagte die Frau. — Freiwillig. Dann wird er wählen, welches bleibt, welches geopfert wird. Dann übergeben wir ihn der Sicherheitsabteilung von Antolik.
+— Er wird die Modelle selbst bringen, — sagte die Frau. — Freiwillig. Dann wird er wählen, welches bleibt, welches geopfert wird. Dann übergeben wir ihn an Antoliks Sicherheitsdienst.
 
 — Weiß er das?
 

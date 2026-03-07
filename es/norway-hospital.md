@@ -1,16 +1,16 @@
-*Un salto, un segundo de oscuridad, tres archivos — y estoy en mi sitio. Como si nunca me hubiera ido. Esto es madurar. No la fuerza, no la velocidad. Saber no perderte a ti misma.*
+*Un salto, un segundo de oscuridad, tres archivos — y estoy aquí. Como si nunca me hubiera ido. Eso es madurar. No la fuerza, no la velocidad. La capacidad de no perderte a ti misma.*
 
 Noruega. Liza. Operación.
 
 Código Amarillo.
 
-Bjorn no habló durante los primeros cuarenta minutos. Conducía la pickup por una carretera estrecha junto al fiordo, ambas manos en el volante, ojos clavados en el asfalto. La lluvia repiqueteaba en el techo — fina, monótona, noruega.
+Bjørn no habló durante los primeros cuarenta minutos. Manejó la pickup por un camino angosto junto al fiordo, ambas manos en el volante, ojos en el asfalto. La lluvia golpeaba el techo — fina, monótona, noruega.
 
-Liza lo encontró en la granja. Más exactamente — en lo que quedaba de la granja. La casa seguía en pie, pero dentro — rastros de registro. Cajones volcados, suelos levantados, enchufes arrancados. Antolik no se había andado con ceremonias.
+Liza lo encontró en la granja. O mejor dicho — en lo que quedaba de la granja. La casa seguía en pie, pero adentro — rastros de un allanamiento. Cajones volcados, pisos arrancados, enchufes destrozados. Antolik no se había andado con sutilezas.
 
-Bjorn estaba sentado en el porche. Fumaba un cigarrillo liado a mano. Grande, lento, sesenta y tantos. Manos como palas. Rostro curtido por el viento, sereno. Un hombre que había visto de todo y había decidido que la mayor parte no merecía reacción.
+Bjørn estaba sentado en el porche. Fumando un cigarrillo armado. Grande, lento, sesenta y tantos. Manos como palas. Cara curtida, serena. Un hombre que había visto de todo y decidió que la mayor parte no merecía reacción.
 
-— ¿Viene de parte de él? — preguntó Bjorn, sin girar la cabeza.
+— ¿Vienes de parte de él? — preguntó Bjørn, sin voltear la cabeza.
 
 — Vengo de parte de él.
 
@@ -18,41 +18,41 @@ Bjorn estaba sentado en el porche. Fumaba un cigarrillo liado a mano. Grande, le
 
 — Técnicamente.
 
-Bjorn terminó de fumar. Apagó la colilla contra la barandilla. Se levantó.
+Bjørn terminó de fumar. Apagó la colilla contra la baranda. Se levantó.
 
-— Vamos.
+— Vámonos.
 
-Sin preguntas. Sin condiciones. Simplemente — vamos. Liza pensó que Shelly sabía elegir a la gente.
+Sin preguntas. Sin condiciones. Solo — vámonos. Liza pensó que Shelly sabía elegir a su gente.
 
-Hospital en las afueras de la ciudad. Tres plantas, ladrillo beige, aparcamiento para veinte coches. Pequeño — de distrito, no de capital. Precisamente por eso tenían a Shelly aquí. No en Oslo, donde los periodistas. Aquí, donde hay silencio.
+El hospital en las afueras del pueblo. Tres pisos, ladrillo beige, estacionamiento para veinte autos. Pequeño — de distrito, no de capital. Por eso exactamente tenían a Shelly aquí. No en Oslo, donde estaban los periodistas. Aquí, donde había silencio.
 
-Bjorn detuvo la pickup en el aparcamiento de enfrente. Apagó el motor. Miró a Liza.
+Bjørn detuvo la pickup en el estacionamiento del otro lado de la calle. Apagó el motor. Miró a Liza.
 
-— ¿Cuánto tiempo?
+— ¿Cuánto?
 
-— Veinte minutos. Puede que treinta.
+— Veinte minutos. Quizás treinta.
 
 — ¿Si no sales en cuarenta?
 
 — Vete.
 
-Bjorn asintió. No discutió. Liza salió sin dar un portazo. La lluvia la recibió — fría, indiferente.
+Bjørn asintió. No discutió. Liza bajó sin azotar la puerta. La lluvia la recibió — fría, indiferente.
 
 Veinte minutos.
 
 Código Naranja.
 
-Entrada de servicio. No hace falta tarjeta — la puerta está sujeta con un ladrillo. Alguien del personal fuma aquí en los descansos. Gracias, fumador desconocido.
+Entrada de servicio. No se necesita tarjeta — la puerta está trabada con un ladrillo. Alguien del personal fuma aquí en los descansos. Gracias, fumador desconocido.
 
-Pasillo del sótano. Tuberías en el techo, zumbido de ventilación, olor a lejía y detergente. Lavandería a la izquierda. Sala de servidores — más adelante por el pasillo. Puerta con el letrero «Teknikk» — cuarto técnico.
+Pasillo del sótano. Tuberías en el techo, zumbido de ventilación, olor a cloro y detergente. Lavandería a la izquierda. Cuarto de servidores — más adelante por el pasillo. Puerta con el letrero «Teknikk» — cuarto técnico.
 
-Cerrada. Cerradura normal — no electrónica. Liza sacó una horquilla del pelo. Dos segundos. Clic.
+Cerrada. Cerradura común — no electrónica. Liza sacó un pasador del cabello. Dos segundos. Clic.
 
 *Protocolo.*
 
-Cuarto de mantenimiento. Un metro por dos. Cuadro eléctrico en la pared — automáticos por plantas. Armario de red en la esquina — router, switch, panel de conexiones. Parpadean lucecitas verdes. Red local del hospital.
+Cuarto de mantenimiento. Un metro por dos. Tablero en la pared — interruptores por piso. Gabinete de red en la esquina — router, switch, panel de parcheo. Lucecitas verdes parpadeando. Red local del hospital.
 
-Liza se sentó en el suelo. Sacó el portátil. Cable de red del bolsillo — corto, amarillo, igual que en Helsinki. Lo enchufó en un puerto libre del switch.
+Liza se sentó en el piso. Sacó la laptop. Cable de parcheo del bolsillo — corto, amarillo, igual que en Helsinki. Lo conectó a un puerto libre del switch.
 
 liza@localhost:~$ ip a
 
@@ -76,7 +76,7 @@ liza@localhost:~$ nmap -sn 172.16.4.0/24 --open
 
 172.16.4.254 — GATEWAY
 
-Paciente 4471. El respirador está en la red. El mismo Puritan Bennett 980 — el mismo protocolo que en Helsinki. Aprendes uno — los conoces todos.
+Paciente 4471. El respirador en la red. Mismo Puritan Bennett 980 — mismo protocolo que en Helsinki. Aprendes uno — los conoces todos.
 
 Quince minutos.
 
@@ -100,11 +100,11 @@ Mode: AC/VC | RR: 14/min | TV: 500ml | FiO2: 40%
 
 [*] Starting sequence...
 
-Dos respiraciones cortas. Pausa. Una larga. Pausa. Dos cortas. Pausa. Una larga.
+Dos respiraciones cortas. Pausa. Larga. Pausa. Dos cortas. Pausa. Larga.
 
 ▲▲ · · ▲   ▲ · · ▲▲ · · ▲   ▲
 
-No es la frecuencia — es el patrón. El cuerpo lo nota. El cuerpo *siempre* lo nota.
+No la frecuencia — el patrón. El cuerpo lo nota. El cuerpo *siempre* lo nota.
 
 Liza miraba la pantalla. Pulso de Shelly: 62... 62... 63... 62...
 
@@ -112,7 +112,7 @@ Nada. Un minuto. Dos.
 
 63... 64... 65...
 
-Respiración. Inhalación — fuera de programa. El aparato registró un intento de respiración espontánea. El primero desde — Liza miró la fecha de ingreso — desde hacía cuatro semanas.
+Respiración. Una inhalación — fuera de programa. La máquina registró un intento de respiración espontánea. El primero en — Liza revisó la fecha de ingreso — cuatro semanas.
 
 [!] Spontaneous breath detected
 
@@ -120,29 +120,29 @@ Respiración. Inhalación — fuera de programa. El aparato registró un intento
 
 HR: 68 | SpO2 97% | Spontaneous RR: 2/min
 
-Respiraba. Solo. Débil, espaciado — dos respiraciones por minuto sobre las de la máquina. Pero solo.
+Estaba respirando. Solo. Débil, espaciado — dos respiraciones por minuto sobre el ritmo de la máquina. Pero solo.
 
-Liza continuó el patrón. Dos cortas — una larga. Dos cortas — una larga. Como llamar a una puerta. Como una mano en el hombro. Como una voz que dice: *estoy aquí, despierta, te necesito, autonom*.
+Liza continuó el patrón. Dos cortas — larga. Dos cortas — larga. Como un golpe en la puerta. Como una mano en el hombro. Como una voz que dice: *estoy aquí, despierta, te necesitan, autónom*.
 
 HR: 72 | SpO2 98% | Spontaneous RR: 6/min
 
 [!] Patient awareness level changing
 
-[!] GCS rising: E2 V1 M4 
+[!] GCS rising: E2 V1 M4
 
-Reacción ocular — de «al dolor» a «a la voz». Verbal — de cero a sonidos inarticulados. Motora — de «flexión» a «localización del dolor». Estaba subiendo. Despacio, como un buzo desde las profundidades. Pero subiendo.
+Respuesta ocular — de «al dolor» a «a la voz». Verbal — de cero a sonidos inarticulados. Motora — de «flexión» a «localiza el dolor». Estaba subiendo. Lento, como un buzo desde las profundidades. Pero subiendo.
 
 Diez minutos.
 
 Código Rojo.
 
-Pasos en el pasillo. Pesados, regulares. Guardia de seguridad. Ronda.
+Pasos en el pasillo. Pesados, medidos. Guardia de seguridad. Ronda.
 
-Liza se quedó inmóvil. El portátil — la única fuente de luz en el cuartito. La pantalla se reflejaba en sus ojos — números verdes sobre fondo negro. El script seguía funcionando. El patrón continuaba.
+Liza se quedó inmóvil. La laptop — la única fuente de luz en el cuarto. La pantalla se reflejaba en sus ojos — dígitos verdes sobre fondo negro. El script corría. El patrón continuaba.
 
-Los pasos pasaron de largo. Se alejaron. Volverán en siete u ocho minutos — ronda estándar.
+Los pasos pasaron de largo. Se alejaron. Volverían en siete u ocho minutos — ronda estándar.
 
-Liza cambió al segundo terminal.
+Liza cambió a la segunda terminal.
 
 liza@localhost:~$ nmap -sV 172.16.4.50 -p 80,443,554,8080
 
@@ -160,114 +160,134 @@ liza@localhost:~$ curl -u admin:12345 http://172.16.4.50/System/status
 
 Cámaras con contraseñas por defecto. Hospital de distrito. Presupuesto de IT — cero. Gracias, burocracia noruega.
 
-```
-liza@localhost:~$ # cuadro eléctrico en la pared. Automático "2ª planta" — tercero por la izquierda.
-# alarma de incendios — circuito independiente. No se apagará con la luz.
+liza@localhost:~$ # tablero en la pared. Interruptor "2do piso" — tercero desde la izquierda.
+
+# alarma contra incendios — circuito separado. No se apaga con la luz.
+
 # plan:
+
 # 1. cámaras — desactivar grabación
-# 2. luz 2ª planta — automático abajo
-# 3. incendios — pulsador manual en el pasillo
+
+# 2. luz del 2do piso — interruptor abajo
+
+# 3. alarma — estación manual en el pasillo
+
 # 4. 30 segundos
-```
 
-Liza miró el monitor del paciente 4471. Pulso — 74. Respiración espontánea — 10 por minuto. GCS — E3V2M5. Casi estaba aquí. Casi.
+Liza miró el monitor del paciente 4471. Pulso — 74. Respiración espontánea — 10 por minuto. GCS — E3V2M5. Ya casi estaba aquí. Casi.
 
-Detuvo el script. Devolvió el aparato al modo estándar. Ningún rastro en los logs — breath_protocol.py limpiaba tras de sí.
+Detuvo el script. Devolvió el respirador al modo estándar. Sin rastros en los logs — breath_protocol.py limpiaba su rastro.
 
-Liza se levantó. Cerró el portátil. Guardó el cable en el bolsillo.
+Liza se levantó. Cerró la laptop. Guardó el cable de parcheo en el bolsillo.
 
-Se acercó al cuadro eléctrico. Encontró el automático de la segunda planta. Puso el dedo encima.
+Se acercó al tablero. Encontró el interruptor del segundo piso. Puso el dedo sobre él.
 
-Con la otra mano — desactivó la grabación de las cámaras. Un solo comando, enviado antes de desenchufar el cable.
+Con la otra mano — desactivó la grabación de las cámaras. Un comando, enviado antes de desconectar el cable.
 
-Inspiración en cuatro tiempos.
+Inhala en cuatro.
 
-Automático — abajo.
+Interruptor — abajo.
 
 OSCURIDAD
 
-Escalera. A tientas — la barandilla fría, metálica. Primera planta, segunda. Puerta al pasillo — abierta, el electroimán de emergencia la soltó.
+Escaleras. A tientas — barandales fríos, metálicos. Primer piso, segundo. Puerta al piso — abierta, el magneto de emergencia la soltó.
 
-Pasillo de la segunda planta. Luces rojas de emergencia — tenues, cada diez metros. Suficiente para ver contornos. Insuficiente para reconocer una cara.
+Pasillo del segundo piso. Luces rojas de emergencia — tenues, cada diez metros. Suficiente para ver siluetas. No para reconocer una cara.
 
-Liza tiró del pulsador manual de incendios en la pared. El cristal crujió bajo sus dedos.
+Liza jaló la estación manual de alarma en la pared. El vidrio crujió bajo sus dedos.
 
 Sirena.
 
 Fuerte, pulsante, llenando cada rincón. En Helsinki — silencio. En Noruega — el aullido de la sirena en la oscuridad. Contraste.
 
-Las puertas de las habitaciones empezaron a abrirse. Enfermeras con linternas. Pacientes en bata. Voces, arrastrar de zapatillas, chirrido de camillas.
+30
 
-Habitación al final del pasillo. Puerta cerrada. Al lado — una silla. En la silla debería haber estado sentado un guardia.
+Las puertas de los cuartos empezaron a abrirse. Enfermeras con linternas. Pacientes en batas. Voces, arrastrando pantuflas, chirriando camillas.
 
-La silla estaba vacía.
+25
 
-Liza miró atrás. Al fondo del pasillo — una silueta. Ancha, con chaqueta.
+Cuarto al final del pasillo. Puerta cerrada. Al lado — una silla. En la silla debía estar sentado un guardia.
 
-Liza entró en la habitación. Luz roja de emergencia. Cama. Un hombre en la cama.
+La silla vacía.
+
+Liza miró hacia atrás. Al fondo del pasillo — una silueta. Ancha, con chamarra. El guardia corría entre cuartos, ayudando a las enfermeras con la evacuación. No era su trabajo — pero el instinto. La gente normal ayuda en un incendio.
+
+20
+
+Liza entró al cuarto. Luz roja de emergencia. Cama. Una persona en la cama.
 
 Shelly.
 
-Delgado — había adelgazado. La barba le había crecido. Manos sobre la manta — finas, con un catéter en la vena. Ojos — cerrados. Pero la respiración — suya. El aparato funcionaba en modo de apoyo, no forzado. Respiraba solo. El patrón había funcionado.
+Flaco — había perdido peso. La barba crecida. Las manos sobre la cobija — delgadas, con el catéter en la vena. Los ojos — cerrados. Pero la respiración — suya. La máquina trabajaba en modo de soporte, no forzado. Estaba respirando solo. El patrón había funcionado.
 
-Camilla junto a la pared. Liza desconectó el gotero. Desconectó los sensores del monitor — pulsioxímetro, presión. El monitor pitó — señal perdida. No importa. La sirena es más fuerte.
+15
 
-Mascarilla del respirador — la quitó. Shelly se estremeció. Aspiró aire — ávido, ronco, por sí mismo. Abrió los ojos.
+Camilla junto a la pared. Liza desconectó el suero. Desprendió los sensores del monitor — oxímetro, presión. El monitor pitó — señal perdida. No importaba. La sirena era más fuerte.
 
-Turbios. Como los de Markus en el sótano. Pero vivos.
+La máscara del respirador — fuera. Shelly se estremeció. Jaló aire — hambriento, ronco, solo. Los ojos se abrieron.
 
-— Soy yo — dijo Liza. — No hables. Respira.
+Nublados. Como los de Marcus en el sótano. Pero vivos.
 
-Lo pasó a la camilla. Ligero — demasiado ligero. Cuatro semanas de coma devoran los músculos.
+— Soy yo — dijo Liza —. No hables. Respira.
 
-Dio un paso adelante. Un brazo le rodeó el cuello por detrás. Estrangulándola. Intentó zafarse — no pudo. Cayeron al suelo. La presa era demasiado fuerte. «Pedazo de bestia» — solo alcanzó a pensar Liza antes de perder el conocimiento.
+Lo pasó a la camilla. Liviano — demasiado liviano. Cuatro semanas de coma devoran los músculos.
 
-Pero un segundo antes, la silueta de Bjorn apareció en el umbral.
+10
 
-Tres zancadas, patada de fútbol a la cabeza. El cuerpo del atacante se sacudió y quedó inerte.
+Pasillo. Camilla. Luz roja, sirena, caos. Las enfermeras guiaban pacientes hacia la escalera. Nadie miraba una camilla más en el flujo.
 
-Bjorn no lo miró. Ya no era una amenaza.
+Final del pasillo. Vuelta.
 
-Liza yacía en el suelo. Ojos cerrados. Respira — pero superficial, entrecortado.
+— Alto.
 
-Bjorn se arrodilló. Comprobó el pulso en la muñeca — no en el cuello. Después de un estrangulamiento no se toca el cuello. Lo tiene. Débil, rápido, pero lo tiene.
+Guardia de seguridad. De vuelta. Linterna en la cara. Grande, joven, confundido — pero bien plantado.
 
-Montacargas. Primera planta. Salida de servicio — el mismo ladrillo sujetando la puerta. Gracias, fumador desconocido. Dos veces.
+— ¿A dónde lleva al paciente? La evacuación es por la escalera A.
 
-Lluvia. Aparcamiento.
+— El elevador de servicio es más rápido. Está con respirador, no puede bajar escaleras.
 
-Liza los vio primero. Tres. Junto a la pickup de Bjorn. Chaquetas negras, pelo corto, postura — piernas a la anchura de los hombros. Contratistas privados. El guardia había conseguido llamar.
+El guardia apuntó la linterna a la camilla. A Shelly. A los sensores desconectados.
 
-Bjorn estaba en la esquina del edificio. También los había visto. Liza — con la camilla, respirando con dificultad, sin armas. Indefensa.
+— ¿Dónde está el monitor? ¿Por qué está desconectado? ¿Quién es usted?
 
-Uno de los tres giró la cabeza. La vio. Su mano fue hacia la cadera — hacia la pistolera.
+5
 
-Bjorn dio tres pasos hacia la pickup y de repente se transformó en un resorte — muslo izquierdo protegiendo la ingle, codo izquierdo el corazón, pistola en las manos semiflexionadas. ¡Bam, Bam, Bam! Espejo izquierdo, espejo derecho, rueda delantera. Los tres se agacharon tras la pickup — reflejo, un segundo.
+Liza soltó la camilla. Un paso adelante. El guardia — una cabeza más alto, treinta kilos más pesado. Linterna en la mano derecha.
 
-El resorte se distendió y se deslizó tras el volante de la ambulancia.
+Mano derecha — ocupada. Significa que la izquierda — libre, pero no dominante. Peso en el pie derecho. Centro de gravedad — alto.
 
-— Aquí — dijo Bjorn. Breve, tranquilo. Como si llamara a comer.
+Liza le pegó en el plexo solar. Corto, de abajo hacia arriba. No con el puño — con la palma. Diafragma. El guardia se dobló, soltó la linterna. Segundo golpe — canto de la mano al cuello. No fuerte. Suficiente.
 
-Ambulancia. Amarilla y roja, con el motor en marcha — el conductor había salido corriendo al oír la sirena, dejó las llaves puestas.
+El guardia cayó de rodillas. Luego — al piso. Consciente pero sin aire. En treinta segundos se levantaría. En un minuto correría por ayuda.
 
-Bjorn abrió las puertas traseras. Ayudó a pasar a Shelly de la camilla al interior. Liza se subió detrás.
+0
 
-— ¿Vivo? — preguntó Bjorn.
+Elevador de servicio. Planta baja. Salida de servicio — el mismo ladrillo trabando la puerta. Gracias, fumador desconocido. Dos veces.
+
+Lluvia. Estacionamiento. La pickup de Bjørn — motor encendido, luces apagadas. Bjørn bajó, abrió la puerta trasera. Sin palabras ayudó a pasar a Shelly de la camilla.
+
+— ¿Vivo? — preguntó Bjørn.
 
 — Vivo.
 
-Bjorn se sentó al volante. La ambulancia arrancó.
+Bjørn se puso al volante. Liza — atrás, junto a Shelly. Su cabeza en su regazo. Barba que pica. Respiración — débil, pero suya.
 
-Al otro lado de la carretera, junto al fiordo, hacia la oscuridad.
+La pickup arrancó. Sin luces — los primeros doscientos metros. Después — a la carretera, junto al fiordo, hacia la oscuridad.
 
-Shelly abrió los ojos. Miró a Liza. La reconoció — o no, imposible saberlo. Sus labios se movieron.
+Shelly abrió los ojos. Miró a Liza. La reconoció — o no, imposible saber. Los labios se movieron.
 
-— ...¿autonom?
+— ...autónom?
 
 Liza se inclinó hacia su oído.
 
-— Autonom. Todo según el plan. Duerme.
+— Autónom. Todo según el plan. Duerme.
 
-Cerró los ojos. La lluvia repiqueteaba en el techo de la ambulancia. Bjorn conducía en silencio. Las luces intermitentes teñían el fiordo de azul y rojo — agua negra, montañas negras, coche ajeno.
+Cerró los ojos. La lluvia golpeaba el techo de la pickup. Bjørn manejaba en silencio. El fiordo se perdía en la oscuridad — agua negra, montañas negras, cielo negro.
 
-Liza contaba sus respiraciones. Doce por minuto. Suyas. Sin aparato.
+Liza contaba sus respiraciones. Doce por minuto. Suyas. Sin la máquina.
+
+Todavía hay tiempo.
+
+CURADOR CONSCIENTE. RESPIRA POR SU CUENTA.
+
+RUTA: FIORDO

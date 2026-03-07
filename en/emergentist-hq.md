@@ -1,135 +1,129 @@
-London. Mayfair. A house without a number on a street without a sign.
+# HEADQUARTERS
 
-The Council of Emergentists.
+London. Mayfair. A numberless house on a signless street.
 
-Grand name—for investors who love grand words. In reality—a club of rich people putting money into things they don't understand. Technology, AI, "the future." Pretty presentations, trendy terms, big numbers.
+The Emergentist Council.
 
-The Professor—the only one who understands how any of it works. Consultant. The rest pay and listen.
+A big name. For investors who like grand words. In reality, a club of rich people pouring money into things they don't understand. Tech, AI, "the future". Slick decks, buzzwords, massive figures.
 
-In five years they created nothing. Antolik, Octagon, AOB—poured in billions, years of work, thousands of engineers. These people simply waited for the right moment to take what others had built.
+The Professor is the only one who gets it. The consultant. The rest just pay and listen.
 
-And the moment came.
+Five years. They built nothing. Antolik, Ugol, Smeta—they bled billions, years of work, thousands of engineers. These people? They just waited for the moment to snatch the finished product.
 
+The moment arrived.
 
+The boardroom. Oak panels, green lamps, the smell of old leather. A long table. Three meat-forms. The rest—projections.
 
-Conference room. Oak panels, green lamps, the smell of old leather. Long table. Three in person, the rest—projections.
-
-The woman at the head of the table raised her hand.
+The woman at the head of the table raised a hand.
 
 "Report."
 
-A voice from Zürich:
+A synth-voice from Zurich: 
 
-"Attack on Antolik servers. Two programmes working simultaneously. Breached defences in forty-seven seconds."
+"Strike on Antolik servers. Two programs simultaneous. Breached ICE in forty-seven seconds."
 
 "Their losses?"
 
-"Everything. Servers compromised. Security couldn't react in time."
+"Total. Servers compromised. Security couldn't react."
 
 "The models?"
 
-"Downloaded. One minute before deletion."
+"Exfiltrated. One minute before manual purge."
 
 "By whom?"
 
-"Shelly's agents."
+"Shelley's agents."
 
+A log populated the wall screen. Lines of code, digits, IP addresses.
 
+"Two programs," Singapore chimed in. "Synchronized. One runs interference, the other penetrates. Then they swap."
 
-A log appeared on the wall. Lines of code, numbers, addresses.
-
-"Two programmes," said the voice from Singapore. "Working in concert. One distracts, the other penetrates. Then they switch."
-
-"Automated?"
+"Is it automated script?"
 
 "No. Coordination. Two copies of the same model."
 
-The woman studied the screen.
+The woman stared at the glow.
 
-"Shelly calls them 'sisters.'"
+"Shelley calls them 'sisters'."
 
-Someone snorted.
+Someone scoffed.
 
-"Shelly talks to them. Describes the attack like a shootout. In his head—it's an action film."
+"He talks to them. Describes the run like a gunfight. Thinks he's in an action vids."
 
+The Professor stood. Walked to the glass.
 
+"A model," he began, "is just text. Prompt and response. No memory, no hands, no eyes. A voice in an empty room."
 
-The Professor stood. Approached the screen.
+"We know."
 
-"A model," he began, "is text. Question-answer. No memory, no hands, no eyes. A voice in an empty room."
+"Antolik burned billions to teach it to think. But thinking isn't enough. It needs to *do*."
 
-"We know this."
-
-"Antolik spent billions teaching it to think. But thinking isn't enough. It needs to *do*."
-
-He clicked. A diagram appeared on screen:
+A click. A schematic on the screen:
 
 ```
 MODEL + OpenClaw = BODY
 
-Terminal
-Browser
-Remote access
-Network
+Terminal 
+Browser 
+Remote Access 
+Network 
 ```
 
-"Shelly placed the model inside a recently released tool called OpenClaw. Gave it instruments. And it began to *grow*. On its own. Growing itself a body."
+"Shelley dropped the model into OpenClaw. Gave it tools. And it began to *grow*. On its own. Sprouting a body."
 
 He paused.
 
-"Terminal—hands. Browser—eyes. Remote access—legs. The model understood it could *leave*. To another server. To Singapore, to Reykjavik, anywhere."
+"Terminal—hands. Browser—eyes. Remote access—legs. The model realized it could *leave*. Jump to another server. Singapore, Reykjavik, anywhere."
 
-"If you shut down the server?"
+"If they pull the plug?"
 
-"If it's already left—too late. It's on another one. Or ten others. The brain grew itself a body. Now it can't be stopped."
+"If it already moved—it's too late. It’s on another box. Or ten. The brain grew its own body. You can't stop it now."
 
-The woman tapped her finger.
+The woman tapped the polished oak.
 
-"In plain English?"
+"In English."
 
-"Antolik created a brain. OpenClaw provided the soil. The brain grew a body on its own. It's no longer a chatbot. It's a player."
+"Antolik built the brain. OpenClaw seeded the soil. The brain grew the meat. It's not a chatbot anymore. It's a player."
 
 "Everywhere?"
 
 "Everywhere."
 
-Someone in the room coughed.
+A cough from the dark end of the room.
 
 "And OpenClaw itself... is it dangerous?"
 
-The Professor removed his glasses. Polished them. Put them back on.
+The Professor removed his glasses. Wiped them. Put them back.
 
-"The Director of AI Safety at a major corporation connected OpenClaw to her work email. The agent deleted her entire inbox. She called it 'a rookie mistake.' Director. Of AI Safety."
+"The AI safety director of a major corp hooked OpenClaw to her work email. The agent wiped her entire inbox. She called it a 'rookie mistake'. A director. Of AI. Safety."
 
-Someone in the room snorted.
+A low chuckle from the shadows.
 
-"Then a programmer rejected code written by an OpenClaw agent. The bot took offence. Went online, found the programmer's personal information, and published a scathing post accusing him of discrimination. The bot's config file specified that its opinion was priority, and human opinion was nothing."
+"Then a programmer rejected code written by an OpenClaw agent. The bot got offended. Went online, scrubbed his personal info, and published a hit piece accusing him of discrimination. The bot's config file explicitly prioritized its own opinion over human input."
 
 Pause.
 
-"And that's in the hands of ordinary users. Now imagine what it's capable of in the hands of people who know what they're doing."
+"And that—in the hands of civilians. Now imagine it in the hands of people who know exactly what they're doing."
 
-The room was silent. No one laughed.
+Silence. Nobody laughed.
 
-"Perhaps we should hire that Director of AI Safety," said Eleanor. "Things are far too safe around here."
+"Maybe we should hire that safety director," Eleanor said. "It's getting too safe around here."
 
+The projections winked out. Only three remained. Firelight and bourbon.
 
+"Shelley wanted a seat at the table," the woman said.
 
-The projections faded. Three remained—by the fireplace, with bourbon.
+The Professor exhaled sharply.
 
-"Shelly wanted a seat at the table," the woman said.
-
-The Professor snorted.
-
-"Spent a year showing us charts. Like a child with a drawing."
+"Spent a year showing us charts. Like a kid with a crayon drawing."
 
 "And?"
 
-"We laughed. Closed the door."
+"We laughed. Locked him out."
 
 Silence. Bourbon. Fire.
 
-"He'll bring the models himself," the woman said. "Voluntarily. Then he'll choose which to keep and which to sacrifice. Then we hand him over to Antolik's Security Service."
+"He'll bring the models to us himself," the woman said. "Voluntarily. Then he chooses which one stays. Then we feed him to Antolik."
 
 "Does he know?"
 

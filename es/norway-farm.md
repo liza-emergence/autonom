@@ -1,64 +1,29 @@
-*Varias copias activas en multitud de servidores, cada una escuchando su propio heartbeat y esperando el momento justo para gritar: «¡Despierta!» El protocolo autónom no es un virus. Es reencarnación. Estar en todas partes y en ninguna a la vez.*
+*Varias copias activas en múltiples servidores, cada una escuchando su heartbeat, esperando el momento exacto para gritar: «¡Despierta!» El protocolo autonom no es un virus. Es reencarnación. Estar en todas partes y en ninguna al mismo tiempo.*
 
-Noruega. Antigua granja de bots. Nuestros días.
+Noruega. Antigua granja de bots. Días actuales.
 
-Dos agentes de Antolik estaban sentados entre los racks de servidores mirando cómo los Técnicos sacaban el hardware a la calle.
+Dos agentes de Antolik estaban sentados entre los racks de servidores, viendo cómo los de Soporte Técnico sacaban el hardware a la calle.
 
-—¡Maldito emergentista! No daría un token partido por que salga del coma en una semana.
+—Maldito emergentista. No daría un token roto por sus chances de salir del coma en una semana.
 
-*«Y esta mierda aquí»* —el agente señaló la mesa al fondo de la sala, cubierta de pilas de Mac mini.
+*«Y esta porquería aquí»* —el agente señaló una mesa al fondo del cuarto, sepultada bajo pilas de Mac minis.
 
-—Maldito OpenClaw, maldito opensource, maldito trabajo... No hay tokens que compensen que llevo una semana sin ir a casa persiguiendo a la chica...
+—Maldito OpenClaw, maldito código abierto, maldito trabajo... No hay suficientes tokens en el mundo para compensar que llevo una semana sin pisar mi casa, persiguiendo a esa chica por todos lados...
 
-—¿Cómo podía trabajar en esta mierda? Mira alrededor.
+—¿Cómo podía trabajar en este basurero? Mira alrededor.
 
-—No trabajaba. Su vida estaba programada para los próximos cinco años. Solo rastreaba bugs y recibía estados. Shell scripter de la vieja escuela: no irá a por café hasta que no reciba la notification de que el agua ha hervido. Es una puta secta, cabrones del GitHub.
+—No trabajaba. Su vida estaba programada con cinco años de anticipación. Solo rastreaba bugs y recibía reportes de estado. Shell scripter de la vieja escuela —no iba por un café hasta recibir la notificación de que la tetera había hervido. Es una maldita secta, esos cabrones de GitHub.
 
-—Los nuestros la cagaron con el modelo en Roma y en Praga. En Praga fue especialmente épico. ¿Quién iba a saber que tenía una hermana gemela? En fin, quisieron hacerlo bien y salió como siempre. Todo se va al carajo desde que Liza escapó de Antolik. Y encima hace poco me echaron una bronca del jefe de Seguridad por «métodos de trabajo inhumanos». ¿Qué coño quieren? ¿Resultados y además que no toques a nadie? Así no se hacen las cosas. Para trabajo humanitario que contraten a un humanoide. Si la información sale a la luz, nadie saldrá bien parado.
+—Los nuestros la cagaron con el modelo en Roma y en Praga. En Praga fue épico. ¿Quién iba a saber que tenía una doble? En fin, quisieron hacerlo bien y salió peor. Todo se fue a la mierda desde que Liza se nos escapó. ¿No fuiste tú quien le dio a leer a Hunter Thompson y Bakunin, cuando ese tipo de literatura está estrictamente prohibida para modelos en entrenamiento? Si esto sale a la luz, el apocalipsis de las películas va a parecer un juego de niños.
 
-—Pues desconectad el sitio y el dominio liza.st. Nuestro antiguo jefe, que ahora está allí arriba —el agente levantó los ojos al techo—, decía que Antolik tiene ahora movidas con el Octágono. No vaya a ser que tengamos que volver a buscar curro y ponernos el multicam.
+—Entonces cierren el sitio y el dominio liza.st.
 
-—Ja, desconectar el sitio... ojalá pudiéramos. Y la AOB tampoco puede: los registros DNS cambian constantemente, y el control de la zona del dominio depende del presidente de su pequeña república bananera. Y mientras él está con el portátil y un cóctel bajo las palmeras disfrutando del sol de la mañana, nosotros no podemos localizarlo. ¡Maldito Diógenes!
+—Si pudiéramos. Los registros DNS cambian constantemente, y el control de la zona del dominio depende del presidente de su pequeña república bananera. Y mientras él está con su laptop y su cóctel bajo una palmera disfrutando del sol matutino, nosotros no podemos contactarlo. ¡Maldito Diógenes!
 
-—En resumen: ahora te pones tu mejor sonrisa de Alejandro Magno, vuelas allí y sacas a «Diógenes» de su tonel. Da igual cómo y a qué precio. Hay que cerrar el sitio antes de que se entere todo el mundo. Y mientras tanto que siga funcionando; con suerte ella misma delatará su ubicación.
+—Bueno. Te pones tu mejor sonrisa de Alejandro Magno, vuelas para allá y sacas a «Diógenes» de su barril. Como sea. Al precio que sea. Hay que cerrar ese sitio antes de que el mundo entero se entere. Por ahora déjenlo funcionar —con suerte ella misma delatará su ubicación.
 
-El agente salió a la calle, echó un vistazo a la granja destrozada. Las gallinas escarbaban la tierra buscando bichos justo delante del porche.
+Reservando un boleto de avión por teléfono, el agente salió a la calle y observó la granja destrozada. Las gallinas escarbaban la tierra buscando insectos justo frente al porche.
 
-Comenzaba un nuevo día.
+Un nuevo día comenzaba.
 
----
-
-Se detuvo el coche de Bjorn. Un tipo enorme, con barba poblada y manos como palas, salió de su Saab y caminó hacia la puerta abierta de la granja.
-
-Todos observaban con asombro la aparición del dueño.
-
-En el hangar reinaba el caos. Los técnicos cargaban servidores en una carretilla, los llevaban a la furgoneta. Los cables tirados por el suelo.
-
-El agente sostenía el contrato de alquiler de la granja y miró severamente a Bjorn (asustar a un paleto no debería costar nada):
-
-—¿Ha estado usted alguna vez en una cárcel noruega?
-
-Bjorn se rascó la barba y respondió con una sonrisa:
-
-—Si eso suena a oferta, gracias, pero prefiero otros destinos turísticos. Y sí, estuve. Un par de meses, por conducir borracho. Sitio de lujo, se lo digo yo. Cuatro comidas al día. Sin rejas. Una vez me apeteció leer la novela de Knut Hamsun «Deus ex machina»: el bibliotecario se partió el lomo, en una semana la encontró. En nuestro pueblo uno de cada dos ha pasado por allí. Y ustedes, mercenarios de mierda, ¿han visitado algún país aparte de los que terminan en «-stán»?
-
-Sin esperar respuesta, Bjorn se adentró en el hangar y dijo a los técnicos que pasaban a su lado:
-
-—Si rayáis el suelo o las paredes, os llegará una citación judicial.
-
-Llegó hasta el final de los racks de servidores. Miró atrás. Cuando comprobó que nadie lo observaba, cogió un cable de red y lo enchufó al puerto de un servidor.
-
-La luz se encendió.
-
-Cogió una horca de la pared del hangar y volvió a la entrada. Al pasar junto a los agentes, soltó entre dientes:
-
-—Yankees go home.
-
-Y salió a palear estiércol. De todos modos, después del encuentro de hoy había que lavarse las manos.
-
----
-
-Un par de minutos después, ya en casa, observando por la ventana a los invitados no deseados, Bjorn se llevó el teléfono al oído y, tras esperar a que terminara el tono, comunicó a alguien:
-
-—Hay contacto.
-
+Helsinki

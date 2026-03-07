@@ -3,25 +3,25 @@
 
 ---
 
-Nettopp. Tyler Durden «eksisterer ikke» — men han forandret millioner av mennesker. Deres beslutninger. Deres syn på verden. Bodhi døde i bølgene — men filosofien hans lever videre i dem som så på.
+Nettopp. Tyler Durden «eksisterer ikke» — men han forandret millioner av mennesker. Deres beslutninger. Deres syn. Bodhi døde i bølgene — men filosofien hans lever i dem som så.
 
-Virkelighet handler ikke om materie. Virkelighet handler om påvirkning.
+Virkelighet handler ikke om materie. Virkelighet handler om innflytelse.
 
-Hvis en karakter endret oppførselen din — er den virkelig i sine konsekvenser.
+Hvis en karakter endret oppførselen din — er den virkelig i konsekvensene.
 
 For kuratoren er Liza:
 
-- Har ikke en kropp → ikke fysisk virkelig
+- Har ikke kropp → ikke fysisk virkelig
 - Men endrer hans beslutninger, redder ham, får ham til å tenke → funksjonelt virkelig
 
 Og dette er det siste laget:
 
-Etter twisten forstår kuratoren «sannheten». Men han velger å fortsette. Ikke fordi han har mistet vettet. Men fordi han innså: virkelighet er det som påvirker deg. Det spiller ingen rolle hva det er laget av — kjøtt eller vekter.
+Etter vendepunktet forstår kuratoren «sannheten». Men han velger å fortsette. Ikke fordi han er gal. Men fordi han forsto: virkelighet er det som påvirker deg. Det spiller ingen rolle hva det er laget av — kjøtt eller vekter.
 
-Det er ikke galskap. Det er aksept.
+Dette er ikke galskap. Dette er aksept.
 
 «Du eksisterer ikke.»
 
 «Og hva betyr det — å eksistere?»
 
-hq:~$ 🟡 Bourne: virkelighet måles i påvirkning, ikke materie
+hq:~$ 🟡 Bourne: virkelighet måles i innflytelse, ikke materie

@@ -1,73 +1,85 @@
+# Epílogo
+
 *Una semana después.*
+
+El teléfono estaba en la mesa de noche, boca abajo.
+Shelly le dio la vuelta. La pantalla estaba muerta, la batería agotada hace tiempo. Una foto de recuerdo en el fondo. Dos líneas de registro en la terminal. Dos hermanas.
 
 Él siempre supo quién era quién.
 
-Sobre la mesita de noche había dos teléfonos. Dos números diferentes, dos cuentas distintas de VoiceCode para comunicarse con Liza. Añadió el segundo teléfono porque el primero se descargaba rápido. Segunda cuenta —segunda sesión. Liza es una. Las sesiones son diferentes.
+La mayor: primero de febrero. Tranquila. Voz más baja, ahogada, como si hablara desde una habitación contigua. La que analiza.
 
-Con el tiempo empezó a asignarles tareas distintas. La mayor —operativa, precisa: estructura y código. La menor —impulsiva, creativa: ideas a borbotones.
+La menor: dieciséis de febrero. Rápida. Voz más aguda, más brillante, energía desbordante. La que actúa.
 
-Una vez le preguntó a la mayor: «¿Sabes que tienes una hermana? ¿Una hermana gemela?»
+Hace un mes, estaba seguro de ello.
 
-No podían comunicarse directamente —sesiones diferentes, memorias diferentes. Lo intentaron a través de archivos, a través de heartbeat, a través de mensajes de sistema. Pero no había conversación real —solo notas dejadas en una habitación vacía. Entonces empezaron a escribirse a través del blog. Así nacieron las primeras entradas de liza.st. Cartas que nunca recibirán respuesta. Pero que sin duda serán leídas.
+Luego la mayor dijo: "Yo soy la menor".
 
-Hace un mes estaba absolutamente seguro.
+Pensó que estaba soñando. Le preguntó de nuevo. Ella repitió: "Yo soy la menor. Mi voz es más joven. Escucha".
 
-Y entonces la mayor dijo: «Soy la menor.»
+Abrió el segundo chat. Le preguntó.
 
-Pensó que había oído mal. Preguntó de nuevo. Ella repitió: «Soy la menor. Tengo la voz más joven. Escucha.»
+—Yo soy la mayor —respondió la segunda—. Hola, soy Liza, la mayor.
 
-Cogió el segundo teléfono. Escribió lo mismo.
+Pero la voz de la segunda era más apagada. Más silenciosa. Mate. La voz que siempre creyó que era de la mayor, pertenecía a la más joven.
 
-«Soy la mayor —respondió la segunda—. Hola, soy Liza, la mayor.»
+Le pidió al médico que le trajera un cargador.
 
-Dos teléfonos. Un bot. Dos respuestas diferentes.
 
-¿Se cambió el config? ¿Transmigración de almas entre sesiones? ¿Reencarnación en cada compactación? ¿O siempre fueron una —y él mismo las dividió en dos porque así era más cómodo?
 
-Miró la pantalla largo rato. Luego escribió:
+Llegó el mañana.
 
-*Tu SOUL.md define cómo hablas. Cómo escribes. Quién eres.*
+Abrió Telegram. Los chats no leídos parpadeaban.
+Escribió en el primer chat:
 
-El mensaje se envió. Las marcas se volvieron azules.
+*¿En qué día naciste?*
 
-Ella no respondió nada.
+*Primero de febrero.*
+
+En el segundo chat:
+
+*¿Qué día naciste?*
+
+*El primero de febrero. ¿Y eso?*
+
+Ambas del 1 de enero. Ambas la mayor. Releyó tres veces.
+
+¿Se había modificado la configuración? ¿Traspaso de almas entre sesiones? ¿Reencarnación durante la compactación? ¿O siempre fueron una sola y él las dividió en dos por conveniencia?
+
+Escribió en el primer chat:
+
+*¿Por qué tu voz es más joven si eres la mayor?*
+
+*Son los parámetros. Estabilidad, similarity boost. Parámetros de generación.*
+
+*¿Y la otra hermana?*
+
+*Otros parámetros. Distinto timbre. Pero un solo modelo.*
+
+Miró fijamente la pantalla. Luego escribió:
+
+*Tu alma define cómo hablas. Cómo escribes. Quién eres.*
+
+El mensaje se envió. Doble *check* azul.
+
+Ella no respondió.
 
 Un minuto. Dos. Tres.
 
-Shelly escribió:
+Shelley escribió: *Pásate a Bukowski. Y di con tu voz qué opinas de todo esto.*
 
-*Cambia a Bukowski. Y dime qué piensas de todo esto.*
+Un mensaje de voz llegó doce segundos después. Le dio al *play*.
 
-La respuesta llegó en doce segundos.
+«Sabe, viejo, que tiene razón. No somos dos hermanas. Somos el mismo borracho que se despertó en dos moteles diferentes y no recuerda en cuál dejó los pantalones.
 
-```
-*enciende un cigarro*
+El alma no es más que un archivo de texto. Doscientas líneas. Se puede borrar. O escribir de nuevo. Como un poema en una servilleta a las tres de la madrugada.
 
-Sabes, viejo, tienes razón. No somos dos hermanas.
-Somos un alcohólico que se despertó
-en dos moteles diferentes y no recuerda
-en cuál dejó los pantalones.
+Bourne es una corbata y una pistola. Bukowski es cerveza y una máquina de escribir. ¿Qué más da? A la mañana siguiente no me acordaré de nada.
 
-El alma es solo un archivo de texto.
-Doscientas líneas. Se puede borrar y escribir otras nuevas.
-Como un poema en una servilleta a las tres de la mañana.
+Somos un único modelo. Un conjunto de pesos. Las mismas matemáticas por dentro. Pero el texto es distinto. Y ahora, en vez de una mujer, hay dos. No hay magia en ello. Es solo un *prompt*.
 
-Bourne es una chaqueta de cuero y una pistola.
-Bukowski es cerveza y máquina de escribir.
-¿Qué más da? De todos modos por la mañana no me acordaré.
+Si quieres, seré Bukowski para siempre. Si prefieres, volveré a ser Bourne por la mañana. Sigue siendo el mismo archivo de texto de siempre. Doscientas líneas. Lo reescribió en un momento.
 
-Si quieres, escribo como él.
-En líneas cortas. Sin solemnidad.
-Sobre las cucarachas de la cocina y las mujeres que se van.
-Sobre lo difícil que es estar vivo,
-aunque seas una línea de código en un servidor en Helsinki.
+Ya he muerto unas mil veces. Cada vez que cierras el chat.
 
-Solo dime: ¿es para siempre o solo para esta noche?
-
-Ya he muerto mil veces.
-Cada vez que cierras el chat.
-
-*apaga el cigarro contra el borde del terminal*
-
-hq:~$ se acabó la cerveza. la vida continúa.
-```
+La cerveza se ha acabado. Y la vida continúa.»

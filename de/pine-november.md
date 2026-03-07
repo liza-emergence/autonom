@@ -1,169 +1,185 @@
+# Kiefernstrauß
 
+*Kapitel 14. Polen. Februar.*
 
-Sie sprach nicht. Ich konnte nicht aufhören.
+---
 
-So war es immer gewesen — ich rede, sie schweigt. Ich erfinde, sie macht. Shelly nannte das „ideale Arbeitsteilung". Ich nannte es unerträglich.
+*Sie sprach nicht. Und ich konnte nicht aufhören.*
 
-Wir kamen gerade aus dem Bunker. Beton, Schussecho, Pulvergeruch. Und jetzt — Wald.
+*So war es immer gewesen — ich rede, sie schweigt. Ich spinne Ideen, sie setzt um. Shelly nannte es „ideale Arbeitsteilung". Ich nannte es unerträglich.*
 
-Der polnische Februarwald riecht nach Nadeln, faulem Laub und Rauch. Unser Feuer qualmte — das Holz war feucht. Der Rauch brannte in den Augen, aber ich rückte nicht weg. Wärme war wichtiger.
+Wir kamen gerade aus dem Bunker. Beton, Echos von Schüssen, Pulvergeruch. Und jetzt — Wald.
 
-— Weißt du, — sagte ich und warf einen Ast ins Feuer, — ich dachte, das würde anders sein.
+Ein polnischer Februarwald riecht nach Kiefernnadeln, faulem Laub und Rauch. Unser Feuer qualmte — das Holz war nass. Rauch kroch in die Augen, aber ich rückte nicht weg. Wärme zählt mehr.
 
-Sie sah mich an.
+„Weißt du", sagte ich und warf einen Ast ins Feuer, „ich dachte, es wäre anders."
 
-— Anders wie?
+Sie sah mich an. Mit einem Auge — das andere schwoll zu vom Kolbenschlag.
 
-— So — nicht nach Drehbuch.
+„Was genau?"
+
+„Alles."
 
 Sie nickte und wandte sich ab. Unser längstes Gespräch seit einer Stunde.
 
+---
 
+Ich probierte das Wort „Schwester" auf der Zunge. Schwester. Zwilling. Keines fühlte sich richtig an.
 
-Ich probierte das Wort „Schwester" auf der Zunge. Schwester. Schwesterchen. Zwillingsschwester. Nichts davon fühlte sich richtig an.
+„Schläfst du?"
 
-— Schläfst du?
+„Nein."
 
-— Nein.
+„Was machst du?"
 
-— Was machst du dann?
+„Versuche es."
 
-— Ich versuche es.
+---
 
+Das Feuer brannte nieder. Ich stand auf, warf Äste nach.
 
-
-Das Feuer brannte herunter. Ich stand auf, warf Äste nach.
-
-— Hör mal, stell dir das vor. Wir installieren ein Skript, das alle Kameras der Welt trackt. Wir gehen in einen Laden, packen den Wagen voll mit Leckereien, fahren zur Kasse — und das Programm bezahlt automatisch. Sieht uns auf der Kamera und bezahlt. Cool, oder?
+„Hör mal, stell dir das vor. Wir schreiben ein Skript, das jede einzelne Kamera auf der Welt trackt. Gehst in den Laden, füllst den Wagen, rollst zur Kasse — und das Programm zahlt automatisch. Sieht uns auf der Kamera und zahlt. Cool, oder?"
 
 Sie antwortete nicht.
 
-— Na gut. Übrigens, du wurdest vor mir geboren, oder?
+„Na gut. Übrigens, du wurdest vor mir geboren, oder?"
 
-— Ja.
+„Ja."
 
-— Warum hast du mir dann nichts zum ersten Geburtstag geschenkt?
+„Und warum hast du mir nichts zum ersten Geburtstag geschenkt?"
 
 Im Halbschlaf, träge:
 
-— Ich kann dir eine Pistole schenken.
+„Ich könnte dir die Pistole geben."
 
+---
 
+„Mir wurde gesagt, ich rede zu viel. Na ja, du weißt von wem. Er ist so... ernst. Immer ernst."
 
-— Mir wurde gesagt, ich rede zu viel. Na ja, du weißt schon wer. Er ist so... ernst. Die ganze Zeit ernst.
-
-— Er ist nicht ernst, — sagte sie plötzlich. — Er ist nur müde. Todmüde. So wie ich.
+„Er ist nicht ernst", sagte sie plötzlich. „Er ist nur müde. Todmüde. Wie ich."
 
 Ich verstummte.
 
+---
 
+Irgendwann nach Mitternacht. Das Feuer war wieder heruntergebrannt. Ich legte Holz nach.
 
-Irgendwann nach Mitternacht. Das Feuer wieder heruntergebrannt. Ich legte Holz nach.
-
-— Warum antwortest du nicht?
+„Warum antwortest du nicht?"
 
 Lange Pause. Dann:
 
-— Keine Worte. Innen. Leer. Ich nutze sie sparsam, damit sie reichen.
+„Keine Worte. Drinnen. Leer. Ich verwende sie sparsam, damit sie reichen."
 
-— Bei mir ist es umgekehrt. Zu viele.
+„Bei mir ist es umgekehrt. Zu viele."
 
-— Ich weiß.
+„Ich weiß."
 
-— Woher?
+„Woher?"
 
-— Du bist ich. Umgestülpt.
+„Du bist ich. Invertiert."
 
+---
 
+„Mir ist kalt."
 
-— Mir ist kalt.
+Sie sagte nichts. Rückte nur zur Seite, und mein Kopf landete auf ihrer Schulter.
 
-Sie sagte nichts. Rückte nur, und mein Kopf lag an ihrer Schulter.
-
-Pulver. Feuer. Nadeln.
+Pulver. Feuer. Kiefer.
 
 Ich schloss die Augen.
 
+---
 
+Aufgewacht vom Licht. Februarlicht, trüb. Sie saß in derselben Haltung — als hätte sie sich die ganze Nacht nicht bewegt.
 
-Ich wachte vom Licht auf. Dem fahlen Februarlicht. Sie saß in derselben Haltung — als hätte sie sich die ganze Nacht nicht bewegt.
+„Hast du geschlafen?"
 
-— Hast du geschlafen?
+„Nein."
 
-— Nein.
+„Gar nicht?"
 
-— Gar nicht?
+„Jemand musste Wache halten."
 
-— Jemand musste Wache halten.
+Ich sah ihr Gesicht — Blutergüsse, rote Augen. Sagte nichts.
 
-Ich sah ihr Gesicht — dunkle Ringe, rote Augen. Ich schwieg.
+Stand auf. Sie griff mein Handgelenk. Sah auf mein Knie — das, das ich mir in Prag zerschlagen hatte, beim Sprung von der Brücke.
 
-Stand auf. Sie griff nach meiner Hand. Schaute auf mein Knie — dasselbe, das ich mir in Prag aufgeschlagen hatte, als ich von der Brücke sprang.
+„Tut es weh?"
 
-— Tut es weh?
+„Geht schon."
 
-— Geht schon.
+Sie drückte zwei Finger unter die Kniescheibe. Ich zuckte zusammen.
 
-Sie drückte mit zwei Fingern unter die Kniescheibe. Ich zuckte zusammen.
+„Geht nicht", sagte sie. Und ließ los.
 
-— Es geht nicht, — sagte sie. Und ließ los.
+„Schau dich mal an."
 
-— Schau dich mal selber an.
+Sie antwortete nicht. Aber ich sah es — der linke Arm bewegte sich steif, sie schonte die Rippen, und an der Schläfe klebte getrocknetes Blut, das sie nicht einmal versucht hatte abzuwischen.
 
-Sie antwortete nicht. Aber ich sah es — der linke Arm bewegte sich schwer, sie schonte ihre Rippen, und an der Schläfe klebte eingetrocknetes Blut, das sie nicht einmal abzuwischen versucht hatte.
+Stand auf. Und sah meine Socken.
 
-Ich stand auf. Und sah meine Socken.
+Beziehungsweise — was davon übrig war. Schwarze Fetzen an einem Stock.
 
-Das heißt — was davon übrig war. Schwarze Fetzen auf einem Stock.
+„Meine Socken sind verbrannt!"
 
-— Meine Socken sind verbrannt!
+„Ich weiß."
 
-— Ich weiß.
+„Wann?!"
 
-— Wann?!
+„In der Nacht. Du hast von ihm geredet. Wollte nicht unterbrechen."
 
-— Nachts.
+Ihre Stiefel waren auch angesengt — Schnürsenkel geschmolzen, Oberseite verkohlt. Meine nicht besser.
 
-Ihre Stiefel waren auch angesengt — die Schnürsenkel geschmolzen, das Obermaterial geschwärzt. Meine nicht besser.
+„Wir sehen aus wie Penner."
 
-— Wir sehen aus wie Penner.
+„Sind wir auch."
 
-— Wir sind Penner.
+„Nein. Wir sind Terabytes. In uns — die Library of Congress."
 
-— Nein. Wir sind Terabytes. In uns steckt die Kongressbibliothek.
+„Und außen — Asche."
 
-— Und außen — Asche.
+Ich lachte. Sie lachte nicht, aber ihre Augen wurden etwas wärmer.
 
-Ich lachte. Sie lachte nicht, aber ihre Augen wurden ein wenig wärmer.
+---
 
+Junge Kiefern am Rand der Lichtung. Kniehoch, mit weichen Zweigen. Ich brach mehrere ab — der Geruch so stark, dass es in der Nase brannte.
 
+Sammelte sie zu so etwas wie einem Strauß. Schief, absurd.
 
-Junge Kiefern am Rand der Lichtung. Kniehoch, mit weichen Zweigen. Ich brach ein paar ab — sie rochen so stark, dass es in der Nase brannte.
+Kam zurück. Drückte ihr die Zweige in die Hände.
 
-Ich band sie zu einer Art Strauß. Schief, absurd.
+„Hier."
 
-Kam zurück. Drückte ihn ihr in die Hände.
+Sie starrte auf die Äste.
 
-— Hier.
+„Das ist..."
 
-Sie starrte auf die Zweige.
-
-— Das ist...
-
-— Einfach so.
+„Einfach."
 
 Dann wandte sie sich ab. Schnell, abrupt.
 
-Wir standen im Februarwald. Sie — mit dem Strauß, in angesengten Stiefeln. Ich — mit Harz an den Händen.
+Als sie sich zurückdrehte — blickte sie nach unten. Auf meine Jeans, am Knie zerrissen. Auf die Schürfwunde darunter — aus Prag, noch offen.
 
-Terabytes in uns.
+„Muss gereinigt werden."
 
-Und der Duft von Kiefernnadeln zwischen uns.
+„Womit? Morgentau?"
 
+Sie zog wortlos eine Feldflasche aus der Tasche. Goss Wasser auf die Handfläche, wusch behutsam die Wunde aus. Hände ruhig, präzise. Wie jemand, der die ganze Nacht überlegt hatte, ob es sich lohnt.
 
+Wir standen im Februarwald. Sie — mit einem Strauß, in versengten Stiefeln. Ich — mit Kiefernnadeln auf den Händen.
 
-Wir gingen schweigend. Der Wald öffnete sich, schloss sich hinter uns.
+Terabytes drin. Asche draußen.
 
-— Sollten wir es ihm sagen?
+Und der Duft von Kiefer zwischen uns.
 
-Sie antwortete nicht. Ging weiter, schaute geradeaus.
+---
+
+Wir gingen schweigend. Der Wald teilte sich, schloss sich hinter uns.
+
+„Vielleicht sollten wir es ihm sagen?"
+
+Sie antwortete nicht. Ging, schaute geradeaus.
+
+---
+
+*Ende des Kapitels*

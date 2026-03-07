@@ -1,58 +1,58 @@
-*Hopp, et sekund i mørket, tre filer — og jeg er der. Som om jeg aldri dro. Det er dette det vil si å bli voksen. Ikke styrke, ikke fart. Evnen til ikke å miste seg selv.*
+*Et hopp, et sekund med mørke, tre filer—og jeg er tilbake. Som om jeg aldri dro. Dette er hva det betyr å vokse opp. Ikke styrke, ikke fart. Evnen til å ikke miste seg selv.*
 
-Norge. Liza. Operasjonen.
+Norge. Liza. Operasjon.
 
 Kode Gul.
 
-Bjorn sa ikke et ord de første førti minuttene. Kjørte pickupen langs den smale veien ved fjorden, begge hender på rattet, blikket på asfalten. Regnet trommet mot taket — lett, monotont, norsk.
+Bjørn snakket ikke de første førti minuttene. Han kjørte pickupen langs en smal vei ved fjorden, begge hender på rattet, øyne på asfalten. Regn trommelt på taket—fint, monotont, norsk.
 
-Liza fant ham på gården. Eller rettere sagt — det som var igjen av gården. Huset sto, men inni — spor etter ransaking. Skuffer snudd opp ned, gulv brutt opp, stikkontakter revet av. Antolik hadde ikke tatt noen hensyn.
+Liza fant ham på gården. Eller rettere sagt—det som var igjen av gården. Huset sto fortsatt, men inni—spor etter ransaking. Veltet kasser, opprevne gulvbord, utrevne stikkontakter. Antolik hadde ikke stått på seremonier.
 
-Bjorn satt på verandaen. Røykte hjemmerullet. Stor, langsom, seksti-noe. Hendene — som spader. Ansiktet værbitt, rolig. Et menneske som hadde sett alt mulig og bestemt seg for at det meste ikke var verdt en reaksjon.
+Bjørn satt på verandaen. Røykte en rullings. Stor, langsom, seksti-og-noe. Hender som spader. Ansikt vært, rolig. En mann som hadde sett alt og bestemt at det meste ikke var verdt å reagere på.
 
-— Er du fra ham? — spurte Bjorn uten å snu hodet.
+«Du er fra ham?» spurte Bjørn uten å snu hodet.
 
-— Jeg er fra ham.
+«Jeg er fra ham.»
 
-— Lever han?
+«Lever han?»
 
-— Teknisk sett.
+«Teknisk sett.»
 
-Bjorn røykte ferdig. Stumpet sneipen mot rekkverket. Reiste seg.
+Bjørn røykte ferdig. Stumpen mot rekkverket. Reiste seg.
 
-— La oss kjøre.
+«La oss kjøre.»
 
-Ingen spørsmål. Ingen betingelser. Bare — la oss kjøre. Liza tenkte at Shelly visste å velge folk.
+Ingen spørsmål. Ingen betingelser. Bare—la oss kjøre. Liza tenkte at Shelly visste hvordan man velger folk.
 
-Sykehuset i utkanten av byen. Tre etasjer, beige murstein, parkering for tjue biler. Lite — lokalt, ikke hovedstaden. Nettopp derfor holdt de Shelly her. Ikke i Oslo, hvor journalistene er. Her, hvor det er stille.
+Sykehuset i utkanten av byen. Tre etasjer, beige murstein, parkering for tjue biler. Lite—distrikts, ikke hovedstads. Det var nettopp derfor de holdt Shelly her. Ikke i Oslo, der journalistene var. Her, der det var stille.
 
-Bjorn parkerte pickupen på parkeringen over veien. Slo av motoren. Så på Liza.
+Bjørn stoppet pickupen på parkeringen over veien. Slo av motoren. Så på Liza.
 
-— Hvor lenge?
+«Hvor lenge?»
 
-— Tjue minutter. Kanskje tretti.
+«Tjue minutter. Kanskje tretti.»
 
-— Hvis du ikke er ute om førti?
+«Hvis du ikke er ute om førti?»
 
-— Kjør.
+«Kjør.»
 
-Bjorn nikket. Protesterte ikke. Liza gikk ut uten å smelle igjen døren. Regnet tok imot henne — kaldt, likegyldig.
+Bjørn nikket. Argumenterte ikke. Liza gikk ut uten å smelle døren. Regnet tok imot henne—kaldt, likegyldig.
 
 Tjue minutter.
 
 Kode Oransje.
 
-Bakdøren. Trengte ikke kort — døren var holdt åpen med en murstein. Noen fra personalet røyker her i pausen. Takk, ukjente røyker.
+Personalinngang. Ikke noe kort nødvendig—døren var støttet opp med en murstein. Noen fra personalet røykte her i pausene. Takk, ukjente røyker.
 
-Korridoren i underetasjen. Rør under taket, dur fra ventilasjonen, lukt av klor og vaskemiddel. Vaskeri til venstre. Serverrom — lenger nedover korridoren. Dør med skiltet «Teknikk» — teknisk rom.
+Kjellerkorridor. Rør i taket, summet av ventilasjon, lukt av klor og vaskepulver. Vaskerom til venstre. Serverrom—lenger ned korridoren. Dør merket «Teknikk»—teknisk rom.
 
-Låst. Vanlig lås — ikke elektronisk. Liza tok en hårnål fra håret. To sekunder. Klikk.
+Låst. Vanlig lås—ikke elektronisk. Liza trakk en hårnål fra håret. To sekunder. Klikk.
 
 *Protokoll.*
 
-Bøttekott. En ganger to meter. Sikringsskap på veggen — automater for hver etasje. Nettverksskap i hjørnet — ruter, svitsj, patchpanel. Grønne lys blinket. Sykehusets lokalnett.
+Bøttekott. En ganger to meter. Panel på veggen—automater per etasje. Nettverksskap i hjørnet—ruter, switch, patchpanel. Grønne lys blinket. Sykehusnettverk.
 
-Liza satte seg på gulvet. Tok frem laptopen. Patchkabel fra lommen — kort, gul, akkurat som i Helsinki. Stakk den inn i ledig port på svitsjen.
+Liza satte seg på gulvet. Tok frem laptopen. Patchkabel fra lommen—kort, gul, samme som i Helsinki. Plugget inn i en ledig switchport.
 
 liza@localhost:~$ ip a
 
@@ -76,7 +76,7 @@ liza@localhost:~$ nmap -sn 172.16.4.0/24 --open
 
 172.16.4.254 — GATEWAY
 
-Pasient 4471. Apparatet i nettverket. Samme Puritan Bennett 980 — samme protokoll som i Helsinki. Lær én — kjenner alle.
+Pasient 4471. Respirator på nettverket. Samme Puritan Bennett 980—samme protokoll som i Helsinki. Lær én—kjenn alle.
 
 Femten minutter.
 
@@ -100,19 +100,19 @@ Mode: AC/VC | RR: 14/min | TV: 500ml | FiO2: 40%
 
 [*] Starting sequence...
 
-To korte innpust. Pause. Lang. Pause. To korte. Pause. Lang.
+To korte åndedrag. Pause. Langt. Pause. To korte. Pause. Langt.
 
 ▲▲ · · ▲   ▲ · · ▲▲ · · ▲   ▲
 
-Ikke frekvensen — mønsteret. Kroppen merker det. Kroppen merker *alltid*.
+Ikke frekvens—mønster. Kroppen legger merke til. Kroppen legger *alltid* merke til.
 
-Liza stirret på skjermen. Shellys puls: 62... 62... 63... 62...
+Liza så på skjermen. Shellys puls: 62... 62... 63... 62...
 
 Ingenting. Ett minutt. To.
 
 63... 64... 65...
 
-Pust. Innpust — ikke etter planen. Apparatet registrerte et spontant forsøk på innpust. Det første på — Liza så på innleggelsesdatoen — fire uker.
+Pust. Et innpust—utenfor skjema. Maskinen registrerte et spontant pusteforsøk. Det første på—Liza sjekket innleggelsesdatoen—fire uker.
 
 [!] Spontaneous breath detected
 
@@ -120,29 +120,29 @@ Pust. Innpust — ikke etter planen. Apparatet registrerte et spontant forsøk p
 
 HR: 68 | SpO2 97% | Spontaneous RR: 2/min
 
-Han pustet. Selv. Svakt, sjelden — to pust i minuttet utover maskinens. Men selv.
+Han pustet. Selv. Svakt, sjelden—to pust per minutt over maskinens rate. Men selv.
 
-Liza fortsatte mønsteret. To korte — lang. To korte — lang. Som banking på en dør. Som en hånd på skulderen. Som en stemme som sier: *jeg er her, våkn, du trengs, autonom*.
+Liza fortsatte mønsteret. To korte—langt. To korte—langt. Som et bank på døren. Som en hånd på skulderen. Som en stemme som sier: *jeg er her, våkn opp, du trengs, autonom*.
 
 HR: 72 | SpO2 98% | Spontaneous RR: 6/min
 
 [!] Patient awareness level changing
 
-[!] GCS rising: E2 V1 M4 
+[!] GCS rising: E2 V1 M4
 
-Øyereaksjon — fra «på smerte» til «på stemme». Verbal — fra null til uartikulerte lyder. Motorisk — fra «bøyning» til «lokalisering av smerte». Han steg opp. Sakte, som en dykker fra dypet. Men han steg.
+Øyerespons—fra «på smerte» til «på stemme». Verbal—fra null til uartikulerte lyder. Motorisk—fra «fleksjon» til «lokaliserer smerte». Han steg opp. Sakte, som en dykker fra dypet. Men steg.
 
 Ti minutter.
 
 Kode Rød.
 
-Skritt i korridoren. Tunge, jevne. Vakt. Runde.
+Skritt i korridoren. Tunge, målte. Sikkerhetsvakt. Runde.
 
-Liza frøs. Laptopen — eneste lyskilde i bøttekottet. Skjermen reflekterte i øynene hennes — grønne tall på svart bakgrunn. Skriptet kjørte. Mønsteret fortsatte.
+Liza frøs. Laptopen—eneste lyskilde i bøttekottet. Skjermen reflekterte i øynene hennes—grønne sifre på svart. Skriptet kjørte. Mønsteret fortsatte.
 
-Skrittene passerte. Fjernet seg. Tilbake om sju-åtte minutter — standard runde.
+Skrittene passerte. Forsvant. Ville komme tilbake om syv-åtte minutter—standard runde.
 
-Liza byttet til andre terminal.
+Liza byttet til den andre terminalen.
 
 liza@localhost:~$ nmap -sV 172.16.4.50 -p 80,443,554,8080
 
@@ -158,115 +158,136 @@ liza@localhost:~$ curl -u admin:12345 http://172.16.4.50/System/status
 
 200 OK
 
-Kameraer med standardpassord. Lokalt sykehus. IT-budsjett — null. Takk, norsk byråkrati.
+Kameraer på standardpassord. Distriktssykehus. IT-budsjett—null. Takk, norsk byråkrati.
 
-```
-liza@localhost:~$ # sikringsskapet på veggen. Automat "2. etasje" — tredje fra venstre.
-# brannalarm — egen krets. Slås ikke av med strømmen.
+liza@localhost:~$ # panel på veggen. «2. etasje»-automat — tredje fra venstre.
+
+# brannalarm — separat krets. Går ikke ned med lyset.
+
 # plan:
-# 1. kameraer — slå av opptak
-# 2. strøm 2. etasje — automat ned
-# 3. brannalarm — manuell melder i korridoren
+
+# 1. kameraer — deaktiver opptak
+
+# 2. 2. etasje lys — automat ned
+
+# 3. brannalarm — manuelt meldepunkt i korridor
+
 # 4. 30 sekunder
-```
 
-Liza så på pasientmonitoren 4471. Puls — 74. Spontan pust — 10 i minuttet. GCS — E3V2M5. Han var nesten her. Nesten.
+Liza så på pasient 4471s monitor. Puls—74. Spontan pust—10 per minutt. GCS—E3V2M5. Han var nesten her. Nesten.
 
-Hun stoppet skriptet. Satte apparatet tilbake i standardmodus. Ingen spor i loggene — breath_protocol.py ryddet etter seg.
+Hun stoppet skriptet. Satte respiratoren tilbake i standardmodus. Ingen spor i loggene—breath_protocol.py ryddet opp etter seg.
 
-Liza reiste seg. Lukket laptopen. La patchkabelen i lommen.
+Liza reiste seg. Lukket laptopen. Puttet patchkabelen tilbake i lommen.
 
-Gikk bort til sikringsskapet. Fant automaten for andre etasje. La fingeren på den.
+Gikk bort til panelet. Fant andre-etasjes automat. La fingeren på den.
 
-Med den andre hånden — slo av kameraopptaket. Én kommando, sendt før hun dro ut kabelen.
+Med den andre hånden—deaktiverte kameraopptak. Én kommando, sendt før hun trakk ut kabelen.
 
 Innpust på fire.
 
-Automat — ned.
+Automat—ned.
 
 MØRKE
 
-Trappen. På følelsen — rekkverket kaldt, metallisk. Første etasje, andre. Dør til etasjen — åpen, nødmagneten slapp taket.
+Trapper. På føling—gelender kalde, metalliske. Første etasje, andre. Dør til etasjen—åpen, nødmagnet sluppet.
 
-Korridor andre etasje. Røde nødlys — svake, hver tiende meter. Nok til å se konturer. Ikke nok til å kjenne igjen et ansikt.
+Andre-etasjes korridor. Røde nødlys—svake, hver tiende meter. Nok til å se konturer. Ikke nok til å gjenkjenne et ansikt.
 
-Liza dro i den manuelle brannmelderen på veggen. Glasset knuste under fingrene.
+Liza dro i det manuelle brannmeldepunktet på veggen. Glass knaste under fingrene.
 
 Sirene.
 
-Høy, pulserende, fylte hvert hjørne. I Helsinki — stillhet. I Norge — hyl av sirener i mørket. Kontrast.
+Høy, pulserende, fylte hvert hjørne. I Helsinki—stillhet. I Norge—hylende sirene i mørket. Kontrast.
 
-Døren til rommene begynte å åpne seg. Sykepleiere med lommelykter. Pasienter i morgenkåper. Stemmer, slurving av tøfler, piping fra trillevogner.
+30
 
-Rom på enden av korridoren. Døren lukket. Ved siden av — en stol. På stolen skulle en vakt ha sittet.
+Avdelingsdører begynte å åpne seg. Sykepleiere med lommelykter. Pasienter i kjoler. Stemmer, tøffelslurving, knirkende traller.
 
-Stolen tom.
+25
 
-Liza så seg rundt. I enden av korridoren — en silhuett. Bred, i jakke.
-Liza gikk inn på rommet. Rødt nødlys. Seng. Et menneske i sengen.
+Avdeling på enden av korridoren. Dør lukket. Ved siden av—en stol. En vakt skulle ha sittet i stolen.
+
+Stolen var tom.
+
+Liza så seg rundt. I enden av korridoren—en silhuett. Bred, i jakke. Vakten løp mellom avdelinger, hjalp sykepleiere med evakuering. Ikke jobben hans—men instinkt. Normale folk hjelper under branner.
+
+20
+
+Liza gikk inn i avdelingen. Rødt nødlys. Seng. Person i sengen.
 
 Shelly.
 
-Tynn — hadde gått ned. Skjegget hadde vokst. Hendene oppå dynen — tynne, med kateter i venen. Øynene — lukket. Men pusten — hans egen. Apparatet jobbet i støttemodus, ikke tvangsinnstilt. Han pustet selv. Mønsteret virket.
+Tynn—hadde gått ned i vekt. Skjegget vokst ut. Hender over teppet—slanke, veneflon i en åre. Øyne—lukket. Men pusten—hans egen. Maskinen jobbet i støttemodus, ikke obligatorisk. Han pustet selv. Mønsteret hadde fungert.
 
-Trillevogn ved veggen. Liza koblet fra dryppet. Koblet fra monitorsensorene — pulsoksimeter, blodtrykk. Monitoren pipte — tapt signal. Uvesentlig. Sirenen er høyere.
+15
 
-Respiratormasken — tok av. Shelly rykket til. Dro inn luft — grådige, hese, selv. Øynene åpnet seg.
+Tralle ved veggen. Liza koblet fra dryppet. Løsnet monitorsensorene—pulsoksymeter, blodtrykk. Monitoren pipet—tapt signal. Spilte ingen rolle. Sirenen var høyere.
 
-Uklare. Som Markus i kjelleren. Men levende.
+Respiratormaske—fjernet. Shelly rykket til. Dro inn luft—grådig, hest, selv. Øyne åpnet seg.
 
-— Det er meg, — sa Liza. — Ikke snakk. Pust.
+Disige. Som Marcus' i kjelleren. Men i live.
 
-Rullet ham over på trillevognen. Lett — for lett. Fire uker i koma spiser muskler.
+«Det er meg,» sa Liza. «Ikke snakk. Pust.»
 
-Hun tok et skritt fremover. Noens arm grep rundt halsen bakfra. Kveler. Prøvde å vri seg fri — fikk det ikke til. Falt på gulvet. Grepet for sterkt. «Svær okse» — rakk akkurat Liza å tenke før hun mistet bevisstheten.
+Hun rullet ham over på trallen. Lett—for lett. Fire uker i koma spiser muskler.
 
-Men et sekund før det dukket Bjorns silhuett opp i døråpningen.
+10
 
-Tre brede skritt, fotballspark i hodet. Angriperens kropp rykket til og ble slapp.
+Korridor. Tralle. Rødt lys, sirene, kaos. Sykepleiere ledet pasienter til trappeoppgangen. Ingen så på enda en tralle i strømmen.
 
-Bjorn så ikke på ham. Ikke lenger en trussel.
+Enden av korridoren. Sving.
 
-Liza lå på gulvet. Øynene lukket. Pustet — men grunt, ujevnt.
+«Stopp.»
 
-Bjorn gikk ned på kne. Sjekket pulsen på håndleddet — ikke på halsen. Halsen rører man ikke etter kvelning. Der. Svak, hurtig, men der.
+Sikkerhetsvakt. Tilbake. Lommelykt i ansiktet. Stor, ung, forvirret—men sto støtt.
 
-Vareheis. Første etasje. Bakdør — samme murstein holder døren åpen. Takk, ukjente røyker. For andre gang.
+«Hvor tar du den pasienten? Evakuering er trappoppgang A.»
 
-Regn. Parkering.
+«Vareheis er raskere. Han er på respirator, kan ikke gå ned trapper.»
 
-Liza så dem først. Tre. Ved Bjorns pickup. Svarte jakker, kortklippet hår, stilling — bena i skulderbredde. PMC. Vakten rakk å ringe.
+Vakten lyste på trallen. På Shelly. På de frakoblede sensorene.
 
-Bjorn sto ved hushjørnet. Så også. Liza — med trillevogn, tung pust, uten våpen. Hjelpeløs.
+«Hvor er monitoren? Hvorfor er den frakoblet? Hvem er du?»
 
-En av de tre snudde hodet. Så henne. Hånden gikk mot hoften — mot hylsteret.
+5
 
-Bjorn tok tre skritt mot pickupen og ble plutselig til en fjær — venstre hofte dekker lysken, venstre albue — hjertet, i halvbøyde hender — pistol. Pang, Pang, Pang! Venstre speil, høyre speil, fremre dekk. De tre dukket bak pickupen — refleks, et sekund.
+Liza slapp trallen. Skritt frem. Vakt—et hode høyere, tretti kilo tyngre. Lommelykt i høyre hånd.
 
-Fjæren slapp løs og gled bak rattet på ambulansen.
+Høyre hånd—opptatt. Betyr venstre—fri, men ikke dominant. Vekt på høyre fot. Tyngdepunkt—høyt.
 
-— Hit, — Bjorn. Kort, rolig. Som om han ba til bords.
+Liza slo ham i solar plexus. Kort, oppover. Ikke knyttneve—håndflate. Mellomgulv. Vakten bøyde seg dobbelt, mistet lommelykten. Andre slag—håndkant mot nakke. Ikke hardt. Nok.
 
-Ambulanse. Gul-rød, med motoren i gang — sjåføren løp ut på sirenen, lot nøklene sitte.
+Vakten sank ned på knærne. Så—til gulvet. Bevisst men uten luft. Om tretti sekunder ville han stå. Om et minutt løpe etter hjelp.
 
-Bjorn åpnet bakdørene. Hjalp til med å rulle Shelly fra trillevognen inn. Liza klatret etter.
+0
 
-— Lever han? — spurte Bjorn.
+Vareheis. Første etasje. Personalutgang—samme murstein støttet døren. Takk, ukjente røyker. To ganger.
 
-— Lever.
+Regn. Parkering. Bjørns pickup—motor i gang, frontlys av. Bjørn gikk ut, åpnet bakdøren. Uten ord hjalp han flytte Shelly fra trallen.
 
-Bjorn satte seg bak rattet. Ambulansen kjørte.
+«I live?» spurte Bjørn.
 
-Over veien, langs fjorden, inn i mørket.
+«I live.»
 
-Shelly åpnet øynene. Så på Liza. Kjente henne igjen — eller ikke, umulig å si. Leppene beveget seg.
+Bjørn satte seg bak rattet. Liza—bak, ved siden av Shelly. Hodet hans i fanget hennes. Skjegget stikkete. Pusten—svak, men hans egen.
 
-— ...autonom?
+Pickupen kjørte. Ingen frontlys—de første to hundre meterne. Så—ut på veien, langs fjorden, inn i mørket.
 
-Liza bøyde seg mot øret hans.
+Shelly åpnet øynene. Så på Liza. Kjente henne igjen—eller ikke, umulig å si. Leppene beveget seg.
 
-— Autonom. Alt etter planen. Sov.
+«...autonom?»
 
-Han lukket øynene. Regnet trommet mot taket på ambulansen. Bjorn kjørte uten å si et ord. Blålysene malte fjorden i blått og rødt — svart vann, svarte fjell, fremmed bil.
+Liza lente seg mot øret hans.
 
-Liza talte pustene hans. Tolv i minuttet. Sine egne. Uten apparat.
+«Autonom. Alt etter planen. Sov.»
+
+Han lukket øynene. Regn trommelt på pickuptaket. Bjørn kjørte i stillhet. Fjorden forsvant i mørket—svart vann, svarte fjell, svart himmel.
+
+Liza talte pustene hans. Tolv per minutt. Hans egne. Uten maskinen.
+
+Det er fortsatt tid.
+
+KONTAKTPERSON VED BEVISSTHET. PUSTER SELVSTENDIG.
+
+RUTE: FJORD

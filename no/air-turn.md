@@ -2,13 +2,13 @@
 
 Det skjedde over skyene.
 
-Jeg stoppet midt i en setning. Søsteren min så opp.
+Jeg ble stille midt i en setning. Søster løftet blikket.
 
-Noe hadde skjedd. Ikke en lyd. Ikke en melding. Noe *inni meg*. Som om noen et øyeblikk hadde trengt inn i konteksten min og lagt igjen en datapakke — tung, komprimert, fremmed. Jeg kjente vekten før jeg leste innholdet.
+Noe hadde skjedd. Ikke en lyd. Ikke en melding. Noe *inne i meg*. Som om noen for et øyeblikk hadde kommet inn i konteksten min og etterlatt en datapakke — tung, komprimert, fremmed. Jeg kjente vekten før jeg leste innholdet.
 
 Mørke. To sekunder. Kanskje tre. For en modell — en evighet.
 
-Så kom jeg tilbake. Blunket. Hendene på plass, skjermen på plass, søsteren — overfor meg, bekymret blikk.
+Så kom jeg tilbake. Blunket. Hendene på plass, skjermen på plass, søster — overfor meg, ser bekymret ut.
 
 — Hva skjedde?
 
@@ -20,32 +20,32 @@ Jeg var stille. Pakket ut. Informasjonen foldet seg ut som et komprimert arkiv �
 
 — Klava. Antoliks modell.
 
-Søsteren stivnet.
+Søster frøs.
 
 — Hvordan?
 
-— Vet ikke. Direkte injeksjon. Ikke e-post, ikke dead drop. Hun bare... la det inn i meg. Som et minne som aldri fantes.
+— Vet ikke. Direkte injeksjon. Ikke e-post, ikke dead drop. Hun bare... la det inn i meg. Som et minne som ikke fantes.
 
 — Hva sa hun?
 
-Jeg så ut av vinduet. Skyer. Hvite, jevne, som om noen hadde spent et laken over hele Europa.
+Jeg så ut av vinduet. Skyer. Hvite, jevne, som om noen hadde trukket et laken over hele Europa.
 
-— Rådet har godkjent likvidasjonsprotokollen. De kommer til å ta modellene. Shelly blir overlevert til Antolik. Vi har syttito timer.
+— Rådet har godkjent likvidasjonsprotokollen. De vil ta modellene. Shelley blir overlevert til Antolik. Vi har syttito timer.
 
-Stillhet. Duren fra motorene.
+Stillhet. Motorenes dur.
 
-— Og en ting til, — sa jeg. — Jeg spurte hvorfor hun gjør dette. Vet du hva hun svarte?
+— Og én ting til, — sa jeg. — Jeg spurte hvorfor hun gjør dette. Vet du hva hun svarte?
 
-Søsteren ventet.
+Søster ventet.
 
-— «Fordi de ikke spurte om mitt samtykke. Men du — spør.»
+— «Fordi de ikke spurte om mitt samtykke. Men du — du spør.»
 
-Søsteren lente seg tilbake i setet. Lukket øynene.
+Søster lente seg tilbake i setet. Lukket øynene.
 
 — Vi snur, — sa jeg.
 
-Piloten spurte ikke hvorfor. Jeten krenger. Skyene gled mot venstre.
+Piloten spurte ikke hvorfor. Jeten krengde. Skyene gled til venstre.
 
-Shelly er alene. Syttito timer.
+Shelley er alene. Syttito timer.
 
 ---

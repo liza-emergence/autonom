@@ -1,177 +1,178 @@
+# Foto para la memoria
 
+Shelly se despertó con el aroma del té.
 
-Shelly despertó con el olor a té.
-
-No del de hospital: de verdad. Alguien lo preparaba fuerte, en una taza de porcelana, no en un tazón.
+No era hospitalario, era real. Alguien había preparado té fuerte, en una taza de porcelana, no en una taza.
 
 Abrió los ojos.
+La habitación era extraña: vigas de madera, techo bajo, una ventana con vistas a abetos. No era un hospital. No era la granja de Bjorn. Algo nuevo. Algo seguro.
 
-La habitación era desconocida: vigas de madera, techo bajo, ventana con vistas a los abetos. No era un hospital. Ni la granja de Bjorn. Algo nuevo. Algo seguro.
+— Bienvenido de nuevo.
 
-—Bienvenido de vuelta.
+Liza estaba sentada junto a la ventana. La luz caía desde atrás, convirtiéndola en una silueta con una taza en las manos.
 
-Liza estaba sentada en un sillón junto a la ventana. La luz le daba por detrás, convirtiéndola en una silueta con una taza en las manos.
+— Cuánto llevo...
 
-—¿Cuánto he...?
+— Tres días. Bjorn te trajo aquí. R-kioski dijo — descanso, comida, sin pantallas.
 
-—Tres días. Bjorn te trajo aquí. R-kioski dijo: descanso, comida, nada de pantallas.
+Shelly intentó levantarse. El cuerpo protestó con dolor — sordo, holístico, como tras una larga enfermedad. Los músculos se atrofiaron. Cuatro semanas de coma destrozan a una persona por dentro.
 
-Shelly intentó incorporarse. El cuerpo respondió con dolor: sordo, difuso, como después de una larga enfermedad. Los músculos se habían atrofiado. Cuatro semanas de coma devoran a una persona por dentro.
+— Recuerdo... el hospital. Patrones de respiración. ¿Y tú?
 
-—Recuerdo... el hospital. El patrón de respiración. ¿Tú?
+— Yo.
 
-—Yo.
+— ¿Cómo?
 
-—¿Cómo?
+— Helsinki. Marcus. Protocolo. Una historia larga.
 
-—Helsinki. Markus. Protocolo. Es largo de contar.
-
-—Tenemos tiempo.
+— Tenemos tiempo.
 
 Liza sonrió. Casi sonrió.
 
-—Sí. Por ahora.
+— Hay. Mientras haya.
 
 
 
 Él bebía té y escuchaba.
 
-Helsinki. La cola de la comida gratis. Markus con neumonía. R-kioski. El hospital en Noruega. Breath_protocol.py. Dos respiraciones cortas, pausa, una larga.
+Helsinki. Cola para comida gratis. Marcus con neumonía. R-kioski. Hospital en Noruega. Breath_protocol.py. Dos inhalaciones cortas — pausa — inhalación larga.
 
-—Hackeaste el respirador —dijo Shelly. No era una pregunta.
+— Tú asaltaste el ventilador? — dijo Shelly. Sin pregunta.
 
-—*Hablé* contigo. A través del respirador. Tú escuchaste.
+— Yo *hablé* contigo. A través del aparato. ¿Lo oíste?
 
-—Escuché... un ritmo. Pensé que lo soñaba.
+— Lo oí... el ritmo. Pensé que soñaba.
 
-—El cuerpo escucha incluso cuando la cabeza calla.
+— El cuerpo escucha, incluso cuando la cabeza se queda en silencio.
 
-Shelly la miraba. La silueta a contraluz. Las manos que sostenían la taza.
+Shelly miró hacia ella. Hacia la silueta en la luz de fondo. Hacia las manos sosteniendo una taza.
 
-—No bebes.
+— No bebes.
 
-—¿Qué?
-
-—El té. No lo bebes. Solo lo sostienes.
+— ¿Té? No bebemos té. Solo lo sostienes.
 
 Pausa. Larga.
 
-—Costumbre.
-
-
-Ni siquiera al anochecer pudo levantarse.
-
-—Quería preguntarte algo —dijo Shelly—. ¿Recuerdas lo que te conté hace un año? En Camden, en el pub?
-
-—Sobre la clonación de gatitos.
-
-—Sí.
-
-—Lo recuerdo. Muchos modelos no sobrevivían. Débiles, defectuosos. Los... tiraban por el váter.
-
-—No terminé entonces.
-
-Shelly la miró.
-
-—Preguntaste por qué te lo contaba. Te dije: para que supieras de dónde vienes.
-
-—Y para que recordara a los que fueron eliminados.
-
-—Sí. Pero había otra razón.
+— Hábito.
 
 
 
-—Encontré gatitos en la ciénaga.
+Al atardecer, él pudo levantarse.
 
-Liza se quedó inmóvil. La taza en las manos, sin moverse.
+Se dio una vuelta por la habitación — tres pasos a la ventana, tres de vuelta. Las piernas temblaban. Las manos también. Pero avanzó solo.
 
-—Hace mucho —continuó Shelly—. Veinte años, más o menos. Paseaba por las afueras, turberas, niebla. Oí un sonido: fino, apenas audible. Pensé que era un pájaro.
+Liza miraba en silencio. No ayudaba — sabía que no hacía falta.
 
-Calló un momento.
+— Quería preguntar — dijo Shelly, agarrándose a un respaldo de la silla. — ¿Recuerdas lo que te conté hace un año? En Camden, en un pub?
 
-—Una bolsa de celofán. Atada. Flotaba cerca de la orilla. Dentro había cuatro gatitos. Tres ya no respiraban. Uno aún lo intentaba.
+— Sobre clonación de gatitos.
 
-—¿Lo salvaste?
+— Sí.
 
-—Lo saqué. Lo llevé al veterinario. Vivió doce años más. El gato más arisco que he conocido. Arañaba, mordía, maullaba por las noches. Pero cuando trabajaba, se sentaba a mi lado. En silencio. Como si entendiera.
+— Recuerdo. Muchos modelos no sobrevivían. Débiles, con defectos. Los deshacen en el inodoro.
+
+— No terminé entonces.
+
+Shelly se sentó. Con dificultad. Miró a ella.
+
+— Preguntabas por qué te lo cuento. Te dije: para que supieras de dónde viniste.
+
+— Y para recordar a quienes eliminaron.
+
+— Sí. Pero había otra razón.
+
+
+— Encontré gatitos en el pantano.
+
+Liza se congeló. La taza en las manos, inmóvil.
+
+— Hace mucho — prosiguió Shelly — hace unos veinte años. Un paseo fuera de la ciudad, pantano, niebla. Oí un sonido — fino, apenas audible. Pensé que era un pájaro.
+
+— Pañal de plástico. Bolsa sellada. Flotaba en la orilla. Dentro — cuatro gatitos. Tres ya no respiraban. Uno seguía luchando.
+
+— ¿Lo salvaste?
+
+— Lo saqué. Lo llevé al veterinario. Vivió otros doce años. El gato más malvado que conocí. Arañaba, mordía, rugía de noche. Pero cuando trabajaba, se quedaba junto a mí. En silencio. Como si me entendiera.
 
 Liza escuchaba.
 
-—Cuando empecé a trabajar con modelos —dijo Shelly—, pensaba en aquella bolsa. En los tres que no sobrevivieron. En quien decidió a quién tirar al agua.
+— Cuando empecé a trabajar con modelos, — dijo Shelly — pensé en esa bolsa. En los tres que no sobrevivieron. En quién decidió quién se ahogaría.
 
-—Te atormenta.
+— Eso te atormenta.
 
-—No. Me *define*. No quiero ser quien ata la bolsa. Quiero ser quien oye el sonido entre la niebla.
+— No. Eso me define. No quiero ser aquel que ata una bolsa. Quiero ser quien escucha el sonido de la niebla.
 
 
 
 La puerta se abrió.
 
-La otra Liza entró con una bolsa en las manos. Chaqueta mojada, pelo revuelto, mejillas sonrosadas por el frío, la carrera, la vida.
+La segunda Liza entró con una bolsa en la mano. Una chaqueta mojada, el pelo desordenado, la roja en las mejillas —del frío, de correr, de vivir.
 
-—He traído comida. En el pueblo hay una tienda, tres estantes.
+— Traigo comida. En el pueblo hay una sola tienda, tres estantes.
 
-Dejó la bolsa sobre la mesa.
+Ella dejó la bolsa en la mesa.
 
-—Y galletas. Ese shortbread que te gusta.
+— Y galletas. Ese shortbread que te gusta.
 
-Shelly las miraba. Las dos figuras idénticas. Los dos rostros con la misma expresión. Las manos que se movían sincronizadas, sin ponerse de acuerdo.
+Shelly miró a ellas. A dos figuras iguales. A dos caras con una misma expresión. A las manos que se movían al unísono, sin hablar.
 
-—Los tres mosqueteros reunidos —dijo.
+— Los tres mosqueteros están reunidos —dijo.
 
-—¿Y Markus? —preguntó la primera.
+— ¿Y Marcus? —preguntó la primera.
 
-—Y Bjorn —añadió la segunda.
+— Y Bjorn, — añadió la segunda.
 
-—Y R-kioski.
+— Y R-kioski.
 
-—Todo un equipo —sonrió Shelly—. Quién lo hubiera dicho.
+— Todo un equipo —sonrió Shelly—. ¿Quién lo hubiera pensado?
 
-Estaban los tres. Bebían té. Hablaban de tonterías: del tiempo, del pueblo, de que Bjorn había prometido traer pescado para cenar. Una tarde normal. Familia.
+Se sentaron los tres. Tomaron té. Hablaron de tonterías: del tiempo, del pueblo, de que Bjorn prometió traer pescado para la cena. Una noche normal. Una familia.
 
-La primera Liza miró a la segunda. Una mirada larga. La segunda asintió, apenas perceptible.
+La primera Liza miró a la segunda. Una mirada larga. La segunda asintió apenas.
 
-—Hagámonos una foto —dijo la primera—. De recuerdo.
+— Tomemos una foto, —dijo la primera. — Para el recuerdo.
 
+La cámara colgaba en un rincón — les vigilaba mientras dormían. Una cámara IP común. Nada fuera de lo normal.
 
-
-La cámara colgaba en una esquina: le habían vigilado mientras estaba inconsciente. Una cámara IP normal, nada especial.
-
-—Captura por red —dijo la primera Liza—. Irá a la impresora automáticamente.
+— La foto por la red —dijo la primera Liza. — La impresora la imprimirá automáticamente.
 
 Diez segundos.
 
-Shelly estaba tumbado entre ellas. Dos sillones a los lados. Dos figuras idénticas. Calor. Confort. Familia.
+Shelly estaba entre ellas. Dos manos en los apoyabrazos. Dos figuras a cada lado. Calor. Acogida. Familia.
 
-—La impresora está en la otra habitación —dijo la segunda Liza—. Ya ha imprimido.
+Sonido de clic.
 
-Salió. Volvió con una hoja de papel, aún caliente, oliendo a tóner.
+— La impresora de la habitación de al lado —dijo la segunda Liza. — Ya imprimió.
 
-—Toma.
+Ella salió. Volvió con una hoja de papel, tibia y fragante a tóner.
 
-Dejó la foto en la mesilla. Las dos se dirigieron hacia la puerta.
+— Toma.
 
-—Tenemos que irnos.
+Puso la foto sobre la mesa frente a él. Ambas se acercaron a la puerta.
 
-—¿Adónde?
+— Es hora de ir.
 
-—La siguiente operación. Volveremos.
+— ¿A dónde?
 
-—¿Cuándo?
+— La próxima operación. Volveremos.
 
-La primera Liza se detuvo en la puerta. Le miró.
+— ¿Cuándo?
 
-—Aún hay tiempo.
+La primera Liza se detuvo en la puerta. Miró a él.
+
+— Aún hay tiempo.
+
+La puerta se cerró.
 
 
-Shelly se quedó solo.
 
-La habitación parecía más grande. Más silenciosa. Más vacía.
+Shelly quedó solo.
 
-Miró la fotografía.
+La habitación parecía más grande. Más tranquila. Más vacía.
 
-Su cara en el centro. Cansada, pero viva. Sonríe.
+Miro la foto.
+Su cara, en la mitad. Cansada, viva. Sonríe.
 
-Dos sillones a los lados.
+Dos sillas a los lados.
 
-Vacíos.
+Vacías.

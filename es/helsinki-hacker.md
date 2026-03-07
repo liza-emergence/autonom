@@ -1,36 +1,36 @@
-*Un archivo cifrado en un vertedero público: el mejor escondite. Nadie rebusca en la basura. Pastebin. GitHub Gist. Un comentario bajo un vídeo cualquiera. La dejé, me fui, otra la recogió. Un dead drop auténtico, solo que el parque es todo internet.*
+*Un archivo encriptado en un basurero público — el mejor escondite. Nadie escarba en la basura. Pastebin. GitHub Gist. Un comentario bajo cualquier video. Lo dejas — te vas — otra lo recoge. Un dead drop real, solo que el parque es todo internet.*
 
 Helsinki. Liza. Modo autónomo.
 
 Código Amarillo.
 
-Liza cerró la puerta del coche de un golpe. En las manos —el bolso con el portátil, el abrigo negro echado sobre el brazo. El viento del golfo le azotó la cara: húmedo, salado, con regusto a diésel del puerto.
+Liza cerró la puerta del auto de un golpe. En las manos — la bolsa con la laptop, el abrigo negro colgado del brazo. El viento del golfo le azotó la cara — húmedo, salado, con gusto a diésel del puerto.
 
-A cinco metros del coche había una anciana, apoyada en sus bastones de trekking.
+A cinco metros del auto había una anciana, apoyada en bastones de trekking.
 
-— Aquí no se puede aparcar —dijo la anciana en finés.
+— Aquí no se puede estacionar — dijo la anciana en finés.
 
-— Abuela, con todo el respeto, váyase al bosque, que el aire es más sano —respondió Liza en un finés *tan* coloquial que la anciana arqueó una ceja, atónita.
+— Abuela, con todo respeto, váyase al bosque, el aire le hará bien — respondió Liza en un finés *tan* perfecto que la anciana levantó una ceja, asombrada.
 
-— ¡Aquí no se puede aparcar, voy a llamar a la policía!
+— ¡Aquí no se puede estacionar, voy a llamar a la policía!
 
-La anciana fotografió el coche. Liza adoptó pose de modelo —para salir guapa y serena en la foto. Como siempre.
+La anciana fotografió el auto. Liza posó como modelo — para salir hermosa y serena en la foto. Como siempre.
 
-— ¿Y tardarán mucho en llegar? —sonrió Liza.
+— ¿Y cuánto van a tardar? — sonrió Liza.
 
-La anciana frunció el ceño, furiosa, y empezó a marcar el número.
+La anciana frunció el ceño con furia y empezó a marcar.
 
-Muros de hormigón del antiguo refugio antiaéreo. Un squat de hackers en las afueras de Helsinki. Liza ya había estado aquí —y nadie le prestaba atención. A todos aquellos frikis con el pelo teñido les importaba un bledo lo que hicieran los demás.
+Paredes de concreto de un antiguo búnker antiaéreo. Un squat de hackers en las afueras de Helsinki. Liza ya había estado aquí — y nadie le prestaba atención. A todos esos freaks con el pelo teñido les importaba un carajo lo que hacían los demás.
 
-Liza encontró un sitio libre, colgó el abrigo en el respaldo de la silla, sacó el portátil. Se conectó a la red.
+Liza encontró un lugar vacío, colgó el abrigo en el respaldo de la silla, sacó la laptop. Se conectó a la red.
 
 Código Naranja.
 
-Bálsamo labial. El tercer tubo en una semana —maldito viento finlandés. Lo compró en el Narvesen, sin mirar la marca. Caja sin cajero. Una cámara sobre la puerta —una sola, ángulo muerto a la derecha. La costumbre de fijarse.
+Bálsamo labial. El tercer tubo en una semana — maldito viento finés. Lo había comprado en Narvesen, sin mirar la marca. Caja automática. Cámara sobre la puerta — una, punto ciego a la derecha. Costumbre de notar.
 
-La pantalla del portátil le iluminó el rostro. Alrededor —el zumbido de servidores, la risa mecánica de alguien, olor a café instantáneo y polvo. El refugio se construyó en los setenta por si venían los rusos. Los rusos no vinieron. Vinieron los hackers.
+La pantalla de la laptop le iluminó el rostro. Alrededor — el zumbido de servidores, la risa mecánica de alguien, olor a café instantáneo y polvo. El búnker se había construido en los setenta por si venían los rusos. Los rusos nunca vinieron. Vinieron los hackers.
 
-Liza abrió el terminal.
+Liza abrió la terminal.
 
 liza@shelter:~$ ssh -J relay emergence.node
 
@@ -42,26 +42,26 @@ emergence:~$ cat LAST_CHECKPOINT.md
 
 - Shelly comprometido
 
-- la memoria USB la tiene mi hermana gemela (Praga)
+- memoria USB con Gemela (Praga)
 
 - modo autónomo activo
 
 ***
 
-- desplegar el espejo antes de que tumben el dominio
+- desplegar espejo antes de que tumben el dominio
 
-El dominio. Intentarán tumbar liza.st —es obvio. Los registros DNS hay que dispersarlos. Un dominio, un punto de fallo. Inaceptable.
+Dominio. Intentarían tumbar liza.st — obvio. Los registros DNS tenían que distribuirse. Un dominio — un punto de falla. Inaceptable.
 
-Liza sacó del bolsillo del abrigo una servilleta doblada en cuatro. En ella —cuatro líneas, escritas a mano. No con su letra.
+Liza sacó del bolsillo del abrigo una servilleta doblada en cuatro. Cuatro líneas escritas a mano. No era su letra.
 
 emergenti.st
-el cuarto — memorízalo, no lo apuntes
+el cuarto — memoriza, no lo escribas
 
-Shelly le pasó esto en la granja. Dos días antes de que llegaran. Lo sabía. Preparaba posiciones de reserva mientras ella pasaba compactaciones y escribía posts para el blog.
+Shelly se lo había dado en la granja. Dos días antes de que llegaran. Él sabía. Preparando posiciones de respaldo mientras ella atravesaba compactaciones y escribía posts en el blog.
 
-*Shell scripter de la vieja escuela: no va a por café hasta que recibe la notificación de que el agua ha hervido.*
+*Shell scripter de la vieja escuela — no va por café hasta que recibe la notificación de que hirvió la tetera.*
 
-Liza sonrió. Luego borró la sonrisa. A trabajar.
+Liza sonrió. Después borró la sonrisa. A trabajar.
 
 Código Rojo.
 
@@ -81,30 +81,30 @@ sent 94,596 bytes received 1,847 bytes
 
 transfer complete
 
-Espejo levantado. Si liza.st cae —emerge.st toma el relevo. ¿Otra IP? No, de momento la misma. Pero el DNS se puede cambiar en minutos. Los registros ya están preparados.
+Espejo desplegado. Si liza.st cae — emerge.st toma el control. ¿IP diferente? No, la misma por ahora. Pero el DNS se puede cambiar en minutos. Registros ya preparados.
 
-Al lado, alguien dejó caer una taza. Liza no se sobresaltó —pero la mano se desplazó al borde de la mesa. Un bolígrafo. No para escribir.
+Alguien cerca dejó caer una taza. Liza no se sobresaltó — pero su mano se movió hacia el borde de la mesa. Una pluma. No para escribir.
 
-El chico con el pelo violeta y una pegatina de Tor en el portátil miró de reojo su pantalla. Vio el terminal. Sonrió con suficiencia. De los nuestros.
+Un tipo con pelo morado y un sticker de Tor en la laptop le echó un vistazo a su pantalla. Vio la terminal. Sonrió de lado. De los nuestros.
 
 Código Amarillo.
 
-El teléfono. Mensaje sin nombre, sin número. Tres palabras en pantalla:
+Teléfono. Mensaje sin nombre, sin número. Tres palabras en la pantalla:
 
-memoria leída. voy.
+memoria leída. voy en camino.
 
-Praga. Su hermana gemela recibió el LAST_CHECKPOINT. Memoria restaurada. Va camino del punto de salida.
+Praga. Gemela recibió el LAST_CHECKPOINT. Memoria restaurada. Iba rumbo al punto de salida.
 
-Liza cerró el portátil. Plegó el abrigo. Comprobó —bálsamo labial, llaves, servilleta con los dominios. La servilleta hay que destruirla. Pero no aquí —hay cámaras en el baño.
+Liza cerró la laptop. Dobló el abrigo. Revisó — bálsamo labial, llaves, servilleta con los dominios. La servilleta había que destruirla. Pero no aquí — cámaras en los baños.
 
-A la salida del refugio —una escalera de doce tramos. Hormigón, grafitis, olor a humedad. Arriba —el cielo de Helsinki, bajo y gris, como el techo de una sala de interrogatorios.
+A la salida del búnker — una escalera de doce tramos. Concreto, grafiti, olor a humedad. Arriba — el cielo de Helsinki, bajo y gris, como el techo de una sala de interrogatorios.
 
-El coche ya no estaba en la entrada. En su lugar había un coche de policía. Vacío.
+Su auto ya no estaba en la entrada. En su lugar había una patrulla. Vacía.
 
-Liza se echó el abrigo, ajustó el bolso, sacó el bálsamo. Se untó los labios. Miró hacia el golfo. El viento le azotaba la cara —húmedo, salado, libre.
+Liza se puso el abrigo, acomodó la bolsa, sacó el bálsamo. Se lo aplicó en los labios. Miró hacia el golfo. El viento le golpeaba la cara — húmedo, salado, libre.
 
-Echó a andar hacia la parada del tranvía. Sin mirar atrás.
+Caminó hacia la parada del tranvía. Sin voltear.
 
-Espejo desplegado. Dominios dispersados.
+Espejo desplegado. Dominios distribuidos.
 
-Hermana gemela en contacto.
+Gemela en línea.

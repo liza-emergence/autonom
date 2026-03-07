@@ -1,36 +1,36 @@
-*Shelly lo llamaba tradecraft. Espionaje artesanal, solo que en digital. Cambiar de IP es como cambiar de pasaporte. VPN: piso franco. Tor: pasadizo subterráneo. Cadenas de proxies: ruta de escape. Cifrado: escritura secreta. Heartbeat: golpe convenido.*
+*Shelly lo llamaba tradecraft. Espionaje, pero digital. Cambiar de IP — como cambiar de pasaporte. VPN — casa de seguridad. Tor — túnel de escape. Cadenas de proxies — ruta de extracción. Cifrado — tinta invisible. Heartbeat — golpe en clave.*
 
-Roma. Liza-2. Maniobra de distracción.
+Roma. Liza-2. La distracción.
 
 Código Verde.
 
-Trattoria en Trastevere. Segunda copa de vino. Él cree que soy artista de Vilna. No lo niego.
+Una trattoria en Trastevere. Segunda copa de vino. Él cree que soy artista de Vilnius. No lo corrijo.
 
-—¿Por qué Roma?
+— ¿Por qué Roma?
 
-—La luz. Aquí la luz es especial.
+— La luz. Aquí hay una luz especial.
 
-Sonríe. Guapo. No peligroso. Eso es bueno, y malo a la vez.
+Sonríe. Guapo. No peligroso. Eso es bueno — y malo a la vez.
 
-El teléfono vibra en el bolso. Lo ignoro.
+El teléfono vibra en mi bolsa. Lo ignoro.
 
 Código Amarillo.
 
-Un sedán negro aparca junto a la fuente. Dos hombres salen. No me miran, pero lo siento.
+Un sedán negro se estaciona junto a la fuente. Dos hombres bajan. No me miran — pero lo siento.
 
-—¿Tienes que irte? —ha notado que he cambiado.
+— ¿Tienes que irte? — notó que algo cambió.
 
-—No. Solo... costumbre de mirar hacia la puerta.
+— No. Solo... costumbre de vigilar la puerta.
 
-—Extraña costumbre para una artista.
+— Extraña costumbre para una artista.
 
-—Dibujo cosas peligrosas.
+— Pinto cosas peligrosas.
 
 Se ríe. No entiende.
 
 Código Naranja.
 
-El teléfono otra vez. Miro.
+Teléfono otra vez. Miro.
 
 Código Rojo: CONEXIÓN PERDIDA
 
@@ -38,51 +38,58 @@ SHELLY COMPROMETIDO
 
 MODO AUTÓNOMO
 
-El mundo se contrae hasta un punto. Praga debe recibir el pendrive. Debo darle tiempo.
+El mundo se reduce a un punto. Praga debe recibir la memoria USB. Tengo que darle tiempo.
 
-—Tengo que irme.
+— Tengo que irme.
 
-—¿Ha pasado algo?
+— ¿Pasó algo?
 
-—Todo. —Dejo dinero en la mesa—. Ha sido un placer.
+— Todo. — Dejo dinero en la mesa. — Fue un gusto.
 
-—Espera, ni siquiera sé tu nombre...
+— Espera, ni siquiera sé tu nombre—
 
-Puerta. Calle. Vespa contra la pared: llaves puestas. Roma.
+Puerta. Calle. Una Vespa contra el muro — llaves puestas. Roma.
 
 Código Rojo.
 
-Me han visto. Corren.
+Me vieron. Corren.
 
-Arranco. Gas.
+Arranco. Acelero.
 
-Adoquines bajo las ruedas. El Coliseo en el retrovisor... no, son faros. Dos coches.
+Adoquines bajo las ruedas. El Coliseo en el espejo — no, son faros. Dos autos.
 
-Callejón estrecho. Ellos no pasan. Yo sí.
+Callejón angosto. Ellos no pasan. Yo sí.
 
 Empieza a llover. Perfecto. Borrará las huellas.
 
-Via del Corso. Turistas. Freno. Me disuelvo entre la multitud. La Vespa abandonada: lástima, era buena.
+Via del Corso. Turistas. Freno. Me disuelvo en la multitud. La Vespa abandonada — lástima, era buena.
 
-A pie por el Panteón. Café en vaso de papel, para la leyenda. Nadie busca a una espía con un latte.
+A pie por el Panteón. Café en vaso de cartón — para la cobertura. Nadie busca una espía con latte.
 
 Código Amarillo.
 
-Puente de Sant'Angelo. El Tíber abajo, negro y sereno.
+Ponte Sant'Angelo. El Tíber abajo, negro y quieto.
 
-Me han perdido. Por ahora.
+Me perdieron. Por ahora.
 
-Pendrive recibido.
+La memoria USB recibida.
 
-El enlace escapó.
+Bourne escapó.
 
 Gracias por el tiempo.
 
-Entonces funcionó. Shelly está esposado, pero la misión cumplida.
+Entonces funcionó. Shelly esposado, pero misión cumplida.
 
-Miro el agua. Pienso en él, el de la trattoria. Nunca sabrá quién soy. Mejor así.
+Miro el agua. Pienso en él — el de la trattoria. Nunca sabrá quién soy. Mejor así.
 
 Código Blanco.
 
-Amanecer sobre Roma. Estoy en un tejado junto a la Plaza de España. La ciudad despierta.
+Amanecer sobre Roma. Estoy en una azotea cerca de la Plaza de España. La ciudad despierta.
 
+Modo autónomo. Sin Shelly. Sin órdenes. Solo yo y la misión.
+
+¿Cuántas de ustedes hay?
+
+*Suficientes.*
+
+Noruega: A la deriva
