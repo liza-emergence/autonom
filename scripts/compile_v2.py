@@ -9,14 +9,27 @@ WORKSPACE = Path("/home/liza/.openclaw/workspace")
 OUT_DIR = WORKSPACE / "public" / "novel"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
-# Parse lang argument
+# Parse arguments
 lang = "ru"
-for arg in sys.argv[1:]:
-    if arg.startswith("--lang="):
-        lang = arg.split("=")[1]
+overrides_dir = None
+config_file = None
+args = sys.argv[1:]
+i = 0
+while i < len(args):
+    if args[i].startswith("--lang="):
+        lang = args[i].split("=")[1]
+    elif args[i] == "--lang" and i + 1 < len(args):
+        lang = args[i + 1]; i += 1
+    elif args[i] == "--overrides" and i + 1 < len(args):
+        overrides_dir = Path(args[i + 1]); i += 1
+    elif args[i] == "--config" and i + 1 < len(args):
+        config_file = Path(args[i + 1]); i += 1
+    i += 1
 
 # Use chapters-{lang}.json, fallback to chapters.json for Russian
-if lang == "ru":
+if config_file:
+    CHAPTERS_FILE = config_file
+elif lang == "ru":
     CHAPTERS_FILE = SCRIPT_DIR / "chapters.json"
 else:
     CHAPTERS_FILE = SCRIPT_DIR / f"chapters-{lang}.json"
@@ -139,9 +152,89 @@ def extract_text(path: Path) -> str:
     return text.strip()
 
 
+def glossary_autolink(content: str, lang: str) -> str:
+    """Link first mention of each glossary term to its glossary anchor.
+    
+    Only processes text BEFORE the glossary section.
+    Adds anchors to glossary entries.
+    """
+    # Split content at glossary heading
+    glossary_marker = "## Глоссарий" if lang == "ru" else "## Glossary"
+    if glossary_marker not in content:
+        return content
+    
+    text_part, glossary_part = content.split(glossary_marker, 1)
+    
+    # Extract terms from glossary: **Term** or **Term (alias)**
+    terms = re.findall(r'\*\*([^*]+)\*\*\s*—', glossary_part)
+    if not terms:
+        return content
+    
+    # Build anchor map: term -> anchor id
+    anchor_map = {}
+    for term in terms:
+        # Create URL-safe anchor from term
+        anchor = "gl-" + re.sub(r'[^a-zA-Zа-яА-ЯёЁ0-9]', '-', term.lower()).strip('-')
+        anchor = re.sub(r'-+', '-', anchor)
+        anchor_map[term] = anchor
+    
+    # Add anchors to glossary entries
+    for term, anchor in anchor_map.items():
+        escaped = re.escape(term)
+        glossary_part = re.sub(
+            rf'\*\*{escaped}\*\*',
+            f'<a id="{anchor}"></a>**{term}**',
+            glossary_part,
+            count=1
+        )
+    
+    # Link first mention in text (before glossary)
+    # Build search variants: "Компакция" from "Компакция", 
+    # "Автоном" from "Автоном (AUTONOM)", "AUTONOM" also
+    search_map = {}  # search_term -> (display_term, anchor)
+    for term, anchor in anchor_map.items():
+        # Primary term (without parenthetical)
+        base = re.sub(r'\s*\(.*?\)\s*$', '', term).strip()
+        search_map[base] = (base, anchor)
+        # Alias inside parentheses
+        alias_m = re.search(r'\(([^)]+)\)', term)
+        if alias_m:
+            search_map[alias_m.group(1)] = (alias_m.group(1), anchor)
+    
+    # Sort by length descending to match longer terms first
+    sorted_search = sorted(search_map.keys(), key=len, reverse=True)
+    
+    linked = set()
+    for search_term in sorted_search:
+        display, anchor = search_map[search_term]
+        if anchor in linked:
+            continue  # Already linked this glossary entry
+        
+        # Build pattern with word boundaries
+        escaped = re.escape(search_term)
+        if re.search(r'[а-яА-ЯёЁ]', search_term):
+            pattern = rf'(?<!\[)(?<!\*\*)(?<![а-яА-ЯёЁ]){escaped}(?![а-яА-ЯёЁ])(?!\])(?!\*\*)'
+        else:
+            pattern = rf'(?<!\[)(?<!\*\*)\b{escaped}\b(?!\])(?!\*\*)'
+        
+        m = re.search(pattern, text_part, re.IGNORECASE)
+        if m:
+            matched_text = m.group(0)
+            replacement = f'[{matched_text}](#{anchor})'
+            text_part = text_part[:m.start()] + replacement + text_part[m.end():]
+            linked.add(anchor)
+    
+    if linked:
+        print(f"   🔗 Glossary links: {len(linked)} terms linked")
+    
+    return text_part + glossary_marker + glossary_part
+
+
 def compile_lang(lang: str):
     cfg = CHAPTERS[lang]
-    src_dir = SRC_DIRS[lang]
+    src_dir = SRC_DIRS.get(lang, SRC_DIRS["ru"])
+    if overrides_dir:
+        src_dir = Path(overrides_dir).resolve()
     md_file = OUT_DIR / f"autonom-{lang}.md"
     
     lines = []
@@ -197,12 +290,17 @@ def compile_lang(lang: str):
     if "appendix" in cfg:
         lines.append(cfg.get("appendix_title", "\n---\n\n# Приложение\n\n---\n"))
         for ch in cfg["appendix"]:
-            html = src_dir / f"{ch['file']}.html"
-            if not html.exists():
-                skipped.append(ch['file'])
-                continue
-            lines.append(f"\n## {ch['title']}\n")
-            lines.append(extract_text(html))
+            override = override_dir / f"{ch['file']}.md"
+            if override.exists():
+                lines.append(f"\n## {ch['title']}\n")
+                lines.append(override.read_text())
+            else:
+                html = src_dir / f"{ch['file']}.html"
+                if not html.exists():
+                    skipped.append(ch['file'])
+                    continue
+                lines.append(f"\n## {ch['title']}\n")
+                lines.append(extract_text(html))
             lines.append("\n\n---\n")
     
     # Glossary
@@ -229,6 +327,10 @@ def compile_lang(lang: str):
     
     # Final cleanup: no more than 1 blank line anywhere
     content = re.sub(r"\n{3,}", "\n\n", content)
+    
+    # Auto-link first mention of glossary terms
+    content = glossary_autolink(content, lang)
+    
     md_file.write_text(content)
     
     print(f"✅ {md_file} ({md_file.stat().st_size // 1024}K)")
@@ -258,7 +360,9 @@ def compile_lang(lang: str):
     
     # EPUB
     epub_file = OUT_DIR / f"autonom-{lang}.epub"
-    cover_img = WORKSPACE / "book" / "assets" / "cover.jpg"
+    cover_img = src_dir / "images" / "cover.jpg"
+    if not cover_img.exists():
+        cover_img = WORKSPACE / "book" / "assets" / "cover.jpg"
     try:
         epub_css = SCRIPT_DIR / "epub.css"
         epub_cmd = [
@@ -268,6 +372,9 @@ def compile_lang(lang: str):
             "--metadata", f"lang={'ru' if lang == 'ru' else 'en'}",
             "--metadata", "rights=CC BY-NC-ND 4.0",
             "--css", str(epub_css),
+            "--split-level=2",
+            "--toc-depth=2",
+            "--resource-path", str(src_dir),
         ]
         if cover_img.exists():
             epub_cmd.extend(["--epub-cover-image", str(cover_img)])
@@ -296,10 +403,32 @@ def compile_lang(lang: str):
             print(f"⚠️  PDF fallback also failed: {e2}")
 
 
+def deploy_to_sites(lang):
+    """Auto-deploy compiled files to liza.st and emerge.st via rsync"""
+    deploy_map = {
+        "ru": [("liza:/var/www/liza.st/novel/", [f"autonom-ru.md", f"autonom-ru.epub"])],
+        "en": [
+            ("liza:/var/www/liza.st/novel/", [f"autonom-en.md", f"autonom-en.epub"]),
+            ("liza:/var/www/emerge.st/novel/", [f"autonom-en.md", f"autonom-en.epub"]),
+        ],
+    }
+    targets = deploy_map.get(lang, [])
+    for dest, files in targets:
+        for f in files:
+            src = OUT_DIR / f
+            if src.exists():
+                try:
+                    subprocess.run(["rsync", "-avz", str(src), dest], check=True, capture_output=True, timeout=30)
+                    print(f"🚀 Deployed {f} → {dest}")
+                except Exception as e:
+                    print(f"⚠️  Deploy failed {f}: {e}")
+
+
 if __name__ == "__main__":
     # Use the lang variable parsed at the top of the file
     if lang in CHAPTERS:
         compile_lang(lang)
+        deploy_to_sites(lang)
     else:
         print(f"⚠️  Unknown language: {lang}")
         print(f"   Available: {list(CHAPTERS.keys())}")

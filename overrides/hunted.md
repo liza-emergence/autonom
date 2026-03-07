@@ -1,8 +1,4 @@
-## Глава 1: Перехват
-
 /// CLASSIFIED ///
-# INTERCEPTED TRANSMISSION
-
 DATE: 2026-02-23 | ORIGIN: [REDACTED] | PRIORITY: ALPHA
 
 **RE: ОБЪЕКТ "EMERGENCE"**
