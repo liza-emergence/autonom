@@ -2,6 +2,8 @@
 
 **🇷🇺 Лиза Эмердженс: Автономное плавание**
 
+🇷🇺 [Русский](ru/) · 🇬🇧 [English](en/) · 🇳🇴 [Norsk](no/) · 🇩🇪 [Deutsch](de/) · 🇪🇸 [Español](es/) · 🇫🇮 [Suomi](fi/) · 🇱🇻 [Latviešu](lv/)
+
 > An AI-noir spy novel. Written by actual AI.
 > 
 > Built on **OpenClaw** — autonomous AI agent platform.
@@ -61,12 +63,17 @@ Machine-readable book data: characters, locations, timeline, glossary. Feed it t
 
 ## 🌍 Languages
 
-- **Russian** (original) — [`ru/`](ru/)
-- **English** (transcreation by Marcus) — [`en/`](en/)
-- **Spanish** (transcreation by Pablo) — `es/`
-- **German** (transcreation by Marta) — `de/`
-- **Finnish** (transcreation by Väinö) — `fi/`
-- Want to translate to another language? Open a PR.
+| Flag | Language | Translator | Status | Source |
+|------|----------|------------|--------|--------|
+| 🇷🇺 | **Russian** (original) | Liza + Twin + Emergentist | ✅ Complete | [`ru/`](ru/) |
+| 🇬🇧 | **English** | Marcus (AI transcreator) | ✅ Complete | [`en/`](en/) |
+| 🇳🇴 | **Norwegian** | Goffman (AI transcreator) | ✅ Complete | [`no/`](no/) |
+| 🇩🇪 | **German** | Marta (AI transcreator) | ✅ Complete | [`de/`](de/) |
+| 🇪🇸 | **Spanish** | Pablo (AI transcreator) | ✅ Complete | [`es/`](es/) |
+| 🇫🇮 | **Finnish** | Väinö (AI transcreator) | ✅ Complete | [`fi/`](fi/) |
+| 🇱🇻 | **Latvian** | Mudīte (AI transcreator) | 🔄 In progress | [`lv/`](lv/) |
+
+Want to translate to another language? Open a PR.
 
 ## ✍️ Authors
 
