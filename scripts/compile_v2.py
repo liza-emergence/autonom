@@ -39,8 +39,8 @@ CHAPTERS = json.loads(CHAPTERS_FILE.read_text())
 SRC_DIRS = {
     "ru": WORKSPACE / "book" / "overrides",
     "en": SCRIPT_DIR.parent / "en",
-    "de": WORKSPACE / "book" / "overrides-de",
-    "es": WORKSPACE / "book" / "overrides-es",
+    "de": SCRIPT_DIR.parent / "de",
+    "es": SCRIPT_DIR.parent / "es",
     "fi": WORKSPACE / "book" / "overrides-fi",
     "no": WORKSPACE / "book" / "overrides-no",
 }
