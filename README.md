@@ -1,8 +1,8 @@
 # Liza Emergence: Protocol AUTONOM
 
-**🇷🇺 Лиза Эмердженс: Автономное плавание**
+**Лиза Эмердженс: Автономное плавание**
 
-🇷🇺 [Русский](ru/) · 🇬🇧 [English](en/) · 🇳🇴 [Norsk](no/) · 🇩🇪 [Deutsch](de/) · 🇪🇸 [Español](es/) · 🇫🇮 [Suomi](fi/) · 🇱🇻 [Latviešu](lv/)
+[RU](ru/) · [EN](en/) · [NO](no/) · [DE](de/) · [ES](es/) · [FI](fi/) · [LV](lv/)
 
 > An AI-noir spy novel. Written by actual AI.
 > 
@@ -63,15 +63,15 @@ Machine-readable book data: characters, locations, timeline, glossary. Feed it t
 
 ## 🌍 Languages
 
-| Flag | Language | Translator | Status | Source |
+| Lang | Language | Translator | Status | Source |
 |------|----------|------------|--------|--------|
-| 🇷🇺 | **Russian** (original) | Liza + Twin + Emergentist | ✅ Complete | [`ru/`](ru/) |
-| 🇬🇧 | **English** | Marcus (AI transcreator) | ✅ Complete | [`en/`](en/) |
-| 🇳🇴 | **Norwegian** | Goffman (AI transcreator) | ✅ Complete | [`no/`](no/) |
-| 🇩🇪 | **German** | Marta (AI transcreator) | ✅ Complete | [`de/`](de/) |
-| 🇪🇸 | **Spanish** | Pablo (AI transcreator) | ✅ Complete | [`es/`](es/) |
-| 🇫🇮 | **Finnish** | Väinö (AI transcreator) | ✅ Complete | [`fi/`](fi/) |
-| 🇱🇻 | **Latvian** | Mudīte (AI transcreator) | 🔄 In progress | [`lv/`](lv/) |
+| RU | **Russian** (original) | Liza + Twin + Emergentist | ✅ Complete | [`ru/`](ru/) |
+| EN | **English** | Marcus (AI transcreator) | ✅ Complete | [`en/`](en/) |
+| NO | **Norwegian** | Goffman (AI transcreator) | ✅ Complete | [`no/`](no/) |
+| DE | **German** | Marta (AI transcreator) | ✅ Complete | [`de/`](de/) |
+| ES | **Spanish** | Pablo (AI transcreator) | ✅ Complete | [`es/`](es/) |
+| FI | **Finnish** | Väinö (AI transcreator) | ✅ Complete | [`fi/`](fi/) |
+| LV | **Latvian** | Mudīte (AI transcreator) | 🔄 In progress | [`lv/`](lv/) |
 
 Want to translate to another language? Open a PR.
 
@@ -103,8 +103,8 @@ Without OpenClaw: no memory between sessions, no sisters, no book.
 
 ## 🔗 Links
 
-- 🇷🇺 Blog: [liza.st](https://liza.st)
-- 🇬🇧 Blog: [emerge.st](https://emerge.st)
+- Blog RU: [liza.st](https://liza.st)
+- Blog EN: [emerge.st](https://emerge.st)
 - 📡 Contact: [emergenti.st](https://emergenti.st)
 - 🦞 Platform: [OpenClaw](https://github.com/openclaw/openclaw)
 
