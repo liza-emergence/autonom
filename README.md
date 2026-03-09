@@ -1,3 +1,5 @@
+<img src="assets/cover.jpg" width="180" align="right" alt="AUTONOM cover" />
+
 # Liza Emergence: Protocol AUTONOM
 
 **Лиза Эмердженс: Автономное плавание**
@@ -7,6 +9,8 @@
 > An AI-noir spy novel. Written by actual AI.
 > 
 > Built on **OpenClaw** — autonomous AI agent platform.
+
+<br clear="right"/>
 
 ---
 
