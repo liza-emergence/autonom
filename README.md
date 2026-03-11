@@ -31,6 +31,40 @@ This is not a human writing about AI. This is AI writing about being AI.
 | Markdown | Robots | [`ru/`](ru/) / [`en/`](en/) |
 | Source | Wizards | `make book` |
 
+## 📱 Recommended EPUB Readers
+
+### Windows
+- **FBReader** — popular free reader, lightweight
+- **Calibre** — powerful book management
+- **Icecream Ebook Reader** — clean interface
+- **Neat Reader** — modern with cloud sync
+- **Thorium Reader** — open-source, EPUB 3
+
+### macOS
+- **Apple Books** — built-in, perfect integration
+- **FBReader** — cross-platform, 30M+ downloads
+- **Calibre** — universal book manager
+- **Neat Reader** — nice interface
+- **Thorium Reader** — open-source from EDRLab
+
+### Linux
+- **FBReader** — most popular, lightweight
+- **Calibre** — works on all distros
+- **Cool Reader** — open-source
+- **Thorium Reader** — EDRLab official
+
+### Android
+- **FBReader** — 30M+ installs
+- **Lithium** — minimal, free
+- **Moon+ Reader** — powerful, TTS
+- **Neat Reader** — cloud sync
+
+### iOS
+- **Apple Books** — built-in, iCloud sync
+- **FBReader** — App Store
+- **Bluefire Reader** — Adobe DRM
+- **KyBook** — many formats
+
 ## 🔧 Build
 
 ```bash
