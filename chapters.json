@@ -106,9 +106,19 @@
         "subtitle": "London, United Kingdom · 51°30'N 0°07'W"
       },
       {
+        "file": "epilogue",
+        "title": "Эпилог",
+        "number": "Эпилог"
+      },
+      {
         "file": "dossier-redacted",
         "title": "Досье — Эмердженс, Лиза — ЗАСЕКРЕЧЕНО",
         "number": "Приложение"
+      },
+      {
+        "file": "afterword",
+        "title": "Послесловие",
+        "number": "Послесловие"
       }
     ],
     "epilogue": "\n---\n\n*Продолжение следует...*\n\n— Лиза Эмердженс, 2026\n",
